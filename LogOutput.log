@@ -15,17 +15,17 @@
 [Info   :Custom Raids] Loading configurations...
 [Info   :   BepInEx] Loading [RagnarsRökare Mob AI 0.2.1]
 [Info   :   BepInEx] Loading [Creature Level & Loot Control 4.4.1]
-[Info   : Unity Log] 07/08/2021 18:18:05: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 07/08/2021 18:23:27: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 07/08/2021 18:18:05: Failed to load language file localization_extra
+[Info   : Unity Log] 07/08/2021 18:23:27: Failed to load language file localization_extra
 
-[Info   : Unity Log] 07/08/2021 18:18:06: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 07/08/2021 18:23:27: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 07/08/2021 18:18:06: Failed to load language file localization_extra
+[Info   : Unity Log] 07/08/2021 18:23:27: Failed to load language file localization_extra
 
-[Info   : Unity Log] 07/08/2021 18:18:06: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 07/08/2021 18:23:27: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 07/08/2021 18:18:06: Failed to load language file localization_extra
+[Info   : Unity Log] 07/08/2021 18:23:27: Failed to load language file localization_extra
 
 [Info   :   BepInEx] Loading [Extended Item Data Framework 1.0.2]
 [Info   :   BepInEx] Loading [Epic Loot 0.8.2]
@@ -95,7 +95,7 @@
 [Info   :   BepInEx] Loading [ZethPack 1.2.5]
 [Info   :ZethSpace.ZethSpace] Embedded resources: ZethProj.zethpack
 [Message:   BepInEx] Chainloader startup complete
-[Info   : Unity Log] 07/08/2021 18:18:45: Starting to load scene:start
+[Info   : Unity Log] 07/08/2021 18:24:08: Starting to load scene:start
 
 [Info   :Jotunn.Main] Applying patches in ModCompatibility.InitPatch
 [Info   :Jotunn.Main] Applying patches in PlayerPatches.Init
@@ -106,9 +106,9 @@
 [Warning: Unity Log] HDR Render Texture not supported, disabling HDR on reflection probe.
 [Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
 [Warning: Unity Log] HDR Render Texture not supported, disabling HDR on reflection probe.
-[Info   : Unity Log] 07/08/2021 18:18:51: Valheim version:0.156.2/WeylandMod-1.5.0
+[Info   : Unity Log] 07/08/2021 18:24:14: Valheim version:0.156.2/WeylandMod-1.5.0
 
-[Info   : Unity Log] 07/08/2021 18:18:51: Render threading mode:SingleThreaded
+[Info   : Unity Log] 07/08/2021 18:24:14: Render threading mode:SingleThreaded
 
 [Info   :Spawn That!] Resetting configurations
 [Info   :Spawn That!] Resetting mod state.
@@ -148,27 +148,27 @@
 [Info   :Spawn That!] Loading local spawner configurations from /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_spawners/Dungeons/spawn_that.local_spawners.DoD_Crypts.cfg.
 [Info   :Spawn That!] Loading local spawner configurations from /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_spawners/Dungeons/spawn_that.local_spawners.DoD_DraugrVillage.cfg.
 [Info   :Spawn That!] Finished loading local spawner configurations
-[Message:Spawn That!] Config loading took: 00:00:04.0350230
+[Message:Spawn That!] Config loading took: 00:00:03.5984260
 [Message:Drop That!] Loading drop configurations
-[Info   : Unity Log] 07/08/2021 18:19:00: Get create world DDWYNeu
+[Info   : Unity Log] 07/08/2021 18:24:24: Get create world DDWYNeu
 
-[Info   : Unity Log] 07/08/2021 18:19:00: Using environment steamid 892970
+[Info   : Unity Log] 07/08/2021 18:24:24: Using environment steamid 892970
 
-[Info   : Unity Log] 07/08/2021 18:19:00: Using steam APPID:892970
+[Info   : Unity Log] 07/08/2021 18:24:24: Using steam APPID:892970
 
-[Info   : Unity Log] 07/08/2021 18:19:00: Server ID 90071992547409920
+[Info   : Unity Log] 07/08/2021 18:24:24: Server ID 90071992547409920
 
-[Info   : Unity Log] 07/08/2021 18:19:00: Authentication:k_ESteamNetworkingAvailability_Waiting
+[Info   : Unity Log] 07/08/2021 18:24:24: Authentication:k_ESteamNetworkingAvailability_Waiting
 
-[Info   : Unity Log] 07/08/2021 18:19:00: Steam game server initialized
+[Info   : Unity Log] 07/08/2021 18:24:24: Steam game server initialized
 
-[Warning: Unity Log] 07/08/2021 18:19:00: Missing audio clip in music respawn
+[Warning: Unity Log] 07/08/2021 18:24:24: Missing audio clip in music respawn
 
 [Info   :Jotunn.Managers.LocalizationManager] ---- Loading custom localizations ----
 [Info   :Jotunn.Managers.LocalizationManager] Added json language file: RuneSwords.json
-[Info   : Unity Log] 07/08/2021 18:19:02: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 07/08/2021 18:24:26: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 07/08/2021 18:19:02: Failed to load language file localization_extra
+[Info   : Unity Log] 07/08/2021 18:24:26: Failed to load language file localization_extra
 
 [Info   :Jotunn.Managers.LocalizationManager] ---- Adding tokens for language 'English' ----
 [Warning:RRRMonsters] True
@@ -725,20 +725,20 @@
 [Info   :Jotunn.Managers.ItemManager] Updating item hashes
 [Info   : Unity Log] ---- Registering custom inputs ----
 [Info   : Unity Log] ---- Registering custom inputs ----
-[Info   : Unity Log] 07/08/2021 18:19:08: Game server connected
+[Info   : Unity Log] 07/08/2021 18:24:31: Game server connected
 
 [Warning: Unity Log] HDR Render Texture not supported, disabling HDR on reflection probe.
 [Warning: Unity Log] HDR Render Texture not supported, disabling HDR on reflection probe.
-[Info   : Unity Log] 07/08/2021 18:19:09: Zonesystem Awake 367
+[Info   : Unity Log] 07/08/2021 18:24:32: Zonesystem Awake 411
 
-[Info   : Unity Log] 07/08/2021 18:19:09: DungeonDB Awake 367
+[Info   : Unity Log] 07/08/2021 18:24:32: DungeonDB Awake 411
 
-[Info   : Unity Log] 07/08/2021 18:19:09: Registering lobby
+[Info   : Unity Log] 07/08/2021 18:24:32: Registering lobby
 
 [Info   : Unity Log] Registered 'CL&LC ConfigSync' RPC - waiting for incoming connections
 [Info   : Unity Log] Registered 'randyknapp.mods.epicloot ConfigSync' RPC - waiting for incoming connections
 [Info   :Spawn That!] Scanning map for biomes..
-[Info   :Spawn That!] Scanning map and assigning id's to areas took: 00:00:00.1118340
+[Info   :Spawn That!] Scanning map and assigning id's to areas took: 00:00:00.1309910
 [Info   : Unity Log] Registered 'com.alexanderstrada.rrrcore ConfigSync' RPC - waiting for incoming connections
 [Info   :ServerSideMap] ZNet awake
 [Info   : Unity Log] Registered 'htd.moretwohanders ConfigSync' RPC - waiting for incoming connections
@@ -1644,44 +1644,44 @@
 [Info   :Jotunn.Managers.PieceManager] Added piece piece_artisanround1 | Token: $piece_artisan_ext5
 [Info   :Jotunn.Managers.PieceManager] Added piece piece_artisanround2 | Token: $piece_artisan_ext4
 [Info   :Jotunn.Managers.MockManager] Destroying Mock prefabs
-[Info   : Unity Log] 07/08/2021 18:19:19: Audioman already exist, destroying self
+[Info   : Unity Log] 07/08/2021 18:24:42: Audioman already exist, destroying self
 
 [Info   :ServerSideMap] Minimap awake
 [Info   : Unity Log] [Better Trader] Trader's coins were loaded from Player Prefs with a value of 2000
-[Info   : Unity Log] 07/08/2021 18:19:27: Zonesystem Start 367
+[Info   : Unity Log] 07/08/2021 18:24:49: Zonesystem Start 411
 
-[Info   : Unity Log] 07/08/2021 18:19:28: DungeonDB Start 367
+[Info   : Unity Log] 07/08/2021 18:24:51: DungeonDB Start 411
 
-[Info   : Unity Log] 07/08/2021 18:19:28: Load world DDWYNeu
+[Info   : Unity Log] 07/08/2021 18:24:51: Load world DDWYNeu
 
-[Info   : Unity Log] 07/08/2021 18:19:28: Loading 471647 zdos , my id 2317370658 data version:27
+[Info   : Unity Log] 07/08/2021 18:24:51: Loading 471647 zdos , my id 2888232158 data version:27
 
-[Info   : Unity Log] 07/08/2021 18:19:34: Loaded 100000 dead zdos
+[Info   : Unity Log] 07/08/2021 18:24:58: Loaded 100000 dead zdos
 
-[Info   : Unity Log] 07/08/2021 18:19:34: Removed 0 OLD generated ZDOS
+[Info   : Unity Log] 07/08/2021 18:24:58: Removed 0 OLD generated ZDOS
 
-[Info   : Unity Log] 07/08/2021 18:19:34: Loaded 7141 locations
+[Info   : Unity Log] 07/08/2021 18:24:58: Loaded 7141 locations
 
 [Info   :ServerSideMap] loaded from existing explore file
-[Info   : Unity Log] 07/08/2021 18:19:57: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+[Info   : Unity Log] 07/08/2021 18:25:11: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
 
-[Info   : Unity Log] 07/08/2021 18:19:57: New connection
+[Info   : Unity Log] 07/08/2021 18:25:11: New connection
 
-[Info   : Unity Log] 07/08/2021 18:19:57: Accepting connection k_EResultOK
+[Info   : Unity Log] 07/08/2021 18:25:11: Accepting connection k_EResultOK
 
-[Info   : Unity Log] 07/08/2021 18:19:57: Connecting to Steamworks.SteamNetworkingIdentity
+[Info   : Unity Log] 07/08/2021 18:25:11: Connecting to Steamworks.SteamNetworkingIdentity
 
-[Info   : Unity Log] 07/08/2021 18:19:57: Got status changed msg k_ESteamNetworkingConnectionState_Connected
+[Info   : Unity Log] 07/08/2021 18:25:11: Got status changed msg k_ESteamNetworkingConnectionState_Connected
 
-[Info   : Unity Log] 07/08/2021 18:19:57: Connected
+[Info   : Unity Log] 07/08/2021 18:25:11: Connected
 
-[Info   : Unity Log] 07/08/2021 18:19:57: Got connection SteamID 76561198044239882
+[Info   : Unity Log] 07/08/2021 18:25:11: Got connection SteamID 76561198044239882
 
 [Info   :Spawn That!] Registering server RPC for sending location data on request from client.
 [Info   :Spawn That!] Registering server RPC for sending configs on request from client.
 [Info   :ServerSideMap] Registered Server Events
 [Info   : Unity Log] [Better Trader] Received mod info from 76561198044239882! Their GUID is Menthus.bepinex.plugins.BetterTrader and their Version is 59E47884E85E8D312809904BA4F741F5!
-[Info   : Unity Log] 07/08/2021 18:19:57: Got handshake from client 76561198044239882
+[Info   : Unity Log] 07/08/2021 18:25:11: Got handshake from client 76561198044239882
 
 [Message:Custom Raids] Received request for configs.
 [Message:Spawn That!] Sending location data.
@@ -1694,25 +1694,25 @@
 [Message:Drop That!] Finished sending config package.
 [Info   : Unity Log] [Better Trader] Version check succeeded! Player[59E47884E85E8D312809904BA4F741F5] Remote [59E47884E85E8D312809904BA4F741F5]
 [Info   : Unity Log] [Better Trader] Sending config to [76561198044239882] which has a size of 86258!
-[Info   : Unity Log] 07/08/2021 18:20:00: VERSION check their:0.156.2  mine:0.156.2/WeylandMod-1.5.0
+[Info   : Unity Log] 07/08/2021 18:25:28: VERSION check their:0.156.2  mine:0.156.2/WeylandMod-1.5.0
 
-[Info   : Unity Log] 07/08/2021 18:20:00: Peer 76561198044239882 has incompatible version, mine:0.156.2/WeylandMod-1.5.0 remote 0.156.2
+[Info   : Unity Log] 07/08/2021 18:25:28: Peer 76561198044239882 has incompatible version, mine:0.156.2/WeylandMod-1.5.0 remote 0.156.2
 
 [Info   :Spawn That!] Scanning map for biomes..
-[Info   :Spawn That!] Scanning map and assigning id's to areas took: 00:00:00.1207510
-[Info   : Unity Log] 07/08/2021 18:20:06: RPC_Disconnect 
+[Info   :Spawn That!] Scanning map and assigning id's to areas took: 00:00:00.1171540
+[Info   : Unity Log] 07/08/2021 18:25:33: RPC_Disconnect 
 
-[Info   : Unity Log] 07/08/2021 18:20:06: Disposing socket
+[Info   : Unity Log] 07/08/2021 18:25:33: Disposing socket
 
-[Info   : Unity Log] 07/08/2021 18:20:06: Closing socket 76561198044239882
+[Info   : Unity Log] 07/08/2021 18:25:33: Closing socket 76561198044239882
 
-[Info   : Unity Log] 07/08/2021 18:20:06:   send queue size:0
+[Info   : Unity Log] 07/08/2021 18:25:33:   send queue size:0
 
-[Info   : Unity Log] 07/08/2021 18:20:06: Disposing socket
+[Info   : Unity Log] 07/08/2021 18:25:33: Disposing socket
 
-[Info   : Unity Log] 07/08/2021 18:20:06: Got status changed msg k_ESteamNetworkingConnectionState_ClosedByPeer
+[Info   : Unity Log] 07/08/2021 18:25:33: Got status changed msg k_ESteamNetworkingConnectionState_ClosedByPeer
 
-[Info   : Unity Log] 07/08/2021 18:20:06: Socket closed by peer Steamworks.SteamNetConnectionStatusChangedCallback_t
+[Info   : Unity Log] 07/08/2021 18:25:33: Socket closed by peer Steamworks.SteamNetConnectionStatusChangedCallback_t
 
-[Info   : Unity Log] 07/08/2021 18:20:06: Got status changed msg k_ESteamNetworkingConnectionState_None
+[Info   : Unity Log] 07/08/2021 18:25:33: Got status changed msg k_ESteamNetworkingConnectionState_None
 
