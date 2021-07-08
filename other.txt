@@ -1,0 +1,54 @@
+General:
+ssh root@164.68.110.183
+MsKA6F8hF5vSeLq9
+
+164.68.110.183:2456
+#Vanilla
+
+docker run -d \
+    --name valheim-server \
+    --cap-add=sys_nice \
+    --stop-timeout 120 \
+    -p 2456-2457:2456-2457/udp \
+    -v $HOME/valheim-server/config:/config \
+    -v $HOME/valheim-server/data:/opt/valheim \
+    -e SERVER_NAME="VallerWiki" \
+    -e WORLD_NAME="Soellichau" \
+    -e SERVER_PASS="secret" \
+    lloesche/valheim-server
+
+docker run -d \
+    --name valheim-server \
+    --cap-add=sys_nice \
+    --stop-timeout 120 \
+    -p 2456-2457:2456-2457/udp \
+    -v $HOME/valheim-server/config:/config \
+    -v $HOME/valheim-server/data:/opt/valheim \
+    -e SERVER_NAME="VallerWiki" \
+    -e WORLD_NAME="Soellichau" \
+    -e SERVER_PASS="secret" \
+    -e BEPINEX=true \
+    lloesche/valheim-server
+https://drive.google.com/open?id=1-TrIqBggITMTlr2LObd5k9IL_pNTBwUV&authuser=danielbartling%40gmail.com&usp=drive_fs
+https://drive.google.com/open?id=1-VA4Liy1iCj3SWRcOsVqhV65pS45LJ_x&authuser=danielbartling%40gmail.com&usp=drive_fs
+apt install python3-pip
+pip3 install gdown
+gdown https://drive.google.com/uc?id=1-VA4Liy1iCj3SWRcOsVqhV65pS45LJ
+docker rm -f $(docker ps -aq)
+docker exec -it valheim-server bash
+https://drive.google.com/open?id=1-VA4Liy1iCj3SWRcOsVqhV65pS45LJ_x&authuser=danielbartling%40gmail.com&usp=drive_fs
+https://drive.google.com/open?id=1-VA4Liy1iCj3SWRcOsVqhV65pS45LJ_x&authuser=danielbartling%40gmail.com&usp=drive_fs
+https://drive.google.com/open?id=1-VA4Liy1iCj3SWRcOsVqhV65pS45LJ_x&authuser=danielbartling%40gmail.com&usp=drive_fs
+https://drive.google.com/open?id=1-VA4Liy1iCj3SWRcOsVqhV65pS45LJ_x&authuser=danielbartling%40gmail.com&usp=drive_fs
+https://drive.google.com/open?id=1-VA4Liy1iCj3SWRcOsVqhV65pS45LJ_x&authuser=danielbartling%40gmail.com&usp=drive_fs
+####Start
+
+164.68.110.183:2456
+
+iptables -A INPUT -m state --state NEW -m tcp -p tcp --dport 2456 -j ACCEPT
+iptables -A INPUT -m state --state NEW -m tcp -p tcp --dport 2457 -j ACCEPT
+iptables -A INPUT -m state --state NEW -m tcp -p tcp --dport 2458 -j ACCEPT
+
+docker exec -it valheim-server bash
+cd /opt/valheim/bepinex/BepInEx
+ls -la
