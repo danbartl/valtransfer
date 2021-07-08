@@ -10,22 +10,22 @@
 [Info   :   BepInEx] Detected Unity version: v2019.4.24f1
 [Message:   BepInEx] Chainloader ready
 [Message:   BepInEx] Chainloader started
-[Info   :   BepInEx] 33 plugins to load
+[Info   :   BepInEx] 36 plugins to load
 [Info   :   BepInEx] Loading [Custom Raids 1.4.0]
 [Info   :Custom Raids] Loading configurations...
 [Info   :   BepInEx] Loading [RagnarsRökare Mob AI 0.2.1]
 [Info   :   BepInEx] Loading [Creature Level & Loot Control 4.4.1]
-[Info   : Unity Log] 07/08/2021 13:23:56: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 07/08/2021 16:30:09: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 07/08/2021 13:23:56: Failed to load language file localization_extra
+[Info   : Unity Log] 07/08/2021 16:30:09: Failed to load language file localization_extra
 
-[Info   : Unity Log] 07/08/2021 13:23:56: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 07/08/2021 16:30:09: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 07/08/2021 13:23:56: Failed to load language file localization_extra
+[Info   : Unity Log] 07/08/2021 16:30:09: Failed to load language file localization_extra
 
-[Info   : Unity Log] 07/08/2021 13:23:56: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 07/08/2021 16:30:10: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 07/08/2021 13:23:56: Failed to load language file localization_extra
+[Info   : Unity Log] 07/08/2021 16:30:10: Failed to load language file localization_extra
 
 [Info   :   BepInEx] Loading [Extended Item Data Framework 1.0.2]
 [Info   :   BepInEx] Loading [Epic Loot 0.8.2]
@@ -74,6 +74,7 @@
 [Info   :   BepInEx] Loading [DoD Monsters 0.1.2]
 [Info   :   BepInEx] Loading [MonsterLabZ 1.6.0]
 [Info   :   BepInEx] Loading [More Two Handed Weapons 4.2.2]
+[Info   :   BepInEx] Loading [kginspct 0.2.0]
 [Info   :   BepInEx] Loading [BetterTrader 2.0.4.0]
 [Info   :   BepInEx] Loading [Stamina Regeneration from Food 1.3]
 [Info   :   BepInEx] Loading [Display BepInEx Info In-Game 1.1.0]
@@ -85,10 +86,15 @@
 [Info   :   BepInEx] Loading [FriendliesAssets 0.0.8]
 [Info   :   BepInEx] Loading [Trash Items Mod 1.2.3]
 [Info   :Trash Items Mod] TrashItems Loaded!
+[Info   :   BepInEx] Loading [WeylandMod.Core 1.5.0]
+[Info   :WeylandMod.Core] WeylandMod.Core Location=/opt/valheim/bepinex/BepInEx/plugins/WeylandMod-WeylandMod_Core/WeylandMod.Core.dll
+[Info   :   BepInEx] Loading [WeylandMod.SharedMap 1.5.0]
+[Info   :WeylandMod.SharedMap] WeylandMod.SharedMap Location=/opt/valheim/bepinex/BepInEx/plugins/WeylandMod-WeylandMod_SharedMap/WeylandMod.SharedMap.dll
+[Info   :WeylandMod.Core] RegisterFeature Name=SharedMap
 [Info   :   BepInEx] Loading [ZethPack 1.2.5]
 [Info   :ZethSpace.ZethSpace] Embedded resources: ZethProj.zethpack
 [Message:   BepInEx] Chainloader startup complete
-[Info   : Unity Log] 07/08/2021 13:24:37: Starting to load scene:start
+[Info   : Unity Log] 07/08/2021 16:31:04: Starting to load scene:start
 
 [Info   :Jotunn.Main] Applying patches in ModCompatibility.InitPatch
 [Info   :Jotunn.Main] Applying patches in PlayerPatches.Init
@@ -99,9 +105,9 @@
 [Warning: Unity Log] HDR Render Texture not supported, disabling HDR on reflection probe.
 [Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
 [Warning: Unity Log] HDR Render Texture not supported, disabling HDR on reflection probe.
-[Info   : Unity Log] 07/08/2021 13:24:43: Valheim version:0.156.2
+[Info   : Unity Log] 07/08/2021 16:31:22: Valheim version:0.156.2/WeylandMod-1.5.0
 
-[Info   : Unity Log] 07/08/2021 13:24:43: Render threading mode:SingleThreaded
+[Info   : Unity Log] 07/08/2021 16:31:22: Render threading mode:SingleThreaded
 
 [Info   :Spawn That!] Resetting configurations
 [Info   :Spawn That!] Resetting mod state.
@@ -141,27 +147,27 @@
 [Info   :Spawn That!] Loading local spawner configurations from /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_spawners/Dungeons/spawn_that.local_spawners.DoD_Crypts.cfg.
 [Info   :Spawn That!] Loading local spawner configurations from /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_spawners/Dungeons/spawn_that.local_spawners.DoD_DraugrVillage.cfg.
 [Info   :Spawn That!] Finished loading local spawner configurations
-[Message:Spawn That!] Config loading took: 00:00:03.3164320
+[Message:Spawn That!] Config loading took: 00:00:04.2551130
 [Message:Drop That!] Loading drop configurations
-[Info   : Unity Log] 07/08/2021 13:24:51: Get create world DDWYNeu
+[Info   : Unity Log] 07/08/2021 16:31:32: Get create world DDWYNeu
 
-[Info   : Unity Log] 07/08/2021 13:24:51: Using environment steamid 892970
+[Info   : Unity Log] 07/08/2021 16:31:32: Using environment steamid 892970
 
-[Info   : Unity Log] 07/08/2021 13:24:51: Using steam APPID:892970
+[Info   : Unity Log] 07/08/2021 16:31:32: Using steam APPID:892970
 
-[Info   : Unity Log] 07/08/2021 13:24:51: Server ID 90071992547409920
+[Info   : Unity Log] 07/08/2021 16:31:33: Server ID 90071992547409920
 
-[Info   : Unity Log] 07/08/2021 13:24:51: Authentication:k_ESteamNetworkingAvailability_Waiting
+[Info   : Unity Log] 07/08/2021 16:31:33: Authentication:k_ESteamNetworkingAvailability_Waiting
 
-[Info   : Unity Log] 07/08/2021 13:24:51: Steam game server initialized
+[Info   : Unity Log] 07/08/2021 16:31:33: Steam game server initialized
 
-[Warning: Unity Log] 07/08/2021 13:24:51: Missing audio clip in music respawn
+[Warning: Unity Log] 07/08/2021 16:31:33: Missing audio clip in music respawn
 
 [Info   :Jotunn.Managers.LocalizationManager] ---- Loading custom localizations ----
 [Info   :Jotunn.Managers.LocalizationManager] Added json language file: RuneSwords.json
-[Info   : Unity Log] 07/08/2021 13:24:53: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 07/08/2021 16:31:34: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 07/08/2021 13:24:53: Failed to load language file localization_extra
+[Info   : Unity Log] 07/08/2021 16:31:34: Failed to load language file localization_extra
 
 [Info   :Jotunn.Managers.LocalizationManager] ---- Adding tokens for language 'English' ----
 [Warning:RRRMonsters] True
@@ -718,20 +724,20 @@
 [Info   :Jotunn.Managers.ItemManager] Updating item hashes
 [Info   : Unity Log] ---- Registering custom inputs ----
 [Info   : Unity Log] ---- Registering custom inputs ----
-[Info   : Unity Log] 07/08/2021 13:24:58: Game server connected
+[Info   : Unity Log] 07/08/2021 16:31:41: Game server connected
 
 [Warning: Unity Log] HDR Render Texture not supported, disabling HDR on reflection probe.
 [Warning: Unity Log] HDR Render Texture not supported, disabling HDR on reflection probe.
-[Info   : Unity Log] 07/08/2021 13:24:59: Zonesystem Awake 309
+[Info   : Unity Log] 07/08/2021 16:31:43: Zonesystem Awake 509
 
-[Info   : Unity Log] 07/08/2021 13:24:59: DungeonDB Awake 309
+[Info   : Unity Log] 07/08/2021 16:31:43: DungeonDB Awake 509
 
-[Info   : Unity Log] 07/08/2021 13:24:59: Registering lobby
+[Info   : Unity Log] 07/08/2021 16:31:43: Registering lobby
 
 [Info   : Unity Log] Registered 'CL&LC ConfigSync' RPC - waiting for incoming connections
 [Info   : Unity Log] Registered 'randyknapp.mods.epicloot ConfigSync' RPC - waiting for incoming connections
 [Info   :Spawn That!] Scanning map for biomes..
-[Info   :Spawn That!] Scanning map and assigning id's to areas took: 00:00:00.1085990
+[Info   :Spawn That!] Scanning map and assigning id's to areas took: 00:00:00.2075120
 [Info   : Unity Log] Registered 'com.alexanderstrada.rrrcore ConfigSync' RPC - waiting for incoming connections
 [Info   : Unity Log] Registered 'htd.moretwohanders ConfigSync' RPC - waiting for incoming connections
 [Info   : Unity Log] ---- Registering custom prefabs ----
@@ -1636,51 +1642,41 @@
 [Info   :Jotunn.Managers.PieceManager] Added piece piece_artisanround1 | Token: $piece_artisan_ext5
 [Info   :Jotunn.Managers.PieceManager] Added piece piece_artisanround2 | Token: $piece_artisan_ext4
 [Info   :Jotunn.Managers.MockManager] Destroying Mock prefabs
-[Info   : Unity Log] 07/08/2021 13:25:11: Audioman already exist, destroying self
+[Info   : Unity Log] 07/08/2021 16:31:57: Audioman already exist, destroying self
 
 [Info   : Unity Log] [Better Trader] Trader's coins were loaded from Player Prefs with a value of 2000
-[Info   : Unity Log] 07/08/2021 13:25:19: Zonesystem Start 309
+[Info   : Unity Log] 07/08/2021 16:32:09: Zonesystem Start 509
 
-[Info   : Unity Log] 07/08/2021 13:25:20: DungeonDB Start 309
+[Info   : Unity Log] 07/08/2021 16:32:11: DungeonDB Start 509
 
-[Info   : Unity Log] 07/08/2021 13:25:21: Load world DDWYNeu
+[Info   : Unity Log] 07/08/2021 16:32:11: Load world DDWYNeu
 
-[Info   : Unity Log] 07/08/2021 13:25:21: Loading 471647 zdos , my id -1537446052 data version:27
+[Info   : Unity Log] 07/08/2021 16:32:11: Loading 471647 zdos , my id -131745880 data version:27
 
-[Info   : Unity Log] 07/08/2021 13:25:28: Loaded 100000 dead zdos
+[Info   : Unity Log] 07/08/2021 16:32:23: Loaded 100000 dead zdos
 
-[Info   : Unity Log] 07/08/2021 13:25:28: Removed 0 OLD generated ZDOS
+[Info   : Unity Log] 07/08/2021 16:32:23: Removed 0 OLD generated ZDOS
 
-[Info   : Unity Log] 07/08/2021 13:25:28: Loaded 7141 locations
+[Info   : Unity Log] 07/08/2021 16:32:23: Loaded 7141 locations
 
-[Info   : Unity Log] 07/08/2021 13:25:29: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+[Info   : Unity Log] 07/08/2021 16:32:30: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
 
-[Info   : Unity Log] 07/08/2021 13:25:29: New connection
+[Info   : Unity Log] 07/08/2021 16:32:30: New connection
 
-[Info   : Unity Log] 07/08/2021 13:25:29: Accepting connection k_EResultInvalidState
+[Info   : Unity Log] 07/08/2021 16:32:30: Accepting connection k_EResultOK
 
-[Info   : Unity Log] 07/08/2021 13:25:29: Got status changed msg k_ESteamNetworkingConnectionState_ClosedByPeer
+[Info   : Unity Log] 07/08/2021 16:32:30: Connecting to Steamworks.SteamNetworkingIdentity
 
-[Info   : Unity Log] 07/08/2021 13:25:29: Socket closed by peer Steamworks.SteamNetConnectionStatusChangedCallback_t
+[Info   : Unity Log] 07/08/2021 16:32:30: Got status changed msg k_ESteamNetworkingConnectionState_Connected
 
-[Info   : Unity Log] 07/08/2021 13:25:42: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+[Info   : Unity Log] 07/08/2021 16:32:30: Connected
 
-[Info   : Unity Log] 07/08/2021 13:25:42: New connection
-
-[Info   : Unity Log] 07/08/2021 13:25:42: Accepting connection k_EResultOK
-
-[Info   : Unity Log] 07/08/2021 13:25:42: Connecting to Steamworks.SteamNetworkingIdentity
-
-[Info   : Unity Log] 07/08/2021 13:25:42: Got status changed msg k_ESteamNetworkingConnectionState_Connected
-
-[Info   : Unity Log] 07/08/2021 13:25:42: Connected
-
-[Info   : Unity Log] 07/08/2021 13:25:42: Got connection SteamID 76561198044239882
+[Info   : Unity Log] 07/08/2021 16:32:30: Got connection SteamID 76561198044239882
 
 [Info   :Spawn That!] Registering server RPC for sending location data on request from client.
 [Info   :Spawn That!] Registering server RPC for sending configs on request from client.
 [Info   : Unity Log] [Better Trader] Received mod info from 76561198044239882! Their GUID is Menthus.bepinex.plugins.BetterTrader and their Version is 59E47884E85E8D312809904BA4F741F5!
-[Info   : Unity Log] 07/08/2021 13:25:42: Got handshake from client 76561198044239882
+[Info   : Unity Log] 07/08/2021 16:32:30: Got handshake from client 76561198044239882
 
 [Message:Custom Raids] Received request for configs.
 [Message:Spawn That!] Sending location data.
@@ -1693,311 +1689,303 @@
 [Message:Drop That!] Finished sending config package.
 [Info   : Unity Log] [Better Trader] Version check succeeded! Player[59E47884E85E8D312809904BA4F741F5] Remote [59E47884E85E8D312809904BA4F741F5]
 [Info   : Unity Log] [Better Trader] Sending config to [76561198044239882] which has a size of 86258!
-[Info   : Unity Log] 07/08/2021 13:25:47: VERSION check their:0.156.2  mine:0.156.2
+[Info   : Unity Log] 07/08/2021 16:32:34: VERSION check their:0.156.2/WeylandMod-1.5.0  mine:0.156.2/WeylandMod-1.5.0
 
-[Info   : Unity Log] 07/08/2021 13:25:47: Server: New peer connected,sending global keys
+[Info   : Unity Log] 07/08/2021 16:32:34: Server: New peer connected,sending global keys
 
 [Info   :Spawn That!] Scanning map for biomes..
-[Info   :Spawn That!] Scanning map and assigning id's to areas took: 00:00:00.0987120
-[Info   : Unity Log] 07/08/2021 13:25:47: Failed to send data k_EResultLimitExceeded
+[Info   :Spawn That!] Scanning map and assigning id's to areas took: 00:00:00.1251910
+[Info   : Unity Log] 07/08/2021 16:32:35: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:47: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:35: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:47: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:35: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:47: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:35: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:47: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:35: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:47: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:35: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:47: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:35: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:47: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:35: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:47: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:36: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:47: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:36: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:48: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:36: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:48: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:36: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:48: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:36: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:48: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:36: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:48: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:36: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:48: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:36: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:48: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:36: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:48: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:36: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:48: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:36: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:48: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:36: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:48: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:36: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:48: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:36: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:48: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:36: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:48: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:36: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:48: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:36: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:48: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:36: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:48: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:36: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:48: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:36: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:48: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:36: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:48: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:36: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:48: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:36: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:48: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:36: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:48: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:36: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:48: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:36: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:48: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:36: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:48: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:37: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:48: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:37: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:48: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:37: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:48: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:37: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:48: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:37: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:48: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:37: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:49: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:37: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:49: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:37: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:49: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:37: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:49: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:37: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:49: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:37: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:49: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:37: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:49: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:37: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:49: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:37: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:49: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:37: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:49: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:37: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:49: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:37: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:49: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:37: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:49: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:37: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:49: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:37: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:49: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:37: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:49: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:37: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:49: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:37: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:49: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:37: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:49: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:37: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:49: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:37: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:49: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:37: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:49: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:37: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:49: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:37: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:49: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:37: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:49: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:37: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:49: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:38: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:49: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:38: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:49: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:38: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:49: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:38: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:49: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:38: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:49: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:38: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:49: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:38: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:49: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:38: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:50: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:38: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:50: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:38: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:50: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:38: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:50: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:38: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:50: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:38: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:50: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:38: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:50: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:38: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:50: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:38: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:50: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:38: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:50: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:38: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:50: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:38: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:50: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:38: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:50: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:38: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:50: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:38: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:50: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:38: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:50: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:38: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:50: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:38: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:50: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:38: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:50: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:38: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:50: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:38: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:50: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:38: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:50: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:39: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:50: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:39: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:50: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:39: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:50: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:39: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:50: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:39: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:50: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:39: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:50: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:39: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:50: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:39: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:51: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:39: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:51: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:39: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:51: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:39: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:51: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:39: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:51: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:39: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:51: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:39: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:51: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:39: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:51: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:39: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:51: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:39: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:51: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:39: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:51: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:39: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:51: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:39: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:51: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:39: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:51: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:39: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:51: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:39: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:51: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:39: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:51: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:39: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:51: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:39: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:51: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:39: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:51: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:39: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:51: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:39: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:51: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:39: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:51: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:39: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:51: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:39: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:51: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:39: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:51: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:40: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:51: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:40: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:51: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:40: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:51: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:40: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:51: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:40: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:51: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:40: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:51: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:40: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:51: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:40: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:52: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:40: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:52: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:32:40: Failed to send data k_EResultLimitExceeded
 
-[Info   : Unity Log] 07/08/2021 13:25:52: Failed to send data k_EResultLimitExceeded
+[Info   :Jotunn.Managers.SynchronizationManager] Sending admin status to peer #-42634556: no admin
+[Info   :Jotunn.Managers.SynchronizationManager] Sending configuration data to peer #-42634556
+[Warning: Unity Log] 07/08/2021 16:34:39: ZRpc timeout detected
 
-[Info   : Unity Log] 07/08/2021 13:25:52: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:34:39: Closing socket 76561198044239882
 
-[Info   : Unity Log] 07/08/2021 13:25:52: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:34:39:   send queue size:0
 
-[Info   : Unity Log] 07/08/2021 13:25:52: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:34:39: Got status changed msg k_ESteamNetworkingConnectionState_None
 
-[Info   : Unity Log] 07/08/2021 13:25:52: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:34:39: Disposing socket
 
-[Info   : Unity Log] 07/08/2021 13:25:52: Failed to send data k_EResultLimitExceeded
+[Info   : Unity Log] 07/08/2021 16:34:39: Disposing socket
 
-[Info   : Unity Log] 07/08/2021 13:25:52: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:25:52: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:25:52: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:25:52: Failed to send data k_EResultLimitExceeded
-
-[Info   :Jotunn.Managers.SynchronizationManager] Sending admin status to peer #-965921674: no admin
-[Info   :Jotunn.Managers.SynchronizationManager] Sending configuration data to peer #-965921674
-[Info   : Unity Log] 07/08/2021 13:26:05: Got character ZDOID from Dampfschlag : -965921674:2000
+[Info   : Unity Log] 07/08/2021 16:42:27:  Connections 0 ZDOS:471728  sent:0 recv:0
 
 [Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
 [Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
@@ -2008,395 +1996,9 @@
 [Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
 [Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
 [Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] 07/08/2021 13:32:03: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+[Info   : Unity Log] 07/08/2021 16:52:49:  Connections 0 ZDOS:471728  sent:0 recv:0
 
-[Info   : Unity Log] 07/08/2021 13:32:03: New connection
-
-[Info   : Unity Log] 07/08/2021 13:32:03: Accepting connection k_EResultOK
-
-[Info   : Unity Log] 07/08/2021 13:32:03: Connecting to Steamworks.SteamNetworkingIdentity
-
-[Info   : Unity Log] 07/08/2021 13:32:03: Got status changed msg k_ESteamNetworkingConnectionState_Connected
-
-[Info   : Unity Log] 07/08/2021 13:32:03: Connected
-
-[Info   : Unity Log] 07/08/2021 13:32:03: Got connection SteamID 76561198373473756
-
-[Info   :Spawn That!] Registering server RPC for sending location data on request from client.
-[Info   :Spawn That!] Registering server RPC for sending configs on request from client.
-[Info   : Unity Log] [Better Trader] Received mod info from 76561198373473756! Their GUID is Menthus.bepinex.plugins.BetterTrader and their Version is 59E47884E85E8D312809904BA4F741F5!
-[Info   : Unity Log] 07/08/2021 13:32:03: Got handshake from client 76561198373473756
-
-[Message:Custom Raids] Received request for configs.
-[Message:Spawn That!] Sending location data.
-[Info   :Spawn That!] Serialized 45333 bytes of locations.
-[Info   :Spawn That!] Sending locations package.
-[Info   :Spawn That!] Finished sending locations package.
-[Message:Spawn That!] Sending  request for configs.
-[Message:Drop That!] Sending location data.
-[Message:Drop That!] Received request for configs.
-[Message:Drop That!] Finished sending config package.
-[Info   : Unity Log] [Better Trader] Version check succeeded! Player[59E47884E85E8D312809904BA4F741F5] Remote [59E47884E85E8D312809904BA4F741F5]
-[Info   : Unity Log] [Better Trader] Sending config to [76561198373473756] which has a size of 86258!
-[Info   : Unity Log] 07/08/2021 13:34:41: VERSION check their:0.156.2  mine:0.156.2
-
-[Info   : Unity Log] 07/08/2021 13:34:41: Server: New peer connected,sending global keys
-
-[Info   :Spawn That!] Scanning map for biomes..
-[Info   :Spawn That!] Scanning map and assigning id's to areas took: 00:00:00.2274830
-[Info   : Unity Log] 07/08/2021 13:34:42: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:42: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:42: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:42: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:42: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:42: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:42: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:42: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:42: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:42: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:42: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:42: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:42: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:42: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:42: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:42: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:42: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:42: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:42: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:43: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:43: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:43: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:43: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:43: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:43: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:43: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:43: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:43: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:43: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:43: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:43: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:43: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:43: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:43: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:43: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:43: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:43: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:43: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:43: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:43: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:43: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:43: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:43: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:43: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:43: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:43: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:43: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:43: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:43: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:43: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:43: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:43: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:43: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:43: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:43: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:44: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:44: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:44: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:44: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:44: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:44: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:44: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:44: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:44: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:44: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:44: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:44: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:44: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:44: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:44: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:44: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:44: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:44: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:44: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:44: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:44: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:44: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:44: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:44: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:44: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:44: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:44: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:44: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:45: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:45: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:45: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:45: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:45: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:45: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:45: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:45: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:45: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:45: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:45: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:45: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:45: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:45: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:45: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:45: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:45: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:45: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:45: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:45: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:45: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:45: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:45: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:45: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:45: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:45: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:45: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:45: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:46: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:46: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:46: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:46: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:46: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:46: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:46: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:46: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:46: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:46: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:46: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:46: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:46: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:46: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:46: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:46: Failed to send data k_EResultLimitExceeded
-
-[Info   :Jotunn.Managers.SynchronizationManager] Sending admin status to peer #1378325452: no admin
-[Info   : Unity Log] 07/08/2021 13:34:46: Failed to send data k_EResultLimitExceeded
-
-[Info   :Jotunn.Managers.SynchronizationManager] Sending configuration data to peer #1378325452
-[Info   : Unity Log] 07/08/2021 13:34:46: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:46: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:46: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:46: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:46: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:46: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:46: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:46: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:46: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:46: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:46: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:46: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:46: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:46: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:46: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:46: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:46: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:46: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:46: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:47: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:47: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:47: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:47: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:47: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:47: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:47: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:47: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:47: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 13:34:56: Got character ZDOID from Robin : 1378325452:2001
-
-[Info   : Unity Log] 07/08/2021 13:35:53:  Connections 2 ZDOS:471763  sent:0 recv:642
-
-[Info   : Unity Log] 07/08/2021 13:39:14: RPC_Disconnect 
-
-[Info   : Unity Log] 07/08/2021 13:39:15: Destroying abandoned non persistent zdo 1378325452:2001 owner 1378325452
-
-[Info   : Unity Log] 07/08/2021 13:39:15: Destroying abandoned non persistent zdo 1378325452:2000 owner 1378325452
-
-[Info   : Unity Log] 07/08/2021 13:39:15: Destroying abandoned non persistent zdo 1378325452:2792 owner 1378325452
-
-[Info   : Unity Log] 07/08/2021 13:39:15: Destroying abandoned non persistent zdo 1378325452:2003 owner 1378325452
-
-[Info   : Unity Log] 07/08/2021 13:39:15: Destroying abandoned non persistent zdo 1378325452:1999 owner 1378325452
-
-[Info   : Unity Log] 07/08/2021 13:39:15: Destroying abandoned non persistent zdo 1378325452:1997 owner 1378325452
-
-[Info   : Unity Log] 07/08/2021 13:39:15: Destroying abandoned non persistent zdo 1378325452:1998 owner 1378325452
-
-[Info   : Unity Log] 07/08/2021 13:39:15: Destroying abandoned non persistent zdo 1378325452:2794 owner 1378325452
-
-[Info   : Unity Log] 07/08/2021 13:39:15: Destroying abandoned non persistent zdo 1378325452:2002 owner 1378325452
-
-[Info   : Unity Log] 07/08/2021 13:39:15: Destroying abandoned non persistent zdo 1378325452:2793 owner 1378325452
-
-[Info   : Unity Log] 07/08/2021 13:39:15: Disposing socket
-
-[Info   : Unity Log] 07/08/2021 13:39:15: Closing socket 76561198373473756
-
-[Info   : Unity Log] 07/08/2021 13:39:15:   send queue size:0
-
-[Info   : Unity Log] 07/08/2021 13:39:15: Disposing socket
-
-[Info   : Unity Log] 07/08/2021 13:39:15: Got status changed msg k_ESteamNetworkingConnectionState_ClosedByPeer
-
-[Info   : Unity Log] 07/08/2021 13:39:15: Socket closed by peer Steamworks.SteamNetConnectionStatusChangedCallback_t
-
-[Info   : Unity Log] 07/08/2021 13:39:15: Got status changed msg k_ESteamNetworkingConnectionState_None
+[Info   : Unity Log] 07/08/2021 16:52:54: clone 1923
 
 [Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
 [Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
@@ -2407,51 +2009,11 @@
 [Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
 [Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
 [Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] 07/08/2021 13:46:17:  Connections 1 ZDOS:471759  sent:0 recv:241
+[Info   : Unity Log] 07/08/2021 17:03:15:  Connections 0 ZDOS:471728  sent:0 recv:0
 
-[Info   : Unity Log] 07/08/2021 13:46:24: clone 3428
+[Info   : Unity Log] 07/08/2021 17:13:18:  Connections 0 ZDOS:471728  sent:0 recv:0
 
-[Info   : Unity Log] 07/08/2021 13:47:09: RPC_Disconnect 
-
-[Info   : Unity Log] 07/08/2021 13:47:09: Destroying abandoned non persistent zdo -965921674:4485 owner -965921674
-
-[Info   : Unity Log] 07/08/2021 13:47:09: Destroying abandoned non persistent zdo -965921674:4486 owner -965921674
-
-[Info   : Unity Log] 07/08/2021 13:47:09: Destroying abandoned non persistent zdo -965921674:4484 owner -965921674
-
-[Info   : Unity Log] 07/08/2021 13:47:09: Destroying abandoned non persistent zdo -965921674:4235 owner -965921674
-
-[Info   : Unity Log] 07/08/2021 13:47:09: Destroying abandoned non persistent zdo -965921674:2000 owner -965921674
-
-[Info   : Unity Log] 07/08/2021 13:47:09: Destroying abandoned non persistent zdo -965921674:4414 owner -965921674
-
-[Info   : Unity Log] 07/08/2021 13:47:09: Destroying abandoned non persistent zdo -965921674:4375 owner -965921674
-
-[Info   : Unity Log] 07/08/2021 13:47:09: Destroying abandoned non persistent zdo -965921674:4488 owner -965921674
-
-[Info   : Unity Log] 07/08/2021 13:47:09: Destroying abandoned non persistent zdo -965921674:4487 owner -965921674
-
-[Info   : Unity Log] 07/08/2021 13:47:09: Destroying abandoned non persistent zdo -965921674:4184 owner -965921674
-
-[Info   : Unity Log] 07/08/2021 13:47:09: Destroying abandoned non persistent zdo -965921674:4210 owner -965921674
-
-[Info   : Unity Log] 07/08/2021 13:47:09: Destroying abandoned non persistent zdo -965921674:3838 owner -965921674
-
-[Info   : Unity Log] 07/08/2021 13:47:09: Disposing socket
-
-[Info   : Unity Log] 07/08/2021 13:47:09: Closing socket 76561198044239882
-
-[Info   : Unity Log] 07/08/2021 13:47:09:   send queue size:0
-
-[Info   : Unity Log] 07/08/2021 13:47:09: Disposing socket
-
-[Info   : Unity Log] 07/08/2021 13:47:09: Got status changed msg k_ESteamNetworkingConnectionState_ClosedByPeer
-
-[Info   : Unity Log] 07/08/2021 13:47:09: Socket closed by peer Steamworks.SteamNetConnectionStatusChangedCallback_t
-
-[Info   : Unity Log] 07/08/2021 13:47:09: Got status changed msg k_ESteamNetworkingConnectionState_None
-
-[Info   : Unity Log] 07/08/2021 13:56:24:  Connections 0 ZDOS:471744  sent:0 recv:0
+[Info   : Unity Log] 07/08/2021 17:13:22: clone 1529
 
 [Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
 [Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
@@ -2462,9 +2024,7 @@
 [Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
 [Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
 [Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] 07/08/2021 14:06:48:  Connections 0 ZDOS:471744  sent:0 recv:0
-
-[Info   : Unity Log] 07/08/2021 14:06:53: clone 2350
+[Info   : Unity Log] 07/08/2021 17:23:40:  Connections 0 ZDOS:471728  sent:0 recv:0
 
 [Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
 [Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
@@ -2475,407 +2035,11 @@
 [Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
 [Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
 [Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] 07/08/2021 14:17:15:  Connections 0 ZDOS:471744  sent:0 recv:0
+[Info   : Unity Log] 07/08/2021 17:34:04:  Connections 0 ZDOS:471728  sent:0 recv:0
 
-[Info   : Unity Log] 07/08/2021 14:21:12: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+[Info   : Unity Log] 07/08/2021 17:34:08: clone 1944
 
-[Info   : Unity Log] 07/08/2021 14:21:12: New connection
-
-[Info   : Unity Log] 07/08/2021 14:21:12: Accepting connection k_EResultOK
-
-[Info   : Unity Log] 07/08/2021 14:21:12: Connecting to Steamworks.SteamNetworkingIdentity
-
-[Info   : Unity Log] 07/08/2021 14:21:12: Got status changed msg k_ESteamNetworkingConnectionState_Connected
-
-[Info   : Unity Log] 07/08/2021 14:21:12: Connected
-
-[Info   : Unity Log] 07/08/2021 14:21:12: Got connection SteamID 76561198373473756
-
-[Info   :Spawn That!] Registering server RPC for sending location data on request from client.
-[Info   :Spawn That!] Registering server RPC for sending configs on request from client.
-[Info   : Unity Log] [Better Trader] Received mod info from 76561198373473756! Their GUID is Menthus.bepinex.plugins.BetterTrader and their Version is 59E47884E85E8D312809904BA4F741F5!
-[Info   : Unity Log] 07/08/2021 14:21:12: Got handshake from client 76561198373473756
-
-[Message:Custom Raids] Received request for configs.
-[Message:Spawn That!] Sending location data.
-[Info   :Spawn That!] Serialized 45333 bytes of locations.
-[Info   :Spawn That!] Sending locations package.
-[Info   :Spawn That!] Finished sending locations package.
-[Message:Spawn That!] Sending  request for configs.
-[Message:Drop That!] Sending location data.
-[Message:Drop That!] Received request for configs.
-[Message:Drop That!] Finished sending config package.
-[Info   : Unity Log] [Better Trader] Version check succeeded! Player[59E47884E85E8D312809904BA4F741F5] Remote [59E47884E85E8D312809904BA4F741F5]
-[Info   : Unity Log] [Better Trader] Sending config to [76561198373473756] which has a size of 86258!
-[Info   : Unity Log] 07/08/2021 14:21:25: VERSION check their:0.156.2  mine:0.156.2
-
-[Info   : Unity Log] 07/08/2021 14:21:25: Server: New peer connected,sending global keys
-
-[Info   :Spawn That!] Scanning map for biomes..
-[Info   :Spawn That!] Scanning map and assigning id's to areas took: 00:00:00.1254110
-[Info   : Unity Log] 07/08/2021 14:21:26: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:26: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:26: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:26: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:26: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:26: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:26: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:26: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:26: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:26: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:26: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:26: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:26: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:26: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:26: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:26: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:26: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:26: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:26: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:26: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:26: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:26: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:26: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:26: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:26: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:26: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:26: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:26: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:26: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:26: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:26: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:27: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:27: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:27: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:27: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:27: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:27: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:27: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:27: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:27: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:27: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:27: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:27: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:27: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:27: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:27: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:27: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:27: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:27: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:27: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:27: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:27: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:27: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:27: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:27: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:27: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:27: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:27: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:27: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:27: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:27: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:28: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:28: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:28: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:28: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:28: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:28: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:28: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:28: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:28: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:28: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:28: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:28: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:28: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:28: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:28: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:28: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:28: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:28: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:28: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:28: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:28: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:28: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:28: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:28: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:28: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:28: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:28: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:28: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:28: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:28: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:28: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:28: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:28: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:29: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:29: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:29: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:29: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:29: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:29: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:29: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:29: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:29: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:29: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:29: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:29: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:29: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:29: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:29: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:29: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:29: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:29: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:29: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:29: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:29: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:29: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:29: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:29: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:29: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:29: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:29: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:29: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:29: Failed to send data k_EResultLimitExceeded
-
-[Info   :Jotunn.Managers.SynchronizationManager] Sending admin status to peer #2115787412: no admin
-[Info   : Unity Log] 07/08/2021 14:21:29: Failed to send data k_EResultLimitExceeded
-
-[Info   :Jotunn.Managers.SynchronizationManager] Sending configuration data to peer #2115787412
-[Info   : Unity Log] 07/08/2021 14:21:29: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:29: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:29: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:29: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:30: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:30: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:30: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:30: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:30: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:30: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:30: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:30: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:30: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:30: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:30: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:30: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:30: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:30: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:30: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:30: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:30: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:30: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:30: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:30: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:30: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:30: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:30: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:30: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:30: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:30: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:30: Failed to send data k_EResultLimitExceeded
-
-[Info   : Unity Log] 07/08/2021 14:21:39: Got character ZDOID from Robin : 2115787412:1998
-
-[Info   : Unity Log] 07/08/2021 14:27:18:  Connections 1 ZDOS:471758  sent:0 recv:370
-
-[Info   : Unity Log] 07/08/2021 14:27:23: clone 1644
-
-[Info   : Unity Log] 07/08/2021 14:29:48: Time 676569.078234343, day:375    nextm:677070.000010729  skipspeed:41.7434813654691
-
-[Info   : Unity Log] 07/08/2021 14:29:54: RPC_Disconnect 
-
-[Info   : Unity Log] 07/08/2021 14:29:54: Destroying abandoned non persistent zdo 2115787412:3218 owner 2115787412
-
-[Info   : Unity Log] 07/08/2021 14:29:54: Destroying abandoned non persistent zdo 2115787412:3238 owner 2115787412
-
-[Info   : Unity Log] 07/08/2021 14:29:54: Destroying abandoned non persistent zdo 2115787412:3239 owner 2115787412
-
-[Info   : Unity Log] 07/08/2021 14:29:54: Destroying abandoned non persistent zdo 2115787412:3225 owner 2115787412
-
-[Info   : Unity Log] 07/08/2021 14:29:54: Destroying abandoned non persistent zdo 2115787412:3223 owner 2115787412
-
-[Info   : Unity Log] 07/08/2021 14:29:54: Destroying abandoned non persistent zdo 2115787412:3219 owner 2115787412
-
-[Info   : Unity Log] 07/08/2021 14:29:54: Destroying abandoned non persistent zdo 2115787412:3220 owner 2115787412
-
-[Info   : Unity Log] 07/08/2021 14:29:54: Destroying abandoned non persistent zdo 2115787412:3222 owner 2115787412
-
-[Info   : Unity Log] 07/08/2021 14:29:54: Destroying abandoned non persistent zdo 2115787412:3221 owner 2115787412
-
-[Info   : Unity Log] 07/08/2021 14:29:54: Destroying abandoned non persistent zdo 2115787412:3237 owner 2115787412
-
-[Info   : Unity Log] 07/08/2021 14:29:54: Destroying abandoned non persistent zdo 2115787412:3240 owner 2115787412
-
-[Info   : Unity Log] 07/08/2021 14:29:54: Destroying abandoned non persistent zdo 2115787412:3224 owner 2115787412
-
-[Info   : Unity Log] 07/08/2021 14:29:54: Destroying abandoned non persistent zdo 2115787412:3236 owner 2115787412
-
-[Info   : Unity Log] 07/08/2021 14:29:54: Destroying abandoned non persistent zdo 2115787412:1998 owner 2115787412
-
-[Info   : Unity Log] 07/08/2021 14:29:54: Disposing socket
-
-[Info   : Unity Log] 07/08/2021 14:29:54: Closing socket 76561198373473756
-
-[Info   : Unity Log] 07/08/2021 14:29:54:   send queue size:0
-
-[Info   : Unity Log] 07/08/2021 14:29:54: Disposing socket
-
-[Info   : Unity Log] 07/08/2021 14:29:54: Got status changed msg k_ESteamNetworkingConnectionState_ClosedByPeer
-
-[Info   : Unity Log] 07/08/2021 14:29:54: Socket closed by peer Steamworks.SteamNetConnectionStatusChangedCallback_t
-
-[Info   : Unity Log] 07/08/2021 14:29:54: Got status changed msg k_ESteamNetworkingConnectionState_None
+[Info   : Unity Log] 07/08/2021 17:44:08:  Connections 0 ZDOS:471728  sent:0 recv:0
 
 [Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
 [Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
@@ -2886,96 +2050,7 @@
 [Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
 [Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
 [Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] 07/08/2021 14:37:42:  Connections 0 ZDOS:471765  sent:0 recv:0
+[Info   : Unity Log] 07/08/2021 17:54:29:  Connections 0 ZDOS:471728  sent:0 recv:0
 
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control ItemConfig*.yml yml config
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] 07/08/2021 14:48:04:  Connections 0 ZDOS:471765  sent:0 recv:0
+[Info   : Unity Log] 07/08/2021 17:54:33: clone 1665
 
-[Info   : Unity Log] 07/08/2021 14:48:09: clone 2000
-
-[Info   : Unity Log] 07/08/2021 14:58:08:  Connections 0 ZDOS:471765  sent:0 recv:0
-
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control ItemConfig*.yml yml config
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] 07/08/2021 15:08:34:  Connections 0 ZDOS:471765  sent:0 recv:0
-
-[Info   : Unity Log] 07/08/2021 15:08:40: clone 1843
-
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control ItemConfig*.yml yml config
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] 07/08/2021 15:18:58:  Connections 0 ZDOS:471765  sent:0 recv:0
-
-[Info   : Unity Log] 07/08/2021 15:29:01:  Connections 0 ZDOS:471765  sent:0 recv:0
-
-[Info   : Unity Log] 07/08/2021 15:29:05: clone 1779
-
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control ItemConfig*.yml yml config
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] 07/08/2021 15:39:25:  Connections 0 ZDOS:471765  sent:0 recv:0
-
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control ItemConfig*.yml yml config
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] 07/08/2021 15:49:48:  Connections 0 ZDOS:471765  sent:0 recv:0
-
-[Info   : Unity Log] 07/08/2021 15:49:53: clone 1763
-
-[Info   : Unity Log] 07/08/2021 15:59:52:  Connections 0 ZDOS:471765  sent:0 recv:0
-
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control ItemConfig*.yml yml config
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] 07/08/2021 16:10:16:  Connections 0 ZDOS:471765  sent:0 recv:0
-
-[Info   : Unity Log] 07/08/2021 16:10:22: clone 1891
-
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control ItemConfig*.yml yml config
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
-[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
