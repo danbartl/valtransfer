@@ -1,0 +1,1681 @@
+[Message:   BepInEx] BepInEx 5.4.11.0 - valheim_server
+[Info   :   BepInEx] Running under Unity vUnknown (post-2017)
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Linux
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Info   :   BepInEx] Detected Unity version: v2019.4.24f1
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 33 plugins to load
+[Info   :   BepInEx] Loading [Custom Raids 1.4.0]
+[Info   :Custom Raids] Loading configurations...
+[Info   :   BepInEx] Loading [RagnarsRökare Mob AI 0.2.1]
+[Info   :   BepInEx] Loading [Creature Level & Loot Control 4.4.1]
+[Info   : Unity Log] 07/08/2021 13:17:08: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 07/08/2021 13:17:08: Failed to load language file localization_extra
+
+[Info   : Unity Log] 07/08/2021 13:17:09: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 07/08/2021 13:17:09: Failed to load language file localization_extra
+
+[Info   : Unity Log] 07/08/2021 13:17:09: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 07/08/2021 13:17:09: Failed to load language file localization_extra
+
+[Info   :   BepInEx] Loading [Extended Item Data Framework 1.0.2]
+[Info   :   BepInEx] Loading [Epic Loot 0.8.2]
+[Info   :   BepInEx] Loading [Spawn That! 0.11.2]
+[Message:Spawn That!] Loading general configurations
+[Message:Spawn That!] Finished loading general configurations
+[Info   :   BepInEx] Loading [Drop That! 1.10.1]
+[Message:Drop That!] Loading general configuration from /opt/valheim/bepinex/BepInEx/config/drop_that.cfg.
+[Info   :   BepInEx] Loading [RRRCore 0.2.8]
+[Info   :   BepInEx] Loading [RRRNpcs 0.2.3]
+[Info   :   BepInEx] Loading [RRRMonsters 0.2.2]
+[Info   :   BepInEx] Loading [RRRBetterRaids 0.2.1]
+[Info   :   BepInEx] Loading [JotunnLib 0.1.7]
+[Info   : Unity Log] Initialized PrefabManager
+[Info   : Unity Log] Initialized PieceTableManager
+[Info   : Unity Log] JotunnLib v0.1.7 loaded successfully
+[Info   :   BepInEx] Loading [Jötunn 2.1.3]
+[Info   :    Jötunn] Initializing LocalizationManager
+[Info   :    Jötunn] Initializing CommandManager
+[Info   :    Jötunn] Initializing InputManager
+[Info   :    Jötunn] Initializing SkillManager
+[Info   :    Jötunn] Initializing PrefabManager
+[Info   :    Jötunn] Initializing ItemManager
+[Info   :    Jötunn] Initializing PieceManager
+[Info   :    Jötunn] Initializing MockManager
+[Info   :    Jötunn] Initializing KitbashManager
+[Info   :    Jötunn] Initializing GUIManager
+[Info   :    Jötunn] Initializing SynchronizationManager
+[Info   :    Jötunn] Jötunn v2.1.3 loaded successfully
+[Info   :   BepInEx] Loading [BoneAppetit 3.0.2]
+[Message:Boneappetit.BoneAppetit] Prepping Kitchen...
+[Message:Boneappetit.BoneAppetit] Big thanks to MeatwareMonster!
+[Info   :   BepInEx] Loading [RuneSwords 0.0.9]
+[Info   :   BepInEx] Loading [BarbarianArmor 2.0.0]
+[Info   :   BepInEx] Loading [Terraheim 2.1.4]
+[Info   :Terraheim.Log] Loaded localization for English
+[Info   :Terraheim.Log] Status Effects Injected
+[Warning:Terraheim.Log] Barbarian armor not found!
+[Info   :Terraheim.Log] Chaos Armor Found!
+[Info   :Terraheim.Log] Patching complete
+[Info   :   BepInEx] Loading [TerraheimItems 2.1.0]
+[Info   :TerraheimItems] Loaded localization for English
+[Info   :TerraheimItems] Patching complete
+[Info   :   BepInEx] Loading [Valheim Performance Optimizations 0.5.2]
+[Info   :   BepInEx] Loading [DoD Assets 0.4]
+[Info   :   BepInEx] Loading [DoD Monsters 0.1.2]
+[Info   :   BepInEx] Loading [MonsterLabZ 1.6.0]
+[Info   :   BepInEx] Loading [More Two Handed Weapons 4.2.2]
+[Info   :   BepInEx] Loading [BetterTrader 2.0.4.0]
+[Info   :   BepInEx] Loading [Stamina Regeneration from Food 1.3]
+[Info   :   BepInEx] Loading [Display BepInEx Info In-Game 1.1.0]
+[Info   :   BepInEx] Loading [Equipment and Quick Slots 2.0.9]
+[Info   :   BepInEx] Loading [ChaosArmor 6.0.1]
+[Info   :   BepInEx] Loading [Friendlies 0.0.8]
+[Info   :   BepInEx] Loading [FriendliesAI 0.0.8]
+[Info   : Unity Log] Null
+[Info   :   BepInEx] Loading [FriendliesAssets 0.0.8]
+[Info   :   BepInEx] Loading [Trash Items Mod 1.2.3]
+[Info   :Trash Items Mod] TrashItems Loaded!
+[Info   :   BepInEx] Loading [ZethPack 1.2.5]
+[Info   :ZethSpace.ZethSpace] Embedded resources: ZethProj.zethpack
+[Message:   BepInEx] Chainloader startup complete
+[Info   : Unity Log] 07/08/2021 13:18:07: Starting to load scene:start
+
+[Info   :Jotunn.Main] Applying patches in ModCompatibility.InitPatch
+[Info   :Jotunn.Main] Applying patches in PlayerPatches.Init
+[Info   :Jotunn.Main] Applying patches in ZNetPatches.Init
+[Info   :Jotunn.Main] Applying patches in InGameConfig.HookOnSettings
+[Info   :Jotunn.Main] Applying patches in ModCompatibility.InitPatchEarly
+[Warning: Unity Log] HDR Render Texture not supported, disabling HDR on reflection probe.
+[Warning: Unity Log] HDR Render Texture not supported, disabling HDR on reflection probe.
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+[Warning: Unity Log] HDR Render Texture not supported, disabling HDR on reflection probe.
+[Info   : Unity Log] 07/08/2021 13:18:42: Valheim version:0.156.2
+
+[Info   : Unity Log] 07/08/2021 13:18:42: Render threading mode:SingleThreaded
+
+[Info   :Spawn That!] Resetting configurations
+[Info   :Spawn That!] Resetting mod state.
+[Message:Spawn That!] Loading all configs.
+[Message:Spawn That!] Loading general configurations
+[Message:Spawn That!] Finished loading general configurations
+[Message:Spawn That!] Loading simple configurations
+[Info   :Spawn That!] Initializing spawn_that.simple.cfg.
+[Info   :Spawn That!] Finished initializing spawn_that.simple.cfg.
+[Info   :Spawn That!] Finished loading simple configurations
+[Message:Spawn That!] Loading world spawner configurations.
+[Info   :Spawn That!] Loading world spawner configurations from /opt/valheim/bepinex/BepInEx/config/spawn_that.world_spawners_advanced.cfg.
+[Info   :Spawn That!] Found 16 supplemental world spawner config files
+[Info   :Spawn That!] Loading world spawner configurations from /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_spawners/spawn_that.world_spawners.DoD_AllBiomes.cfg.
+[Info   :Spawn That!] Loading world spawner configurations from /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_spawners/spawn_that.world_spawners.DoD_AshLands.cfg.
+[Info   :Spawn That!] Loading world spawner configurations from /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_spawners/spawn_that.world_spawners.DoD_BlackForest.cfg.
+[Info   :Spawn That!] Loading world spawner configurations from /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_spawners/spawn_that.world_spawners.DoD_DeepNorth.cfg.
+[Info   :Spawn That!] Loading world spawner configurations from /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_spawners/spawn_that.world_spawners.DoD_Meadows.cfg.
+[Info   :Spawn That!] Loading world spawner configurations from /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_spawners/spawn_that.world_spawners.DoD_MiniBoss.cfg.
+[Info   :Spawn That!] Loading world spawner configurations from /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_spawners/spawn_that.world_spawners.DoD_Mistlands.cfg.
+[Info   :Spawn That!] Loading world spawner configurations from /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_spawners/spawn_that.world_spawners.DoD_Mountain.cfg.
+[Info   :Spawn That!] Loading world spawner configurations from /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_spawners/spawn_that.world_spawners.DoD_Plains.cfg.
+[Info   :Spawn That!] Loading world spawner configurations from /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_spawners/spawn_that.world_spawners.DoD_Swamp.cfg.
+[Info   :Spawn That!] Loading world spawner configurations from /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_spawners/Bosses/spawn_that.world_spawners.DoD_WorldBossRoaming.cfg.
+[Info   :Spawn That!] Loading world spawner configurations from /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_spawners/Chests/spawn_that.world_spawners.DoD_Chests.cfg.
+[Info   :Spawn That!] Loading world spawner configurations from /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_spawners/Dungeons/spawn_that.world_spawners.DoD_DraugrVillage.cfg.
+[Info   :Spawn That!] Loading world spawner configurations from /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/spawn_that.world_spawners.DoD_V50.cfg.
+[Info   :Spawn That!] Loading world spawner configurations from /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/spawn_that.world_spawners.DoD_V_Overide.cfg.
+[Info   :Spawn That!] Loading world spawner configurations from /opt/valheim/bepinex/BepInEx/config/friendliesNpcs/spawn_that.world_spawners.friendlies.cfg.
+[Info   :Spawn That!] Finished loading world spawner configurations
+[Message:Spawn That!] Loading local spawner configurations.
+[Info   :Spawn That!] Loading local spawner configurations from /opt/valheim/bepinex/BepInEx/config/spawn_that.local_spawners_advanced.cfg.
+[Info   :Spawn That!] Found 5 supplemental local spawner config files
+[Info   :Spawn That!] Loading local spawner configurations from /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_spawners/spawn_that.local_spawners.DoD_Mountain.cfg.
+[Info   :Spawn That!] Loading local spawner configurations from /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_spawners/spawn_that.local_spawners.DoD_RRRMonsters.cfg.
+[Info   :Spawn That!] Loading local spawner configurations from /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_spawners/Dungeons/spawn_that.local_spawners.DoD_BurialChamber.cfg.
+[Info   :Spawn That!] Loading local spawner configurations from /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_spawners/Dungeons/spawn_that.local_spawners.DoD_Crypts.cfg.
+[Info   :Spawn That!] Loading local spawner configurations from /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_spawners/Dungeons/spawn_that.local_spawners.DoD_DraugrVillage.cfg.
+[Info   :Spawn That!] Finished loading local spawner configurations
+[Message:Spawn That!] Config loading took: 00:00:03.6300480
+[Message:Drop That!] Loading drop configurations
+[Info   : Unity Log] 07/08/2021 13:18:51: Get create world DDWYNeu
+
+[Info   : Unity Log] 07/08/2021 13:18:51:   failed to load DDWYNeu
+
+[Info   : Unity Log] 07/08/2021 13:18:51:  creating
+
+[Info   : Unity Log] 07/08/2021 13:18:51: Using environment steamid 892970
+
+[Info   : Unity Log] 07/08/2021 13:18:51: Using steam APPID:892970
+
+[Info   : Unity Log] 07/08/2021 13:18:52: Server ID 90071992547409920
+
+[Info   : Unity Log] 07/08/2021 13:18:52: Authentication:k_ESteamNetworkingAvailability_Waiting
+
+[Info   : Unity Log] 07/08/2021 13:18:52: Steam game server initialized
+
+[Warning: Unity Log] 07/08/2021 13:18:52: Missing audio clip in music respawn
+
+[Info   :Jotunn.Managers.LocalizationManager] ---- Loading custom localizations ----
+[Info   :Jotunn.Managers.LocalizationManager] Added json language file: RuneSwords.json
+[Info   : Unity Log] 07/08/2021 13:18:53: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 07/08/2021 13:18:53: Failed to load language file localization_extra
+
+[Info   :Jotunn.Managers.LocalizationManager] ---- Adding tokens for language 'English' ----
+[Warning:RRRMonsters] True
+[Info   : Unity Log] [Better Trader] Loaded conversion [Grig Horn]/[GrigHorn] and added it to ObjectDBCache!!
+[Message:Boneappetit.BoneAppetit] Loaded Game VFX and SFX
+[Message:Boneappetit.BoneAppetit] Load Complete. Bone Appetit yall.
+[Message:RuneSwords.RuneSwords] Loaded Game VFX and SFX
+[Message:RuneSwords.RuneSwords] Loading Runestones
+[Message:RuneSwords.RuneSwords] Loading Swords
+[Message:RuneSwords.RuneSwords] Loading Great Swords
+[Message:RuneSwords.RuneSwords] Loading Knives
+[Warning:RRRMonsters] True
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LeatherBelt
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverRing
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_GoldRubyRing
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_BoneSkeletonTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EyeGreydwarfTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_AntlerDeerTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_HideTrollTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_CoreSurtlingTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FreezeGlandDrakeTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DragonTearRunestone
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_YagluthThingRunestone
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_amber]/[Amber] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_amberpearl]/[AmberPearl] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_ancientseed]/[AncientSeed] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_chest_bronze]/[BronzePlateCuirass] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_legs_bronze]/[BronzePlateLeggings] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_chest_iron]/[IronScaleMail] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_legs_iron]/[IronGreaves] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_chest_leather]/[LeatherTunic] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_legs_leather]/[LeatherPants] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_chest_pcuirass]/[PaddedCuirass] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_legs_pgreaves]/[PaddedGreaves] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_chest_rags]/[RagTunic] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_legs_rags]/[RagPants] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_chest_trollleather]/[TrollLeatherTunic] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_legs_trollleather]/[TrollLeatherPants] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_chest_wolf]/[WolfArmorChest] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_legs_wolf]/[WolfArmorLegs] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_arrow_bronze]/[BronzeheadArrow] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_arrow_fire]/[FireArrow] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_arrow_flint]/[FlintheadArrow] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_arrow_frost]/[FrostArrow] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_arrow_iron]/[IronheadArrow] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_arrow_needle]/[NeedleArrow] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_arrow_obsidian]/[ObsidianArrow] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_arrow_poison]/[PoisonArrow] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_arrow_silver]/[SilverArrow] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_arrow_wood]/[WoodArrow] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_atgeir_blackmetal]/[BlackmetalAtgeir] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_atgeir_bronze]/[BronzeAtgeir] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_atgeir_iron]/[IronAtgeir] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_axe_blackmetal]/[BlackmetalAxe] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_axe_bronze]/[BronzeAxe] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_axe_flint]/[FlintAxe] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_axe_iron]/[IronAxe] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_axe_stone]/[StoneAxe] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_barley]/[Barley] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_barleyflour]/[BarleyFlour] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_barleywine]/[FireResistanceBarleyWine] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_barleywinebase]/[BarleyWineBaseFireResistance] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_battleaxe]/[Battleaxe] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_beechseeds]/[BeechSeeds] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_beltstrength]/[Megingjord] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_blackmetal]/[BlackMetal] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_blackmetalscrap]/[BlackMetalScrap] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_bloodbag]/[Bloodbag] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_bloodpudding]/[BloodPudding] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_blueberries]/[Blueberries] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_oozebomb]/[OozeBomb] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_bonefragments]/[BoneFragments] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_bow]/[CrudeBow] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_bow_draugrfang]/[DraugrFang] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_bow_finewood]/[FinewoodBow] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_bow_huntsman]/[HuntsmanBow] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_bread]/[Bread] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_bronze]/[Bronze] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_bronzenails]/[BronzeNails] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_cape_deerhide]/[DeerHideCape] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_cape_linen]/[LinenCape] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_cape_lox]/[LoxCape] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_cape_odin]/[CapeOfOdin] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [CAPE TEST]/[CAPETEST] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_cape_trollhide]/[TrollHideCape] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_cape_wolf]/[WolfFurCape] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_carrot]/[Carrot] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_carrotseeds]/[CarrotSeeds] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_carrotsoup]/[CarrotSoup] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_chain]/[Chain] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_chitin]/[Chitin] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_cloudberries]/[Cloudberries] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_club]/[Club] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_coal]/[Coal] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_coins]/[Coins] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_loxmeat_cooked]/[CookedLoxMeat] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_meat_cooked]/[CookedMeat] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_copper]/[Copper] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_copperore]/[CopperOre] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_cryptkey]/[SwampKey] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_crystal]/[Crystal] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_cultivator]/[Cultivator] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_dandelion]/[Dandelion] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_deerhide]/[DeerHide] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_dragonegg]/[DragonEgg] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_dragontear]/[DragonTear] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_elderbark]/[AncientBark] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_entrails]/[Entrails] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_feathers]/[Feathers] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_finewood]/[FineWood] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_fircone]/[FirCone] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_fish_cooked]/[CookedFish] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_fishingbait]/[FishingBait] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_fishingrod]/[FishingRod] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_fish_raw]/[RawFish] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_fishwraps]/[FishWraps] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_flametal]/[Flametal] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_flametalore]/[FlametalOre] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_flax]/[Flax] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_flint]/[Flint] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_freezegland]/[FreezeGland] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_goblintotem]/[FulingTotem] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_greydwarfeye]/[GreydwarfEye] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_guck]/[Guck] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_hammer]/[Hammer] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_hardantler]/[HardAntler] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [Bonemass heart]/[BonemassHeart] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [Elder heart]/[ElderHeart] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_helmet_bronze]/[BronzeHelmet] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_helmet_drake]/[DrakeHelmet] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_helmet_dverger]/[DvergerCirclet] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_helmet_iron]/[IronHelmet] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_helmet_leather]/[LeatherHelmet] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_helmet_odin]/[HoodOfOdin] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_helmet_padded]/[PaddedHelmet] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_helmet_trollleather]/[TrollLeatherHelmet] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_helmet_yule]/[YuleHat] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_hoe]/[Hoe] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_honey]/[Honey] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_iron]/[Iron] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_ironnails]/[IronNails] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_ironore]/[IronOre] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_ironscrap]/[ScrapIron] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_knife_blackmetal]/[BlackmetalKnife] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_knife_chitin]/[AbyssalRazor] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_knife_copper]/[CopperKnife] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_knife_flint]/[FlintKnife] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_leatherscraps]/[LeatherScraps] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_linenthread]/[LinenThread] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_loxmeat]/[LoxMeat] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_loxpelt]/[LoxPelt] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_loxpie]/[LoxMeatPie] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_mace_bronze]/[BronzeMace] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_mace_iron]/[IronMace] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_mace_needle]/[Porcupine] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_mace_silver]/[Frostner] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_meadbasefrostresist]/[MeadBaseFrostResistance] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_meadbasehealth_medium]/[MeadBaseMediumHealing] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_meadbasehealth]/[MeadBaseMinorHealing] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_meadbasepoisonresist]/[MeadBasePoisonResistance] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_meadbasestamina_medium]/[MeadBaseMediumStamina] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_meadbasestamina]/[MeadBaseMinorStamina] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_meadbasetasty]/[MeadBaseTasty] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_mead_frostres]/[FrostResistanceMead] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_mead_hp_medium]/[MediumHealingMead] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_mead_hp_minor]/[MinorHealingMead] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_mead_poisonres]/[PoisonResistanceMead] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_mead_stamina_medium]/[MediumStaminaMead] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_mead_stamina_minor]/[MinorStaminaMead] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_mead_tasty]/[TastyMead] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_mushroomcommon]/[Mushroom] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_mushroomblue]/[BlueMushroom] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_mushroomyellow]/[YellowMushroom] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_necktail]/[NeckTail] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_necktailgrilled]/[GrilledNeckTail] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_needle]/[Needle] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_obsidian]/[Obsidian] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_ooze]/[Ooze] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_pickaxe_antler]/[AntlerPickaxe] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_pickaxe_bronze]/[BronzePickaxe] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_pickaxe_iron]/[IronPickaxe] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_pickaxe_stone]/[StonePickaxe] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_pinecone]/[PineCone] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [Unarmed]/[Unarmed] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_queenbee]/[QueenBee] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_queensjam]/[QueensJam] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_raspberries]/[Raspberries] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_meat_raw]/[RawMeat] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_resin]/[Resin] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_roundlog]/[CoreWood] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_ruby]/[Ruby] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_sausages]/[Sausages] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_serpentmeat]/[SerpentMeat] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_serpentmeatcooked]/[CookedSerpentMeat] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_serpentscale]/[SerpentScale] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_serpentstew]/[SerpentStew] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_sharpeningstone]/[SharpeningStone] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_shield_banded]/[BandedShield] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_shield_blackmetal]/[BlackMetalShield] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_shield_blackmetal_tower]/[BlackMetalTowerShield] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_shield_bronzebuckler]/[BronzeBuckler] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_shield_iron_square]/[IronShield] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_shield_iron_tower]/[IronTowerShield] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [Knight shield]/[KnightShield] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_shield_serpentscale]/[SerpentScaleShield] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_shield_silver]/[SilverShield] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_shield_wood]/[WoodShield] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_shield_woodtower]/[WoodTowerShield] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_silver]/[Silver] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_silvernecklace]/[SilverNecklace] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_silverore]/[SilverOre] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [Cheat sledge]/[CheatSledge] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_sledge_iron]/[IronSledge] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_stagbreaker]/[Stagbreaker] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_spear_bronze]/[BronzeSpear] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_spear_chitin]/[AbyssalHarpoon] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_spear_ancientbark]/[AncientBarkSpear] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_spear_flint]/[FlintSpear] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_spear_wolffang]/[FangSpear] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [Stamina Greydwarf]/[StaminaGreydwarf] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [Stamina Troll]/[StaminaTroll] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [Stamina Wraith]/[StaminaWraith] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_stone]/[Stone] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_surtlingcore]/[SurtlingCore] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_sword_blackmetal]/[BlackmetalSword] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_sword_bronze]/[BronzeSword] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [Cheat sword]/[CheatSword] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_sword_iron]/[IronSword] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_sword_fire]/[Dyrnwyn] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_sword_silver]/[SilverSword] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_tankard]/[Tankard] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_tankard_odin]/[MeadHornOfOdin] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_thistle]/[Thistle] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_tin]/[Tin] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_tinore]/[TinOre] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_torch]/[Torch] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_trollhide]/[TrollHide] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_trophy_blob]/[BlobTrophy] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_trophy_boar]/[BoarTrophy] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_trophy_bonemass]/[BonemassTrophy] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_trophy_deathsquito]/[DeathsquitoTrophy] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_trophy_deer]/[DeerTrophy] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_trophy_dragonqueen]/[ModerTrophy] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_trophy_draugr]/[DraugrTrophy] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_trophy_draugrelite]/[DraugrEliteTrophy] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_trophy_eikthyr]/[EikthyrTrophy] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_trophy_fenring]/[FenringTrophy] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_trophy_troll]/[TrollTrophy] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_trophy_goblin]/[FulingTrophy] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_trophy_goblinbrute]/[FulingBerserkerTrophy] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_trophy_goblinking]/[YagluthTrophy] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_trophy_goblinshaman]/[FulingShamanTrophy] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_trophy_greydwarf]/[GreydwarfTrophy] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_trophy_greydwarfbrute]/[GreydwarfBruteTrophy] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_trophy_greydwarfshaman]/[GreydwarfShamanTrophy] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_trophy_hatchling]/[DrakeTrophy] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_trophy_leech]/[LeechTrophy] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_trophy_lox]/[LoxTrophy] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_trophy_neck]/[NeckTrophy] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_trophy_serpent]/[SerpentTrophy] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_trophy_sgolem]/[StoneGolemTrophy] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_trophy_skeleton]/[SkeletonTrophy] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_trophy_skeletonpoison]/[RancidRemainsTrophy] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_trophy_surtling]/[SurtlingTrophy] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_trophy_elder]/[TheElderTrophy] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_trophy_wolf]/[WolfTrophy] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_trophy_wraith]/[WraithTrophy] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_turnip]/[Turnip] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_turnipseeds]/[TurnipSeeds] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_turnipstew]/[TurnipStew] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [Yagluth thing]/[YagluthThing] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_wishbone]/[Wishbone] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_witheredbone]/[WitheredBone] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_wolffang]/[WolfFang] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_wolfpelt]/[WolfPelt] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_wood]/[Wood] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_ymirremains]/[YmirFlesh] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [Uncommon Runestone]/[UncommonRunestone] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [Rare Runestone]/[RareRunestone] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [Epic Runestone]/[EpicRunestone] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [Legendary Runestone]/[LegendaryRunestone] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [Uncommon Shard]/[UncommonShard] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [Rare Shard]/[RareShard] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [Epic Shard]/[EpicShard] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [Legendary Shard]/[LegendaryShard] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [Uncommon Dust]/[UncommonDust] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [Rare Dust]/[RareDust] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [Epic Dust]/[EpicDust] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [Legendary Dust]/[LegendaryDust] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [Uncommon Reagent]/[UncommonReagent] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [Rare Reagent]/[RareReagent] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [Epic Reagent]/[EpicReagent] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [Legendary Reagent]/[LegendaryReagent] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [Uncommon Essence]/[UncommonEssence] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [Rare Essence]/[RareEssence] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [Epic Essence]/[EpicEssence] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [Legendary Essence]/[LegendaryEssence] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [Leather Belt]/[LeatherBelt] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [Silver Ring]/[SilverRing] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [Gold Ruby Ring]/[GoldRubyRing] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [Andvaranaut]/[Andvaranaut] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [Forest Token]/[ForestToken] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [Iron Bounty Token]/[IronBountyToken] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [Gold Bounty Token]/[GoldBountyToken] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [Frostling Core]/[FrostlingCore] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [Stormling Core]/[StormlingCore] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [Voidling Core]/[VoidlingCore] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [Frostling Trophy]/[FrostlingTrophy] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [Stormling Trophy]/[StormlingTrophy] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [Voidling Trophy]/[VoidlingTrophy] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_sword_poison]/[Itemswordpoison] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [Silver Great Sword]/[SilverGreatSword] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [Iron Great Sword]/[IronGreatSword] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [Silver Battleaxe]/[SilverBattleaxe] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [Great Silver Mace]/[GreatSilverMace] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [Great Core Mace]/[GreatCoreMace] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [Green Great Core Mace]/[GreenGreatCoreMace] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [Grasp of Undying]/[GraspOfUndying] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [Black Metal Great Sword]/[BlackMetalGreatSword] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [Moder's Sorrow]/[ModersSorrow] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [Flametal Great Sword]/[FlametalGreatSword] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [Heavy Iron Great Sword]/[HeavyIronGreatSword] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [Black Metal Battleaxe]/[BlackMetalBattleaxe] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [Dragon Slayer]/[DragonSlayer] and added it to ObjectDBCache!!
+[Info   :Jotunn.Managers.ItemManager] ---- Adding custom items to StartGui (ObjectDB) ----
+[Info   :Jotunn.Managers.ItemManager] Added item rk_pork | Token: Raw Pork
+[Info   :Jotunn.Managers.ItemManager] Added item rk_egg | Token: Egg
+[Info   :Jotunn.Managers.ItemManager] Added item rk_dragonegg | Token: Drake Egg
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorBarbarianBronzeHelmetJD | Token: $ArmorBarbarianBronzeHelmetJD
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorBarbarianBronzeChestJD | Token: $ArmorBarbarianBronzeChestJD
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorBarbarianBronzeLegsJD | Token: $ArmorBarbarianBronzeLegsJD
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorBarbarianCapeJD | Token: $ArmorBarbarianCapeJD
+[Info   :Jotunn.Managers.ItemManager] Added item SalamanderFurTH | Token: $item_salamander_fur
+[Info   :Jotunn.Managers.ItemManager] Added item SwordFolcbrand | Token: $item_greatsword_folcbrand
+[Info   :Jotunn.Managers.ItemManager] Added item GreatswordIron | Token: $item_greatsword_iron
+[Info   :Jotunn.Managers.ItemManager] Added item GreatswordBlackmetal | Token: $item_greatsword_blackmetal
+[Info   :Jotunn.Managers.ItemManager] Added item GreatswordChitinTH | Token: $item_greatsword_chitin
+[Info   :Jotunn.Managers.ItemManager] Added item AxeForstasca | Token: $item_axe_frost
+[Info   :Jotunn.Managers.ItemManager] Added item AxeSerpentTH | Token: $item_axe_serpent
+[Info   :Jotunn.Managers.ItemManager] Added item AtgeirSilver | Token: $item_atgeir_silver
+[Info   :Jotunn.Managers.ItemManager] Added item KnifeIron | Token: $item_knife_iron
+[Info   :Jotunn.Managers.ItemManager] Added item KnifeSilverTH | Token: $item_knife_silver
+[Info   :Jotunn.Managers.ItemManager] Added item ShieldSilverDagger | Token: $item_shield_silverdagger
+[Info   :Jotunn.Managers.ItemManager] Added item BowBlackmetalTH | Token: $item_bow_blackmetalTH
+[Info   :Jotunn.Managers.ItemManager] Added item PickaxeBlackmetal | Token: $item_pickaxe_blackmetal
+[Info   :Jotunn.Managers.ItemManager] Added item SpearBlackmetal | Token: $item_spear_blackmetal
+[Info   :Jotunn.Managers.ItemManager] Added item BattleaxeBlackmetal | Token: $item_battleaxe_sledge_blackmetal
+[Info   :Jotunn.Managers.ItemManager] Added item BattleaxeBronzeTerraheim | Token: $item_battleaxe_bronze_terraheim
+[Info   :Jotunn.Managers.ItemManager] Added item GreataxeBlackmetal | Token: $item_battleaxe_blackmetal
+[Info   :Jotunn.Managers.ItemManager] Added item BattleaxeSilver | Token: $item_battleaxe_silver
+[Info   :Jotunn.Managers.ItemManager] Added item GreataxeFlintTH | Token: $item_battleaxe_flint
+[Info   :Jotunn.Managers.ItemManager] Added item MaceFireTH | Token: $item_mace_fire
+[Info   :Jotunn.Managers.ItemManager] Added item GreatswordFireTH | Token: $item_greatsword_fire
+[Info   :Jotunn.Managers.ItemManager] Added item AtgeirFireTH | Token: $item_atgeir_fire
+[Info   :Jotunn.Managers.ItemManager] Added item BowFireTH | Token: $item_bow_fireTH
+[Info   :Jotunn.Managers.ItemManager] Added item BattleaxeFireTH | Token: $item_battleaxe_fire
+[Info   :Jotunn.Managers.ItemManager] Added item SledgeFireTH | Token: $item_battleaxe_sledge_fire
+[Info   :Jotunn.Managers.ItemManager] Added item AxeFireTH | Token: $item_axe_fire
+[Info   :Jotunn.Managers.ItemManager] Added item KnifeFireTH | Token: $item_knife_fire
+[Info   :Jotunn.Managers.ItemManager] Added item SpearFireTH | Token: $item_spear_fire
+[Info   :Jotunn.Managers.ItemManager] Added item ThrowingAxeFire | Token: $item_throwingaxe_fire
+[Info   :Jotunn.Managers.ItemManager] Added item ArrowGreatFireTH | Token: $item_arrow_great_fire
+[Info   :Jotunn.Managers.ItemManager] Added item SwordFireTH | Token: $item_sword_fire
+[Info   :Jotunn.Managers.ItemManager] Added item ShieldFireTH | Token: $item_shield_fire
+[Info   :Jotunn.Managers.ItemManager] Added item ShieldFireTowerTH | Token: $item_shield_fire_tower
+[Info   :Jotunn.Managers.ItemManager] Added item BombFire | Token: $item_firebomb
+[Info   :Jotunn.Managers.ItemManager] Added item BombFrost | Token: $item_frostbomb
+[Info   :Jotunn.Managers.ItemManager] Added item BombLightning | Token: $item_lightningbomb
+[Info   :Jotunn.Managers.ItemManager] Added item ThrowingAxeFlint | Token: $item_throwingaxe_flint
+[Info   :Jotunn.Managers.ItemManager] Added item ThrowingAxeBronze | Token: $item_throwingaxe_bronze
+[Info   :Jotunn.Managers.ItemManager] Added item ThrowingAxeIron | Token: $item_throwingaxe_iron
+[Info   :Jotunn.Managers.ItemManager] Added item ThrowingAxeSilver | Token: $item_throwingaxe_silver
+[Info   :Jotunn.Managers.ItemManager] Added item ThrowingAxeBlackmetal | Token: $item_throwingaxe_blackmetal
+[Info   :Jotunn.Managers.ItemManager] Added item T1ChaosPlateArmor | Token: $item_armor_t1_pchaosbody
+[Info   :Jotunn.Managers.ItemManager] Added item T1ChaosPlateHelm | Token: $item_helmet_t1pchaosplate
+[Info   :Jotunn.Managers.ItemManager] Added item T1ChaosPlateLegs | Token: $item_legs_t1pchaoslegs
+[Info   :Jotunn.Managers.ItemManager] Added item T2ChaosPlateArmor | Token: $item_armor_t2_pchaosbody
+[Info   :Jotunn.Managers.ItemManager] Added item T2ChaosPlateHelm | Token: $item_helmet_t2pchaosplate
+[Info   :Jotunn.Managers.ItemManager] Added item T2ChaosPlateLegs | Token: $item_legs_t2pchaoslegs
+[Info   :Jotunn.Managers.ItemManager] Added item ChaosPlateArmorBody | Token: $item_armor_pchaosbodytwo
+[Info   :Jotunn.Managers.ItemManager] Added item ChaosPlateLegs | Token: $item_legs_pchaoslegs
+[Info   :Jotunn.Managers.ItemManager] Added item ChaosPlateHelm | Token: $item_helmet_pchaosplate
+[Info   :Jotunn.Managers.ItemManager] Added item DragonJam | Token: $custom_item_dragonjam
+[Info   :Jotunn.Managers.ItemManager] Added item NoodlesInABone | Token: $custom_item_noodlesinabone
+[Info   :Jotunn.Managers.ItemManager] Added item BananaJam | Token: $custom_item_bananajam
+[Info   :Jotunn.Managers.ItemManager] Added item BlueberryJam | Token: $custom_item_blueberryjam
+[Info   :Jotunn.Managers.ItemManager] Added item NaturesJam | Token: $custom_item_naturesjam
+[Info   :Jotunn.Managers.ItemManager] Added item HoneySoup | Token: $custom_item_honeysoup
+[Info   :Jotunn.Managers.ItemManager] Added item BlackCultivator | Token: $custom_item_blackcultivator
+[Info   :Jotunn.Managers.ItemManager] Added item BlackPickaxe | Token: $custom_item_blackpick
+[Info   :Jotunn.Managers.ItemManager] Added item Frometal | Token: $custom_item_frometal
+[Info   :Jotunn.Managers.ItemManager] Added item FrometalAxe | Token: $custom_item_frometalaxe
+[Info   :Jotunn.Managers.ItemManager] Added item FrometalPickaxe | Token: $custom_item_frometalpickaxe
+[Info   :Jotunn.Managers.ItemManager] Added item FrometalCultivator | Token: $custom_item_frometalcultivator
+[Info   :Jotunn.Managers.ItemManager] Added item CloudSoup | Token: $custom_item_cloudsoup
+[Info   :Jotunn.Managers.ItemManager] Added item rk_butter | Token: Carrot Butter
+[Info   :Jotunn.Managers.ItemManager] Added item rk_nut_ella | Token: Nut-Ella
+[Info   :Jotunn.Managers.ItemManager] Added item rk_icecream | Token: Ice Cream
+[Info   :Jotunn.Managers.ItemManager] Added item rk_porkrind | Token: Pork Rinds
+[Info   :Jotunn.Managers.ItemManager] Added item rk_kabob | Token: Kabob
+[Info   :Jotunn.Managers.ItemManager] Added item rk_friedloxmeat | Token: Chicken Fried Lox Meat
+[Info   :Jotunn.Managers.ItemManager] Added item rk_glazedcarrots | Token: Honey Glazed Carrots
+[Info   :Jotunn.Managers.ItemManager] Added item rk_bacon | Token: Bacon
+[Info   :Jotunn.Managers.ItemManager] Added item rk_smokedfish | Token: SmokedFish
+[Info   :Jotunn.Managers.ItemManager] Added item rk_pancake | Token: Pancakes
+[Info   :Jotunn.Managers.ItemManager] Added item rk_pizza | Token: Pizza
+[Info   :Jotunn.Managers.ItemManager] Added item rk_coffee | Token: Coffee
+[Info   :Jotunn.Managers.ItemManager] Added item rk_latte | Token: Spice Latte
+[Info   :Jotunn.Managers.ItemManager] Added item rk_firecream | Token: Fire Cream
+[Info   :Jotunn.Managers.ItemManager] Added item rk_electriccream | Token: Electric Cream
+[Info   :Jotunn.Managers.ItemManager] Added item rk_acidcream | Token: Acid Cream Cone
+[Info   :Jotunn.Managers.ItemManager] Added item rk_porridge | Token: Porridge
+[Info   :Jotunn.Managers.ItemManager] Added item rk_pbj | Token: Jimmy's PBJ
+[Info   :Jotunn.Managers.ItemManager] Added item rk_birthday | Token: Birthday Cake
+[Info   :Jotunn.Managers.ItemManager] Added item rk_haggis | Token: Haggis
+[Info   :Jotunn.Managers.ItemManager] Added item rk_candiedturnip | Token: Candied Turnip
+[Info   :Jotunn.Managers.ItemManager] Added item rk_moochi | Token: Moochi
+[Info   :Jotunn.Managers.ItemManager] Added item rk_broth | Token: Bone Broth
+[Info   :Jotunn.Managers.ItemManager] Added item rk_fishstew | Token: Fish Stew
+[Info   :Jotunn.Managers.ItemManager] Added item rk_bloodsausage | Token: Blood Sausage
+[Info   :Jotunn.Managers.ItemManager] Added item rk_burger | Token: Burger
+[Info   :Jotunn.Managers.ItemManager] Added item rk_omlette | Token: Omlette
+[Info   :Jotunn.Managers.ItemManager] Added item rk_boiledegg | Token: Boiled Egg
+[Info   :Jotunn.Managers.ItemManager] Added item rk_carrotsticks | Token: Carrot Sticks
+[Info   :Jotunn.Managers.ItemManager] Added item rk_chef | Token: Chef Hat
+[Info   :Jotunn.Managers.ItemManager] Added item rk_mead | Token: Mead
+[Info   :Jotunn.Managers.ItemManager] Added item IceRuneSword | Token: Runic Ice Sword
+[Info   :Jotunn.Managers.ItemManager] Added item FireRuneSword | Token: Runic Fire Sword
+[Info   :Jotunn.Managers.ItemManager] Added item PoisonRuneSword | Token: Runic Poison Sword
+[Info   :Jotunn.Managers.ItemManager] Added item LightningRuneSword | Token: Runic Lightning Sword
+[Info   :Jotunn.Managers.ItemManager] Added item GreatIceRuneSword | Token: Great Runic Ice Sword
+[Info   :Jotunn.Managers.ItemManager] Added item GreatFireRuneSword | Token: Great Runic Fire Sword
+[Info   :Jotunn.Managers.ItemManager] Added item GreatPoisonRuneSword | Token: Great Runic Poison Sword
+[Info   :Jotunn.Managers.ItemManager] Added item GreatLightningRuneSword | Token: Great Runic Lightning Sword
+[Info   :Jotunn.Managers.ItemManager] Added item IceRuneDagger | Token: Runic Ice Dagger
+[Info   :Jotunn.Managers.ItemManager] Added item FireRuneDagger | Token: Runic Fire Dagger
+[Info   :Jotunn.Managers.ItemManager] Added item PoisonRuneDagger | Token: Runic Poison Dagger
+[Info   :Jotunn.Managers.ItemManager] Added item LightningRuneDagger | Token: Runic Lightning Dagger
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetLeatherT1_Terraheim_AddNewSets_AddLeatherArmor | Token: $item_helmet_leather_t1
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetLeatherT2_Terraheim_AddNewSets_AddLeatherArmor | Token: $item_helmet_leather_t2
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetLeatherT3_Terraheim_AddNewSets_AddLeatherArmor | Token: $item_helmet_leather_t3
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetLeatherT4_Terraheim_AddNewSets_AddLeatherArmor | Token: $item_helmet_leather_t4
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetLeatherT5_Terraheim_AddNewSets_AddLeatherArmor | Token: $item_helmet_leather_t5
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetLeatherT6_Terraheim_AddNewSets_AddLeatherArmor | Token: $item_helmet_leather_t6
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorLeatherChestT1_Terraheim_AddNewSets_AddLeatherArmor | Token: $item_chest_leather_t1
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorLeatherChestT2_Terraheim_AddNewSets_AddLeatherArmor | Token: $item_chest_leather_t2
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorLeatherChestT3_Terraheim_AddNewSets_AddLeatherArmor | Token: $item_chest_leather_t3
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorLeatherChestT4_Terraheim_AddNewSets_AddLeatherArmor | Token: $item_chest_leather_t4
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorLeatherChestT5_Terraheim_AddNewSets_AddLeatherArmor | Token: $item_chest_leather_t5
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorLeatherChestT6_Terraheim_AddNewSets_AddLeatherArmor | Token: $item_chest_leather_t6
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorLeatherLegsT1_Terraheim_AddNewSets_AddLeatherArmor | Token: $item_legs_leather_t1
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorLeatherLegsT2_Terraheim_AddNewSets_AddLeatherArmor | Token: $item_legs_leather_t2
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorLeatherLegsT3_Terraheim_AddNewSets_AddLeatherArmor | Token: $item_legs_leather_t3
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorLeatherLegsT4_Terraheim_AddNewSets_AddLeatherArmor | Token: $item_legs_leather_t4
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorLeatherLegsT5_Terraheim_AddNewSets_AddLeatherArmor | Token: $item_legs_leather_t5
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorLeatherLegsT6_Terraheim_AddNewSets_AddLeatherArmor | Token: $item_legs_leather_t6
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorRagsChestT1_Terraheim_AddNewSets_AddRagsArmor | Token: $item_chest_rags_t1
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorRagsChestT2_Terraheim_AddNewSets_AddRagsArmor | Token: $item_chest_rags_t2
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorRagsChestT3_Terraheim_AddNewSets_AddRagsArmor | Token: $item_chest_rags_t3
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorRagsChestT4_Terraheim_AddNewSets_AddRagsArmor | Token: $item_chest_rags_t4
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorRagsChestT5_Terraheim_AddNewSets_AddRagsArmor | Token: $item_chest_rags_t5
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorRagsChestT6_Terraheim_AddNewSets_AddRagsArmor | Token: $item_chest_rags_t6
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorRagsLegsT1_Terraheim_AddNewSets_AddRagsArmor | Token: $item_legs_rags_t1
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorRagsLegsT2_Terraheim_AddNewSets_AddRagsArmor | Token: $item_legs_rags_t2
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorRagsLegsT3_Terraheim_AddNewSets_AddRagsArmor | Token: $item_legs_rags_t3
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorRagsLegsT4_Terraheim_AddNewSets_AddRagsArmor | Token: $item_legs_rags_t4
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorRagsLegsT5_Terraheim_AddNewSets_AddRagsArmor | Token: $item_legs_rags_t5
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorRagsLegsT6_Terraheim_AddNewSets_AddRagsArmor | Token: $item_legs_rags_t6
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetTrollLeatherT2_Terraheim_AddNewSets_AddTrollLeatherArmor | Token: $item_helmet_trollleather_t2
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetTrollLeatherT3_Terraheim_AddNewSets_AddTrollLeatherArmor | Token: $item_helmet_trollleather_t3
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetTrollLeatherT4_Terraheim_AddNewSets_AddTrollLeatherArmor | Token: $item_helmet_trollleather_t4
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetTrollLeatherT5_Terraheim_AddNewSets_AddTrollLeatherArmor | Token: $item_helmet_trollleather_t5
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetTrollLeatherT6_Terraheim_AddNewSets_AddTrollLeatherArmor | Token: $item_helmet_trollleather_t6
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorTrollLeatherChestT2_Terraheim_AddNewSets_AddTrollLeatherArmor | Token: $item_chest_trollleather_t2
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorTrollLeatherChestT3_Terraheim_AddNewSets_AddTrollLeatherArmor | Token: $item_chest_trollleather_t3
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorTrollLeatherChestT4_Terraheim_AddNewSets_AddTrollLeatherArmor | Token: $item_chest_trollleather_t4
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorTrollLeatherChestT5_Terraheim_AddNewSets_AddTrollLeatherArmor | Token: $item_chest_trollleather_t5
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorTrollLeatherChestT6_Terraheim_AddNewSets_AddTrollLeatherArmor | Token: $item_chest_trollleather_t6
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorTrollLeatherLegsT2_Terraheim_AddNewSets_AddTrollLeatherArmor | Token: $item_legs_trollleather_t2
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorTrollLeatherLegsT3_Terraheim_AddNewSets_AddTrollLeatherArmor | Token: $item_legs_trollleather_t3
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorTrollLeatherLegsT4_Terraheim_AddNewSets_AddTrollLeatherArmor | Token: $item_legs_trollleather_t4
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorTrollLeatherLegsT5_Terraheim_AddNewSets_AddTrollLeatherArmor | Token: $item_legs_trollleather_t5
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorTrollLeatherLegsT6_Terraheim_AddNewSets_AddTrollLeatherArmor | Token: $item_legs_trollleather_t6
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetBronzeT3_Terraheim_AddNewSets_AddBronzeArmor | Token: $item_helmet_bronze_t3
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetBronzeT4_Terraheim_AddNewSets_AddBronzeArmor | Token: $item_helmet_bronze_t4
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetBronzeT5_Terraheim_AddNewSets_AddBronzeArmor | Token: $item_helmet_bronze_t5
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetBronzeT6_Terraheim_AddNewSets_AddBronzeArmor | Token: $item_helmet_bronze_t6
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorBronzeChestT3_Terraheim_AddNewSets_AddBronzeArmor | Token: $item_chest_bronze_t3
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorBronzeChestT4_Terraheim_AddNewSets_AddBronzeArmor | Token: $item_chest_bronze_t4
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorBronzeChestT5_Terraheim_AddNewSets_AddBronzeArmor | Token: $item_chest_bronze_t5
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorBronzeChestT6_Terraheim_AddNewSets_AddBronzeArmor | Token: $item_chest_bronze_t6
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorBronzeLegsT3_Terraheim_AddNewSets_AddBronzeArmor | Token: $item_legs_bronze_t3
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorBronzeLegsT4_Terraheim_AddNewSets_AddBronzeArmor | Token: $item_legs_bronze_t4
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorBronzeLegsT5_Terraheim_AddNewSets_AddBronzeArmor | Token: $item_legs_bronze_t5
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorBronzeLegsT6_Terraheim_AddNewSets_AddBronzeArmor | Token: $item_legs_bronze_t6
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetIronT4_Terraheim_AddNewSets_AddIronArmor | Token: $item_helmet_iron_t4
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetIronT5_Terraheim_AddNewSets_AddIronArmor | Token: $item_helmet_iron_t5
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetIronT6_Terraheim_AddNewSets_AddIronArmor | Token: $item_helmet_iron_t6
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorIronChestT4_Terraheim_AddNewSets_AddIronArmor | Token: $item_chest_iron_t4
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorIronChestT5_Terraheim_AddNewSets_AddIronArmor | Token: $item_chest_iron_t5
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorIronChestT6_Terraheim_AddNewSets_AddIronArmor | Token: $item_chest_iron_t6
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorIronLegsT4_Terraheim_AddNewSets_AddIronArmor | Token: $item_legs_iron_t4
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorIronLegsT5_Terraheim_AddNewSets_AddIronArmor | Token: $item_legs_iron_t5
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorIronLegsT6_Terraheim_AddNewSets_AddIronArmor | Token: $item_legs_iron_t6
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetDrakeT5_Terraheim_AddNewSets_AddSilverArmor | Token: $item_helmet_drake_t5
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetDrakeT6_Terraheim_AddNewSets_AddSilverArmor | Token: $item_helmet_drake_t6
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorWolfChestT5_Terraheim_AddNewSets_AddSilverArmor | Token: $item_chest_wolf_t5
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorWolfChestT6_Terraheim_AddNewSets_AddSilverArmor | Token: $item_chest_wolf_t6
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorWolfLegsT5_Terraheim_AddNewSets_AddSilverArmor | Token: $item_legs_wolf_t5
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorWolfLegsT6_Terraheim_AddNewSets_AddSilverArmor | Token: $item_legs_wolf_t6
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetPaddedT6_Terraheim_AddNewSets_AddPaddedArmor | Token: $item_helmet_padded_t6
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorPaddedCuirassT6_Terraheim_AddNewSets_AddPaddedArmor | Token: $item_chest_padded_t6
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorPaddedGreavesT6_Terraheim_AddNewSets_AddPaddedArmor | Token: $item_legs_padded_t6
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetWoodsman_Terraheim_AddCirculets_AddWoodsmanCirculet | Token: $item_helmet_woodsman
+[Info   :Jotunn.Managers.ItemManager] Added item BeltMiner_Terraheim_AddCirculets_AddMinersCirculet | Token: $item_belt_miner
+[Info   :Jotunn.Managers.ItemManager] Added item BeltWaterproof_Terraheim_AddCirculets_AddWaterproofBelt | Token: $item_belt_waterproof
+[Info   :Jotunn.Managers.ItemManager] Added item BeltFarmer_Terraheim_AddCirculets_AddFarmerBelt | Token: $item_belt_farmer
+[Info   :Jotunn.Managers.ItemManager] Added item BeltThief_Terraheim_AddCirculets_AddThiefBelt | Token: $item_belt_thief
+[Info   :Jotunn.Managers.ItemManager] Added item CapeDeerHideT0TH | Token: $item_cape_deerhideT0
+[Info   :Jotunn.Managers.ItemManager] Added item CapeDeerHideT1TH | Token: $item_cape_deerhideT1
+[Info   :Jotunn.Managers.ItemManager] Added item CapeTrollHideT0TH | Token: $item_cape_trollhideT0
+[Info   :Jotunn.Managers.ItemManager] Added item CapeTrollHideT1TH | Token: $item_cape_trollhideT1
+[Info   :Jotunn.Managers.ItemManager] Added item CapeWolfT1TH | Token: $item_cape_wolfT1
+[Info   :Jotunn.Managers.ItemManager] Added item CapeLoxT1TH | Token: $item_cape_loxT1
+[Info   :Jotunn.Managers.ItemManager] Added item CapeLinenT0TH | Token: $item_cape_linenT0
+[Info   :Jotunn.Managers.ItemManager] Added item CapeLinenT1TH | Token: $item_cape_linenT1
+[Info   :Jotunn.Managers.ItemManager] Updating item hashes
+[Info   : Unity Log] ---- Registering custom inputs ----
+[Info   : Unity Log] ---- Registering custom inputs ----
+[Info   : Unity Log] 07/08/2021 13:18:59: Game server connected
+
+[Warning: Unity Log] HDR Render Texture not supported, disabling HDR on reflection probe.
+[Warning: Unity Log] HDR Render Texture not supported, disabling HDR on reflection probe.
+[Info   : Unity Log] 07/08/2021 13:19:01: Zonesystem Awake 585
+
+[Info   : Unity Log] 07/08/2021 13:19:01: DungeonDB Awake 585
+
+[Info   : Unity Log] 07/08/2021 13:19:01: Registering lobby
+
+[Info   : Unity Log] Registered 'CL&LC ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'randyknapp.mods.epicloot ConfigSync' RPC - waiting for incoming connections
+[Info   :Spawn That!] Scanning map for biomes..
+[Info   :Spawn That!] Scanning map and assigning id's to areas took: 00:00:00.2633210
+[Info   : Unity Log] Registered 'com.alexanderstrada.rrrcore ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'htd.moretwohanders ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] ---- Registering custom prefabs ----
+[Info   : Unity Log] All prefabs loaded
+[Info   : Unity Log] ---- Registering custom zone data ----
+[Info   :Valheim Performance Optimizations] Patched 26 prefabs
+[Info   :Jotunn.Managers.PrefabManager] ---- Adding custom prefabs to _GameMain (ZNetScene) ----
+[Info   :Jotunn.Managers.PrefabManager] Added prefab rk_pork
+[Info   :Jotunn.Managers.PrefabManager] Added prefab rk_egg
+[Info   :Jotunn.Managers.PrefabManager] Added prefab rk_dragonegg
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorBarbarianBronzeHelmetJD
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorBarbarianBronzeChestJD
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorBarbarianBronzeLegsJD
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorBarbarianCapeJD
+[Info   :Jotunn.Managers.PrefabManager] Added prefab reforger
+[Info   :Jotunn.Managers.PrefabManager] Added prefab reforger_ext1
+[Info   :Jotunn.Managers.PrefabManager] Added prefab reforger_ext2
+[Info   :Jotunn.Managers.PrefabManager] Added prefab reforger_ext3
+[Info   :Jotunn.Managers.PrefabManager] Added prefab reforger_ext4
+[Info   :Jotunn.Managers.PrefabManager] Added prefab reforger_ext5
+[Info   :Jotunn.Managers.PrefabManager] Added prefab SalamanderFurTH
+[Info   :Jotunn.Managers.PrefabManager] Added prefab SwordFolcbrand
+[Info   :Jotunn.Managers.PrefabManager] Added prefab GreatswordIron
+[Info   :Jotunn.Managers.PrefabManager] Added prefab GreatswordBlackmetal
+[Info   :Jotunn.Managers.PrefabManager] Added prefab GreatswordChitinTH
+[Info   :Jotunn.Managers.PrefabManager] Added prefab AxeForstasca
+[Info   :Jotunn.Managers.PrefabManager] Added prefab AxeSerpentTH
+[Info   :Jotunn.Managers.PrefabManager] Added prefab AtgeirSilver
+[Info   :Jotunn.Managers.PrefabManager] Added prefab KnifeIron
+[Info   :Jotunn.Managers.PrefabManager] Added prefab KnifeSilverTH
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ShieldSilverDagger
+[Info   :Jotunn.Managers.PrefabManager] Added prefab BowBlackmetalTH
+[Info   :Jotunn.Managers.PrefabManager] Added prefab PickaxeBlackmetal
+[Info   :Jotunn.Managers.PrefabManager] Added prefab SpearBlackmetal
+[Info   :Jotunn.Managers.PrefabManager] Added prefab BattleaxeBlackmetal
+[Info   :Jotunn.Managers.PrefabManager] Added prefab BattleaxeBronzeTerraheim
+[Info   :Jotunn.Managers.PrefabManager] Added prefab GreataxeBlackmetal
+[Info   :Jotunn.Managers.PrefabManager] Added prefab BattleaxeSilver
+[Info   :Jotunn.Managers.PrefabManager] Added prefab GreataxeFlintTH
+[Info   :Jotunn.Managers.PrefabManager] Added prefab MaceFireTH
+[Info   :Jotunn.Managers.PrefabManager] Added prefab GreatswordFireTH
+[Info   :Jotunn.Managers.PrefabManager] Added prefab AtgeirFireTH
+[Info   :Jotunn.Managers.PrefabManager] Added prefab BowFireTH
+[Info   :Jotunn.Managers.PrefabManager] Added prefab BattleaxeFireTH
+[Info   :Jotunn.Managers.PrefabManager] Added prefab SledgeFireTH
+[Info   :Jotunn.Managers.PrefabManager] Added prefab AxeFireTH
+[Info   :Jotunn.Managers.PrefabManager] Added prefab KnifeFireTH
+[Info   :Jotunn.Managers.PrefabManager] Added prefab SpearFireTH
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ThrowingAxeFire
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArrowGreatFireTH
+[Info   :Jotunn.Managers.PrefabManager] Added prefab SwordFireTH
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ShieldFireTH
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ShieldFireTowerTH
+[Info   :Jotunn.Managers.PrefabManager] Added prefab BombFire
+[Info   :Jotunn.Managers.PrefabManager] Added prefab BombFrost
+[Info   :Jotunn.Managers.PrefabManager] Added prefab BombLightning
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ThrowingAxeFlint
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ThrowingAxeBronze
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ThrowingAxeIron
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ThrowingAxeSilver
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ThrowingAxeBlackmetal
+[Info   :Jotunn.Managers.PrefabManager] Added prefab T1ChaosPlateArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab T1ChaosPlateHelm
+[Info   :Jotunn.Managers.PrefabManager] Added prefab T1ChaosPlateLegs
+[Info   :Jotunn.Managers.PrefabManager] Added prefab T2ChaosPlateArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab T2ChaosPlateHelm
+[Info   :Jotunn.Managers.PrefabManager] Added prefab T2ChaosPlateLegs
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ChaosPlateArmorBody
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ChaosPlateLegs
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ChaosPlateHelm
+[Info   :Jotunn.Managers.PrefabManager] Added prefab DragonJam
+[Info   :Jotunn.Managers.PrefabManager] Added prefab NoodlesInABone
+[Info   :Jotunn.Managers.PrefabManager] Added prefab BananaJam
+[Info   :Jotunn.Managers.PrefabManager] Added prefab BlueberryJam
+[Info   :Jotunn.Managers.PrefabManager] Added prefab NaturesJam
+[Info   :Jotunn.Managers.PrefabManager] Added prefab HoneySoup
+[Info   :Jotunn.Managers.PrefabManager] Added prefab BlackCultivator
+[Info   :Jotunn.Managers.PrefabManager] Added prefab BlackPickaxe
+[Info   :Jotunn.Managers.PrefabManager] Added prefab Frometal
+[Info   :Jotunn.Managers.PrefabManager] Added prefab FrometalAxe
+[Info   :Jotunn.Managers.PrefabManager] Added prefab FrometalPickaxe
+[Info   :Jotunn.Managers.PrefabManager] Added prefab FrometalCultivator
+[Info   :Jotunn.Managers.PrefabManager] Added prefab CloudSoup
+[Info   :Jotunn.Managers.PrefabManager] Added prefab rk_butter
+[Info   :Jotunn.Managers.PrefabManager] Added prefab rk_nut_ella
+[Info   :Jotunn.Managers.PrefabManager] Added prefab rk_icecream
+[Info   :Jotunn.Managers.PrefabManager] Added prefab rk_porkrind
+[Info   :Jotunn.Managers.PrefabManager] Added prefab rk_kabob
+[Info   :Jotunn.Managers.PrefabManager] Added prefab rk_friedloxmeat
+[Info   :Jotunn.Managers.PrefabManager] Added prefab rk_glazedcarrots
+[Info   :Jotunn.Managers.PrefabManager] Added prefab rk_bacon
+[Info   :Jotunn.Managers.PrefabManager] Added prefab rk_smokedfish
+[Info   :Jotunn.Managers.PrefabManager] Added prefab rk_pancake
+[Info   :Jotunn.Managers.PrefabManager] Added prefab rk_pizza
+[Info   :Jotunn.Managers.PrefabManager] Added prefab rk_coffee
+[Info   :Jotunn.Managers.PrefabManager] Added prefab rk_latte
+[Info   :Jotunn.Managers.PrefabManager] Added prefab rk_firecream
+[Info   :Jotunn.Managers.PrefabManager] Added prefab rk_electriccream
+[Info   :Jotunn.Managers.PrefabManager] Added prefab rk_acidcream
+[Info   :Jotunn.Managers.PrefabManager] Added prefab rk_porridge
+[Info   :Jotunn.Managers.PrefabManager] Added prefab rk_pbj
+[Info   :Jotunn.Managers.PrefabManager] Added prefab rk_birthday
+[Info   :Jotunn.Managers.PrefabManager] Added prefab rk_haggis
+[Info   :Jotunn.Managers.PrefabManager] Added prefab rk_candiedturnip
+[Info   :Jotunn.Managers.PrefabManager] Added prefab rk_moochi
+[Info   :Jotunn.Managers.PrefabManager] Added prefab rk_broth
+[Info   :Jotunn.Managers.PrefabManager] Added prefab rk_fishstew
+[Info   :Jotunn.Managers.PrefabManager] Added prefab rk_bloodsausage
+[Info   :Jotunn.Managers.PrefabManager] Added prefab rk_burger
+[Info   :Jotunn.Managers.PrefabManager] Added prefab rk_omlette
+[Info   :Jotunn.Managers.PrefabManager] Added prefab rk_boiledegg
+[Info   :Jotunn.Managers.PrefabManager] Added prefab rk_carrotsticks
+[Info   :Jotunn.Managers.PrefabManager] Added prefab rk_chef
+[Info   :Jotunn.Managers.PrefabManager] Added prefab rk_mead
+[Info   :Jotunn.Managers.PrefabManager] Added prefab rk_grill
+[Info   :Jotunn.Managers.PrefabManager] Added prefab rk_griddle
+[Info   :Jotunn.Managers.PrefabManager] Added prefab rk_oven
+[Info   :Jotunn.Managers.PrefabManager] Added prefab rk_campfire
+[Info   :Jotunn.Managers.PrefabManager] Added prefab rk_hearth
+[Info   :Jotunn.Managers.PrefabManager] Added prefab rk_prep
+[Info   :Jotunn.Managers.PrefabManager] Added prefab rk_brazier
+[Info   :Jotunn.Managers.PrefabManager] Added prefab piece_artisanice
+[Info   :Jotunn.Managers.PrefabManager] Added prefab piece_artisanpurp
+[Info   :Jotunn.Managers.PrefabManager] Added prefab piece_artisanpoison
+[Info   :Jotunn.Managers.PrefabManager] Added prefab piece_artisanlight
+[Info   :Jotunn.Managers.PrefabManager] Added prefab piece_artisanround1
+[Info   :Jotunn.Managers.PrefabManager] Added prefab piece_artisanround2
+[Info   :Jotunn.Managers.PrefabManager] Added prefab IceRuneSword
+[Info   :Jotunn.Managers.PrefabManager] Added prefab FireRuneSword
+[Info   :Jotunn.Managers.PrefabManager] Added prefab PoisonRuneSword
+[Info   :Jotunn.Managers.PrefabManager] Added prefab LightningRuneSword
+[Info   :Jotunn.Managers.PrefabManager] Added prefab GreatIceRuneSword
+[Info   :Jotunn.Managers.PrefabManager] Added prefab GreatFireRuneSword
+[Info   :Jotunn.Managers.PrefabManager] Added prefab GreatPoisonRuneSword
+[Info   :Jotunn.Managers.PrefabManager] Added prefab GreatLightningRuneSword
+[Info   :Jotunn.Managers.PrefabManager] Added prefab IceRuneDagger
+[Info   :Jotunn.Managers.PrefabManager] Added prefab FireRuneDagger
+[Info   :Jotunn.Managers.PrefabManager] Added prefab PoisonRuneDagger
+[Info   :Jotunn.Managers.PrefabManager] Added prefab LightningRuneDagger
+[Info   :Jotunn.Managers.PrefabManager] Added prefab HelmetLeatherT1_Terraheim_AddNewSets_AddLeatherArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab HelmetLeatherT2_Terraheim_AddNewSets_AddLeatherArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab HelmetLeatherT3_Terraheim_AddNewSets_AddLeatherArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab HelmetLeatherT4_Terraheim_AddNewSets_AddLeatherArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab HelmetLeatherT5_Terraheim_AddNewSets_AddLeatherArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab HelmetLeatherT6_Terraheim_AddNewSets_AddLeatherArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorLeatherChestT1_Terraheim_AddNewSets_AddLeatherArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorLeatherChestT2_Terraheim_AddNewSets_AddLeatherArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorLeatherChestT3_Terraheim_AddNewSets_AddLeatherArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorLeatherChestT4_Terraheim_AddNewSets_AddLeatherArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorLeatherChestT5_Terraheim_AddNewSets_AddLeatherArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorLeatherChestT6_Terraheim_AddNewSets_AddLeatherArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorLeatherLegsT1_Terraheim_AddNewSets_AddLeatherArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorLeatherLegsT2_Terraheim_AddNewSets_AddLeatherArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorLeatherLegsT3_Terraheim_AddNewSets_AddLeatherArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorLeatherLegsT4_Terraheim_AddNewSets_AddLeatherArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorLeatherLegsT5_Terraheim_AddNewSets_AddLeatherArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorLeatherLegsT6_Terraheim_AddNewSets_AddLeatherArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorRagsChestT1_Terraheim_AddNewSets_AddRagsArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorRagsChestT2_Terraheim_AddNewSets_AddRagsArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorRagsChestT3_Terraheim_AddNewSets_AddRagsArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorRagsChestT4_Terraheim_AddNewSets_AddRagsArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorRagsChestT5_Terraheim_AddNewSets_AddRagsArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorRagsChestT6_Terraheim_AddNewSets_AddRagsArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorRagsLegsT1_Terraheim_AddNewSets_AddRagsArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorRagsLegsT2_Terraheim_AddNewSets_AddRagsArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorRagsLegsT3_Terraheim_AddNewSets_AddRagsArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorRagsLegsT4_Terraheim_AddNewSets_AddRagsArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorRagsLegsT5_Terraheim_AddNewSets_AddRagsArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorRagsLegsT6_Terraheim_AddNewSets_AddRagsArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab HelmetTrollLeatherT2_Terraheim_AddNewSets_AddTrollLeatherArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab HelmetTrollLeatherT3_Terraheim_AddNewSets_AddTrollLeatherArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab HelmetTrollLeatherT4_Terraheim_AddNewSets_AddTrollLeatherArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab HelmetTrollLeatherT5_Terraheim_AddNewSets_AddTrollLeatherArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab HelmetTrollLeatherT6_Terraheim_AddNewSets_AddTrollLeatherArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorTrollLeatherChestT2_Terraheim_AddNewSets_AddTrollLeatherArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorTrollLeatherChestT3_Terraheim_AddNewSets_AddTrollLeatherArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorTrollLeatherChestT4_Terraheim_AddNewSets_AddTrollLeatherArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorTrollLeatherChestT5_Terraheim_AddNewSets_AddTrollLeatherArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorTrollLeatherChestT6_Terraheim_AddNewSets_AddTrollLeatherArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorTrollLeatherLegsT2_Terraheim_AddNewSets_AddTrollLeatherArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorTrollLeatherLegsT3_Terraheim_AddNewSets_AddTrollLeatherArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorTrollLeatherLegsT4_Terraheim_AddNewSets_AddTrollLeatherArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorTrollLeatherLegsT5_Terraheim_AddNewSets_AddTrollLeatherArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorTrollLeatherLegsT6_Terraheim_AddNewSets_AddTrollLeatherArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab HelmetBronzeT3_Terraheim_AddNewSets_AddBronzeArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab HelmetBronzeT4_Terraheim_AddNewSets_AddBronzeArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab HelmetBronzeT5_Terraheim_AddNewSets_AddBronzeArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab HelmetBronzeT6_Terraheim_AddNewSets_AddBronzeArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorBronzeChestT3_Terraheim_AddNewSets_AddBronzeArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorBronzeChestT4_Terraheim_AddNewSets_AddBronzeArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorBronzeChestT5_Terraheim_AddNewSets_AddBronzeArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorBronzeChestT6_Terraheim_AddNewSets_AddBronzeArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorBronzeLegsT3_Terraheim_AddNewSets_AddBronzeArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorBronzeLegsT4_Terraheim_AddNewSets_AddBronzeArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorBronzeLegsT5_Terraheim_AddNewSets_AddBronzeArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorBronzeLegsT6_Terraheim_AddNewSets_AddBronzeArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab HelmetIronT4_Terraheim_AddNewSets_AddIronArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab HelmetIronT5_Terraheim_AddNewSets_AddIronArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab HelmetIronT6_Terraheim_AddNewSets_AddIronArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorIronChestT4_Terraheim_AddNewSets_AddIronArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorIronChestT5_Terraheim_AddNewSets_AddIronArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorIronChestT6_Terraheim_AddNewSets_AddIronArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorIronLegsT4_Terraheim_AddNewSets_AddIronArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorIronLegsT5_Terraheim_AddNewSets_AddIronArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorIronLegsT6_Terraheim_AddNewSets_AddIronArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab HelmetDrakeT5_Terraheim_AddNewSets_AddSilverArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab HelmetDrakeT6_Terraheim_AddNewSets_AddSilverArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorWolfChestT5_Terraheim_AddNewSets_AddSilverArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorWolfChestT6_Terraheim_AddNewSets_AddSilverArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorWolfLegsT5_Terraheim_AddNewSets_AddSilverArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorWolfLegsT6_Terraheim_AddNewSets_AddSilverArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab HelmetPaddedT6_Terraheim_AddNewSets_AddPaddedArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorPaddedCuirassT6_Terraheim_AddNewSets_AddPaddedArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab ArmorPaddedGreavesT6_Terraheim_AddNewSets_AddPaddedArmor
+[Info   :Jotunn.Managers.PrefabManager] Added prefab HelmetWoodsman_Terraheim_AddCirculets_AddWoodsmanCirculet
+[Info   :Jotunn.Managers.PrefabManager] Added prefab BeltMiner_Terraheim_AddCirculets_AddMinersCirculet
+[Info   :Jotunn.Managers.PrefabManager] Added prefab BeltWaterproof_Terraheim_AddCirculets_AddWaterproofBelt
+[Info   :Jotunn.Managers.PrefabManager] Added prefab BeltFarmer_Terraheim_AddCirculets_AddFarmerBelt
+[Info   :Jotunn.Managers.PrefabManager] Added prefab BeltThief_Terraheim_AddCirculets_AddThiefBelt
+[Info   :Jotunn.Managers.PrefabManager] Added prefab CapeDeerHideT0TH
+[Info   :Jotunn.Managers.PrefabManager] Added prefab CapeDeerHideT1TH
+[Info   :Jotunn.Managers.PrefabManager] Added prefab CapeTrollHideT0TH
+[Info   :Jotunn.Managers.PrefabManager] Added prefab CapeTrollHideT1TH
+[Info   :Jotunn.Managers.PrefabManager] Added prefab CapeWolfT1TH
+[Info   :Jotunn.Managers.PrefabManager] Added prefab CapeLoxT1TH
+[Info   :Jotunn.Managers.PrefabManager] Added prefab CapeLinenT0TH
+[Info   :Jotunn.Managers.PrefabManager] Added prefab CapeLinenT1TH
+[Warning:RRRMonsters] True
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LeatherBelt
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverRing
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_GoldRubyRing
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_BoneSkeletonTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EyeGreydwarfTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_AntlerDeerTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_HideTrollTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_CoreSurtlingTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FreezeGlandDrakeTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DragonTearRunestone
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_YagluthThingRunestone
+[Info   : Unity Log] ---- Registering custom objects ----
+[Info   : Unity Log] ---- Loading custom objects ----
+[Info   : Unity Log] ---- Loading piece tables ----
+[Info   : Unity Log] Loaded existing piece table: JVLMock__CultivatorPieceTable
+[Info   : Unity Log] Loaded existing piece table: _HoePieceTable
+[Info   : Unity Log] Loaded existing piece table: _CultivatorPieceTable
+[Info   : Unity Log] Loaded existing piece table: _HammerPieceTable
+[Info   : Unity Log] ---- Loading pieces ----
+[Warning: Unity Log] _MetalGlossiness 0
+[Warning: Unity Log] _Glossiness 0
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_bosses/rrrnpcs.custom.LaughingRylan_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_minibosses/rrrnpcs.custom.AshVexx_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_minibosses/rrrnpcs.custom.CinderMortem_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_minibosses/rrrnpcs.custom.CrisenthShadowsoul_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_minibosses/rrrnpcs.custom.DravenNox_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_minibosses/rrrnpcs.custom.EchoBlack_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_minibosses/rrrnpcs.custom.FirionWinter_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_minibosses/rrrnpcs.custom.GrailThornheart_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_minibosses/rrrnpcs.custom.JaydenShadowmend_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_minibosses/rrrnpcs.custom.LazarusAutumn_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_minibosses/rrrnpcs.custom.LazarusDeamonne_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_minibosses/rrrnpcs.custom.LincolnHunt_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_minibosses/rrrnpcs.custom.LuxFrost_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_minibosses/rrrnpcs.custom.MathianSerphent_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_minibosses/rrrnpcs.custom.SceledrusShadowend_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_minibosses/rrrnpcs.custom.UpirGrim_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_minibosses/rrrnpcs.custom.ZaineEvilian_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_npcs/rrrnpcs.custom.Assassin_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_npcs/rrrnpcs.custom.Brigand_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_npcs/rrrnpcs.custom.GrayWolf_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_npcs/rrrnpcs.custom.Milamber_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_npcs/rrrnpcs.custom.Scoundrel_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_npcs/rrrnpcs.custom.ShadowGuard_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_npcs/rrrnpcs.custom.ShadowMaster_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_npcs/rrrnpcs.custom.ShadowSentinel_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_npcs/rrrnpcs.custom.ShadowWarrior_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_npcs/rrrnpcs.custom.Shadow_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_npcs/rrrnpcs.custom.Stalker_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_npcs/rrrnpcs.custom.Theif_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/friendliesNpcs/rrrnpcs.custom.Ashe.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/friendliesNpcs/rrrnpcs.custom.Dvorah.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/friendliesNpcs/rrrnpcs.custom.Dwarf.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/friendliesNpcs/rrrnpcs.custom.Eir.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/friendliesNpcs/rrrnpcs.custom.Friendly05.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/friendliesNpcs/rrrnpcs.custom.Friendly10.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/friendliesNpcs/rrrnpcs.custom.Friendly15.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/friendliesNpcs/rrrnpcs.custom.Friendly20.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/friendliesNpcs/rrrnpcs.custom.Friendly25.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/friendliesNpcs/rrrnpcs.custom.Friendly30.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/friendliesNpcs/rrrnpcs.custom.Friendly35.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/friendliesNpcs/rrrnpcs.custom.Friendly40.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/friendliesNpcs/rrrnpcs.custom.Friendly45.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/friendliesNpcs/rrrnpcs.custom.FriendlyFemale0.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/friendliesNpcs/rrrnpcs.custom.FriendlyMale0.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/friendliesNpcs/rrrnpcs.custom.Mage.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/friendliesNpcs/rrrnpcs.custom.Necromancer.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_bosses/rrrmonsters.custom.Anubisath_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_bosses/rrrmonsters.custom.Bhygshan_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_bosses/rrrmonsters.custom.Bitterstump_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_bosses/rrrmonsters.custom.IceGolemCR_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_bosses/rrrmonsters.custom.Neige_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_bosses/rrrmonsters.custom.ObsidianGolemCR_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_bosses/rrrmonsters.custom.SkeletonCR_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_bosses/rrrmonsters.custom.SkirSandburst_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_bosses/rrrmonsters.custom.WolfCR_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_bosses/rrrmonsters.custom.WolfForestCR_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_bosses/rrrmonsters.custom.Zena_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.BlackSpider_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.DireWolf_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.ElderSpawn_BF_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.ElderSpawn_ML_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.FireGolem_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.FlameDrake_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.FlameSpider_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.FrostSpider_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.FrozenBones_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.GhostWarrior_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.GreaterFenring_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.GreaterSurtling_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.IceDrake_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.IceGolem_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.IceOgre_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.IceSpider_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.IceTroll_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.JumpingSpider_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.Lich_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.Molluscan_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.ObsidianGolem_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.SkeletonWarrior_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.SmallBlackSpider_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.Tormented_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.TreeSpider_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.Trickster_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.Vanquished_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.VileFang_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.Vilesquito_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.VoidSpider_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.WolfForest_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/Dungeons/rrrmonsters.custom.DraugrMV_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/Dungeons/rrrmonsters.custom.Draugr_EliteMV_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/Dungeons/rrrmonsters.custom.Draugr_RangedMV_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/Dungeons/rrrmonsters.custom.SkeletonMageBC_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_raids/rrrmonsters.custom.Phantasm_A_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_raids/rrrmonsters.custom.Phantasm_B_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_raids/rrrmonsters.custom.Phantasm_C_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_raids/rrrmonsters.custom.Phantasm_D_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_raids/rrrmonsters.custom.Phantasm_E_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_raids/rrrmonsters.custom.Phantasm_F_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_raids/rrrmonsters.custom.Phantasm_G_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_raids/rrrmonsters.custom.Phantasm_H_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.BlobElite_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.Blob_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.Boar_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.Deathsquito_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.Draugr_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.Draugr_Elite_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.Draugr_Ranged_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.Fenring_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.Ghost_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.GoblinArcher_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.GoblinBrute_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.GoblinShaman_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.Goblin_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.Greydwarf_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.Greydwarf_Elite_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.Greydwarf_Shaman_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.Greyling_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.Hatchling_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.Leech_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.Lox_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.Neck_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.Serpent_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.Skeleton_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.Skeleton_NoArcher_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.Skeleton_Poison_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.StoneGolem_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.Surtling_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.Troll_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.Wolf_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.Wraith_DoD.json
+[Message:Friendlies] M
+[Info   :Jotunn.Managers.ItemManager] ---- Adding custom items to _GameMain (ObjectDB) ----
+[Info   :Jotunn.Managers.ItemManager] Added item rk_pork | Token: Raw Pork
+[Info   :Jotunn.Managers.ItemManager] Added item rk_egg | Token: Egg
+[Info   :Jotunn.Managers.ItemManager] Added item rk_dragonegg | Token: Drake Egg
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorBarbarianBronzeHelmetJD | Token: $ArmorBarbarianBronzeHelmetJD
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorBarbarianBronzeChestJD | Token: $ArmorBarbarianBronzeChestJD
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorBarbarianBronzeLegsJD | Token: $ArmorBarbarianBronzeLegsJD
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorBarbarianCapeJD | Token: $ArmorBarbarianCapeJD
+[Info   :Jotunn.Managers.ItemManager] Added item SalamanderFurTH | Token: $item_salamander_fur
+[Info   :Jotunn.Managers.ItemManager] Added item SwordFolcbrand | Token: $item_greatsword_folcbrand
+[Info   :Jotunn.Managers.ItemManager] Added item GreatswordIron | Token: $item_greatsword_iron
+[Info   :Jotunn.Managers.ItemManager] Added item GreatswordBlackmetal | Token: $item_greatsword_blackmetal
+[Info   :Jotunn.Managers.ItemManager] Added item GreatswordChitinTH | Token: $item_greatsword_chitin
+[Info   :Jotunn.Managers.ItemManager] Added item AxeForstasca | Token: $item_axe_frost
+[Info   :Jotunn.Managers.ItemManager] Added item AxeSerpentTH | Token: $item_axe_serpent
+[Info   :Jotunn.Managers.ItemManager] Added item AtgeirSilver | Token: $item_atgeir_silver
+[Info   :Jotunn.Managers.ItemManager] Added item KnifeIron | Token: $item_knife_iron
+[Info   :Jotunn.Managers.ItemManager] Added item KnifeSilverTH | Token: $item_knife_silver
+[Info   :Jotunn.Managers.ItemManager] Added item ShieldSilverDagger | Token: $item_shield_silverdagger
+[Info   :Jotunn.Managers.ItemManager] Added item BowBlackmetalTH | Token: $item_bow_blackmetalTH
+[Info   :Jotunn.Managers.ItemManager] Added item PickaxeBlackmetal | Token: $item_pickaxe_blackmetal
+[Info   :Jotunn.Managers.ItemManager] Added item SpearBlackmetal | Token: $item_spear_blackmetal
+[Info   :Jotunn.Managers.ItemManager] Added item BattleaxeBlackmetal | Token: $item_battleaxe_sledge_blackmetal
+[Info   :Jotunn.Managers.ItemManager] Added item BattleaxeBronzeTerraheim | Token: $item_battleaxe_bronze_terraheim
+[Info   :Jotunn.Managers.ItemManager] Added item GreataxeBlackmetal | Token: $item_battleaxe_blackmetal
+[Info   :Jotunn.Managers.ItemManager] Added item BattleaxeSilver | Token: $item_battleaxe_silver
+[Info   :Jotunn.Managers.ItemManager] Added item GreataxeFlintTH | Token: $item_battleaxe_flint
+[Info   :Jotunn.Managers.ItemManager] Added item MaceFireTH | Token: $item_mace_fire
+[Info   :Jotunn.Managers.ItemManager] Added item GreatswordFireTH | Token: $item_greatsword_fire
+[Info   :Jotunn.Managers.ItemManager] Added item AtgeirFireTH | Token: $item_atgeir_fire
+[Info   :Jotunn.Managers.ItemManager] Added item BowFireTH | Token: $item_bow_fireTH
+[Info   :Jotunn.Managers.ItemManager] Added item BattleaxeFireTH | Token: $item_battleaxe_fire
+[Info   :Jotunn.Managers.ItemManager] Added item SledgeFireTH | Token: $item_battleaxe_sledge_fire
+[Info   :Jotunn.Managers.ItemManager] Added item AxeFireTH | Token: $item_axe_fire
+[Info   :Jotunn.Managers.ItemManager] Added item KnifeFireTH | Token: $item_knife_fire
+[Info   :Jotunn.Managers.ItemManager] Added item SpearFireTH | Token: $item_spear_fire
+[Info   :Jotunn.Managers.ItemManager] Added item ThrowingAxeFire | Token: $item_throwingaxe_fire
+[Info   :Jotunn.Managers.ItemManager] Added item ArrowGreatFireTH | Token: $item_arrow_great_fire
+[Info   :Jotunn.Managers.ItemManager] Added item SwordFireTH | Token: $item_sword_fire
+[Info   :Jotunn.Managers.ItemManager] Added item ShieldFireTH | Token: $item_shield_fire
+[Info   :Jotunn.Managers.ItemManager] Added item ShieldFireTowerTH | Token: $item_shield_fire_tower
+[Info   :Jotunn.Managers.ItemManager] Added item BombFire | Token: $item_firebomb
+[Info   :Jotunn.Managers.ItemManager] Added item BombFrost | Token: $item_frostbomb
+[Info   :Jotunn.Managers.ItemManager] Added item BombLightning | Token: $item_lightningbomb
+[Info   :Jotunn.Managers.ItemManager] Added item ThrowingAxeFlint | Token: $item_throwingaxe_flint
+[Info   :Jotunn.Managers.ItemManager] Added item ThrowingAxeBronze | Token: $item_throwingaxe_bronze
+[Info   :Jotunn.Managers.ItemManager] Added item ThrowingAxeIron | Token: $item_throwingaxe_iron
+[Info   :Jotunn.Managers.ItemManager] Added item ThrowingAxeSilver | Token: $item_throwingaxe_silver
+[Info   :Jotunn.Managers.ItemManager] Added item ThrowingAxeBlackmetal | Token: $item_throwingaxe_blackmetal
+[Info   :Jotunn.Managers.ItemManager] Added item T1ChaosPlateArmor | Token: $item_armor_t1_pchaosbody
+[Info   :Jotunn.Managers.ItemManager] Added item T1ChaosPlateHelm | Token: $item_helmet_t1pchaosplate
+[Info   :Jotunn.Managers.ItemManager] Added item T1ChaosPlateLegs | Token: $item_legs_t1pchaoslegs
+[Info   :Jotunn.Managers.ItemManager] Added item T2ChaosPlateArmor | Token: $item_armor_t2_pchaosbody
+[Info   :Jotunn.Managers.ItemManager] Added item T2ChaosPlateHelm | Token: $item_helmet_t2pchaosplate
+[Info   :Jotunn.Managers.ItemManager] Added item T2ChaosPlateLegs | Token: $item_legs_t2pchaoslegs
+[Info   :Jotunn.Managers.ItemManager] Added item ChaosPlateArmorBody | Token: $item_armor_pchaosbodytwo
+[Info   :Jotunn.Managers.ItemManager] Added item ChaosPlateLegs | Token: $item_legs_pchaoslegs
+[Info   :Jotunn.Managers.ItemManager] Added item ChaosPlateHelm | Token: $item_helmet_pchaosplate
+[Info   :Jotunn.Managers.ItemManager] Added item DragonJam | Token: $custom_item_dragonjam
+[Info   :Jotunn.Managers.ItemManager] Added item NoodlesInABone | Token: $custom_item_noodlesinabone
+[Info   :Jotunn.Managers.ItemManager] Added item BananaJam | Token: $custom_item_bananajam
+[Info   :Jotunn.Managers.ItemManager] Added item BlueberryJam | Token: $custom_item_blueberryjam
+[Info   :Jotunn.Managers.ItemManager] Added item NaturesJam | Token: $custom_item_naturesjam
+[Info   :Jotunn.Managers.ItemManager] Added item HoneySoup | Token: $custom_item_honeysoup
+[Info   :Jotunn.Managers.ItemManager] Added item BlackCultivator | Token: $custom_item_blackcultivator
+[Info   :Jotunn.Managers.ItemManager] Added item BlackPickaxe | Token: $custom_item_blackpick
+[Info   :Jotunn.Managers.ItemManager] Added item Frometal | Token: $custom_item_frometal
+[Info   :Jotunn.Managers.ItemManager] Added item FrometalAxe | Token: $custom_item_frometalaxe
+[Info   :Jotunn.Managers.ItemManager] Added item FrometalPickaxe | Token: $custom_item_frometalpickaxe
+[Info   :Jotunn.Managers.ItemManager] Added item FrometalCultivator | Token: $custom_item_frometalcultivator
+[Info   :Jotunn.Managers.ItemManager] Added item CloudSoup | Token: $custom_item_cloudsoup
+[Info   :Jotunn.Managers.ItemManager] Added item rk_butter | Token: Carrot Butter
+[Info   :Jotunn.Managers.ItemManager] Added item rk_nut_ella | Token: Nut-Ella
+[Info   :Jotunn.Managers.ItemManager] Added item rk_icecream | Token: Ice Cream
+[Info   :Jotunn.Managers.ItemManager] Added item rk_porkrind | Token: Pork Rinds
+[Info   :Jotunn.Managers.ItemManager] Added item rk_kabob | Token: Kabob
+[Info   :Jotunn.Managers.ItemManager] Added item rk_friedloxmeat | Token: Chicken Fried Lox Meat
+[Info   :Jotunn.Managers.ItemManager] Added item rk_glazedcarrots | Token: Honey Glazed Carrots
+[Info   :Jotunn.Managers.ItemManager] Added item rk_bacon | Token: Bacon
+[Info   :Jotunn.Managers.ItemManager] Added item rk_smokedfish | Token: SmokedFish
+[Info   :Jotunn.Managers.ItemManager] Added item rk_pancake | Token: Pancakes
+[Info   :Jotunn.Managers.ItemManager] Added item rk_pizza | Token: Pizza
+[Info   :Jotunn.Managers.ItemManager] Added item rk_coffee | Token: Coffee
+[Info   :Jotunn.Managers.ItemManager] Added item rk_latte | Token: Spice Latte
+[Info   :Jotunn.Managers.ItemManager] Added item rk_firecream | Token: Fire Cream
+[Info   :Jotunn.Managers.ItemManager] Added item rk_electriccream | Token: Electric Cream
+[Info   :Jotunn.Managers.ItemManager] Added item rk_acidcream | Token: Acid Cream Cone
+[Info   :Jotunn.Managers.ItemManager] Added item rk_porridge | Token: Porridge
+[Info   :Jotunn.Managers.ItemManager] Added item rk_pbj | Token: Jimmy's PBJ
+[Info   :Jotunn.Managers.ItemManager] Added item rk_birthday | Token: Birthday Cake
+[Info   :Jotunn.Managers.ItemManager] Added item rk_haggis | Token: Haggis
+[Info   :Jotunn.Managers.ItemManager] Added item rk_candiedturnip | Token: Candied Turnip
+[Info   :Jotunn.Managers.ItemManager] Added item rk_moochi | Token: Moochi
+[Info   :Jotunn.Managers.ItemManager] Added item rk_broth | Token: Bone Broth
+[Info   :Jotunn.Managers.ItemManager] Added item rk_fishstew | Token: Fish Stew
+[Info   :Jotunn.Managers.ItemManager] Added item rk_bloodsausage | Token: Blood Sausage
+[Info   :Jotunn.Managers.ItemManager] Added item rk_burger | Token: Burger
+[Info   :Jotunn.Managers.ItemManager] Added item rk_omlette | Token: Omlette
+[Info   :Jotunn.Managers.ItemManager] Added item rk_boiledegg | Token: Boiled Egg
+[Info   :Jotunn.Managers.ItemManager] Added item rk_carrotsticks | Token: Carrot Sticks
+[Info   :Jotunn.Managers.ItemManager] Added item rk_chef | Token: Chef Hat
+[Info   :Jotunn.Managers.ItemManager] Added item rk_mead | Token: Mead
+[Info   :Jotunn.Managers.ItemManager] Added item IceRuneSword | Token: Runic Ice Sword
+[Info   :Jotunn.Managers.ItemManager] Added item FireRuneSword | Token: Runic Fire Sword
+[Info   :Jotunn.Managers.ItemManager] Added item PoisonRuneSword | Token: Runic Poison Sword
+[Info   :Jotunn.Managers.ItemManager] Added item LightningRuneSword | Token: Runic Lightning Sword
+[Info   :Jotunn.Managers.ItemManager] Added item GreatIceRuneSword | Token: Great Runic Ice Sword
+[Info   :Jotunn.Managers.ItemManager] Added item GreatFireRuneSword | Token: Great Runic Fire Sword
+[Info   :Jotunn.Managers.ItemManager] Added item GreatPoisonRuneSword | Token: Great Runic Poison Sword
+[Info   :Jotunn.Managers.ItemManager] Added item GreatLightningRuneSword | Token: Great Runic Lightning Sword
+[Info   :Jotunn.Managers.ItemManager] Added item IceRuneDagger | Token: Runic Ice Dagger
+[Info   :Jotunn.Managers.ItemManager] Added item FireRuneDagger | Token: Runic Fire Dagger
+[Info   :Jotunn.Managers.ItemManager] Added item PoisonRuneDagger | Token: Runic Poison Dagger
+[Info   :Jotunn.Managers.ItemManager] Added item LightningRuneDagger | Token: Runic Lightning Dagger
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetLeatherT1_Terraheim_AddNewSets_AddLeatherArmor | Token: $item_helmet_leather_t1
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetLeatherT2_Terraheim_AddNewSets_AddLeatherArmor | Token: $item_helmet_leather_t2
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetLeatherT3_Terraheim_AddNewSets_AddLeatherArmor | Token: $item_helmet_leather_t3
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetLeatherT4_Terraheim_AddNewSets_AddLeatherArmor | Token: $item_helmet_leather_t4
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetLeatherT5_Terraheim_AddNewSets_AddLeatherArmor | Token: $item_helmet_leather_t5
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetLeatherT6_Terraheim_AddNewSets_AddLeatherArmor | Token: $item_helmet_leather_t6
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorLeatherChestT1_Terraheim_AddNewSets_AddLeatherArmor | Token: $item_chest_leather_t1
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorLeatherChestT2_Terraheim_AddNewSets_AddLeatherArmor | Token: $item_chest_leather_t2
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorLeatherChestT3_Terraheim_AddNewSets_AddLeatherArmor | Token: $item_chest_leather_t3
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorLeatherChestT4_Terraheim_AddNewSets_AddLeatherArmor | Token: $item_chest_leather_t4
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorLeatherChestT5_Terraheim_AddNewSets_AddLeatherArmor | Token: $item_chest_leather_t5
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorLeatherChestT6_Terraheim_AddNewSets_AddLeatherArmor | Token: $item_chest_leather_t6
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorLeatherLegsT1_Terraheim_AddNewSets_AddLeatherArmor | Token: $item_legs_leather_t1
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorLeatherLegsT2_Terraheim_AddNewSets_AddLeatherArmor | Token: $item_legs_leather_t2
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorLeatherLegsT3_Terraheim_AddNewSets_AddLeatherArmor | Token: $item_legs_leather_t3
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorLeatherLegsT4_Terraheim_AddNewSets_AddLeatherArmor | Token: $item_legs_leather_t4
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorLeatherLegsT5_Terraheim_AddNewSets_AddLeatherArmor | Token: $item_legs_leather_t5
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorLeatherLegsT6_Terraheim_AddNewSets_AddLeatherArmor | Token: $item_legs_leather_t6
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorRagsChestT1_Terraheim_AddNewSets_AddRagsArmor | Token: $item_chest_rags_t1
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorRagsChestT2_Terraheim_AddNewSets_AddRagsArmor | Token: $item_chest_rags_t2
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorRagsChestT3_Terraheim_AddNewSets_AddRagsArmor | Token: $item_chest_rags_t3
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorRagsChestT4_Terraheim_AddNewSets_AddRagsArmor | Token: $item_chest_rags_t4
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorRagsChestT5_Terraheim_AddNewSets_AddRagsArmor | Token: $item_chest_rags_t5
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorRagsChestT6_Terraheim_AddNewSets_AddRagsArmor | Token: $item_chest_rags_t6
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorRagsLegsT1_Terraheim_AddNewSets_AddRagsArmor | Token: $item_legs_rags_t1
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorRagsLegsT2_Terraheim_AddNewSets_AddRagsArmor | Token: $item_legs_rags_t2
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorRagsLegsT3_Terraheim_AddNewSets_AddRagsArmor | Token: $item_legs_rags_t3
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorRagsLegsT4_Terraheim_AddNewSets_AddRagsArmor | Token: $item_legs_rags_t4
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorRagsLegsT5_Terraheim_AddNewSets_AddRagsArmor | Token: $item_legs_rags_t5
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorRagsLegsT6_Terraheim_AddNewSets_AddRagsArmor | Token: $item_legs_rags_t6
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetTrollLeatherT2_Terraheim_AddNewSets_AddTrollLeatherArmor | Token: $item_helmet_trollleather_t2
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetTrollLeatherT3_Terraheim_AddNewSets_AddTrollLeatherArmor | Token: $item_helmet_trollleather_t3
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetTrollLeatherT4_Terraheim_AddNewSets_AddTrollLeatherArmor | Token: $item_helmet_trollleather_t4
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetTrollLeatherT5_Terraheim_AddNewSets_AddTrollLeatherArmor | Token: $item_helmet_trollleather_t5
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetTrollLeatherT6_Terraheim_AddNewSets_AddTrollLeatherArmor | Token: $item_helmet_trollleather_t6
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorTrollLeatherChestT2_Terraheim_AddNewSets_AddTrollLeatherArmor | Token: $item_chest_trollleather_t2
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorTrollLeatherChestT3_Terraheim_AddNewSets_AddTrollLeatherArmor | Token: $item_chest_trollleather_t3
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorTrollLeatherChestT4_Terraheim_AddNewSets_AddTrollLeatherArmor | Token: $item_chest_trollleather_t4
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorTrollLeatherChestT5_Terraheim_AddNewSets_AddTrollLeatherArmor | Token: $item_chest_trollleather_t5
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorTrollLeatherChestT6_Terraheim_AddNewSets_AddTrollLeatherArmor | Token: $item_chest_trollleather_t6
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorTrollLeatherLegsT2_Terraheim_AddNewSets_AddTrollLeatherArmor | Token: $item_legs_trollleather_t2
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorTrollLeatherLegsT3_Terraheim_AddNewSets_AddTrollLeatherArmor | Token: $item_legs_trollleather_t3
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorTrollLeatherLegsT4_Terraheim_AddNewSets_AddTrollLeatherArmor | Token: $item_legs_trollleather_t4
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorTrollLeatherLegsT5_Terraheim_AddNewSets_AddTrollLeatherArmor | Token: $item_legs_trollleather_t5
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorTrollLeatherLegsT6_Terraheim_AddNewSets_AddTrollLeatherArmor | Token: $item_legs_trollleather_t6
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetBronzeT3_Terraheim_AddNewSets_AddBronzeArmor | Token: $item_helmet_bronze_t3
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetBronzeT4_Terraheim_AddNewSets_AddBronzeArmor | Token: $item_helmet_bronze_t4
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetBronzeT5_Terraheim_AddNewSets_AddBronzeArmor | Token: $item_helmet_bronze_t5
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetBronzeT6_Terraheim_AddNewSets_AddBronzeArmor | Token: $item_helmet_bronze_t6
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorBronzeChestT3_Terraheim_AddNewSets_AddBronzeArmor | Token: $item_chest_bronze_t3
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorBronzeChestT4_Terraheim_AddNewSets_AddBronzeArmor | Token: $item_chest_bronze_t4
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorBronzeChestT5_Terraheim_AddNewSets_AddBronzeArmor | Token: $item_chest_bronze_t5
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorBronzeChestT6_Terraheim_AddNewSets_AddBronzeArmor | Token: $item_chest_bronze_t6
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorBronzeLegsT3_Terraheim_AddNewSets_AddBronzeArmor | Token: $item_legs_bronze_t3
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorBronzeLegsT4_Terraheim_AddNewSets_AddBronzeArmor | Token: $item_legs_bronze_t4
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorBronzeLegsT5_Terraheim_AddNewSets_AddBronzeArmor | Token: $item_legs_bronze_t5
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorBronzeLegsT6_Terraheim_AddNewSets_AddBronzeArmor | Token: $item_legs_bronze_t6
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetIronT4_Terraheim_AddNewSets_AddIronArmor | Token: $item_helmet_iron_t4
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetIronT5_Terraheim_AddNewSets_AddIronArmor | Token: $item_helmet_iron_t5
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetIronT6_Terraheim_AddNewSets_AddIronArmor | Token: $item_helmet_iron_t6
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorIronChestT4_Terraheim_AddNewSets_AddIronArmor | Token: $item_chest_iron_t4
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorIronChestT5_Terraheim_AddNewSets_AddIronArmor | Token: $item_chest_iron_t5
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorIronChestT6_Terraheim_AddNewSets_AddIronArmor | Token: $item_chest_iron_t6
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorIronLegsT4_Terraheim_AddNewSets_AddIronArmor | Token: $item_legs_iron_t4
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorIronLegsT5_Terraheim_AddNewSets_AddIronArmor | Token: $item_legs_iron_t5
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorIronLegsT6_Terraheim_AddNewSets_AddIronArmor | Token: $item_legs_iron_t6
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetDrakeT5_Terraheim_AddNewSets_AddSilverArmor | Token: $item_helmet_drake_t5
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetDrakeT6_Terraheim_AddNewSets_AddSilverArmor | Token: $item_helmet_drake_t6
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorWolfChestT5_Terraheim_AddNewSets_AddSilverArmor | Token: $item_chest_wolf_t5
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorWolfChestT6_Terraheim_AddNewSets_AddSilverArmor | Token: $item_chest_wolf_t6
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorWolfLegsT5_Terraheim_AddNewSets_AddSilverArmor | Token: $item_legs_wolf_t5
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorWolfLegsT6_Terraheim_AddNewSets_AddSilverArmor | Token: $item_legs_wolf_t6
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetPaddedT6_Terraheim_AddNewSets_AddPaddedArmor | Token: $item_helmet_padded_t6
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorPaddedCuirassT6_Terraheim_AddNewSets_AddPaddedArmor | Token: $item_chest_padded_t6
+[Info   :Jotunn.Managers.ItemManager] Added item ArmorPaddedGreavesT6_Terraheim_AddNewSets_AddPaddedArmor | Token: $item_legs_padded_t6
+[Info   :Jotunn.Managers.ItemManager] Added item HelmetWoodsman_Terraheim_AddCirculets_AddWoodsmanCirculet | Token: $item_helmet_woodsman
+[Info   :Jotunn.Managers.ItemManager] Added item BeltMiner_Terraheim_AddCirculets_AddMinersCirculet | Token: $item_belt_miner
+[Info   :Jotunn.Managers.ItemManager] Added item BeltWaterproof_Terraheim_AddCirculets_AddWaterproofBelt | Token: $item_belt_waterproof
+[Info   :Jotunn.Managers.ItemManager] Added item BeltFarmer_Terraheim_AddCirculets_AddFarmerBelt | Token: $item_belt_farmer
+[Info   :Jotunn.Managers.ItemManager] Added item BeltThief_Terraheim_AddCirculets_AddThiefBelt | Token: $item_belt_thief
+[Info   :Jotunn.Managers.ItemManager] Added item CapeDeerHideT0TH | Token: $item_cape_deerhideT0
+[Info   :Jotunn.Managers.ItemManager] Added item CapeDeerHideT1TH | Token: $item_cape_deerhideT1
+[Info   :Jotunn.Managers.ItemManager] Added item CapeTrollHideT0TH | Token: $item_cape_trollhideT0
+[Info   :Jotunn.Managers.ItemManager] Added item CapeTrollHideT1TH | Token: $item_cape_trollhideT1
+[Info   :Jotunn.Managers.ItemManager] Added item CapeWolfT1TH | Token: $item_cape_wolfT1
+[Info   :Jotunn.Managers.ItemManager] Added item CapeLoxT1TH | Token: $item_cape_loxT1
+[Info   :Jotunn.Managers.ItemManager] Added item CapeLinenT0TH | Token: $item_cape_linenT0
+[Info   :Jotunn.Managers.ItemManager] Added item CapeLinenT1TH | Token: $item_cape_linenT1
+[Info   :Jotunn.Managers.ItemManager] Updating item hashes
+[Info   :Jotunn.Managers.ItemManager] ---- Adding custom recipes to _GameMain (ObjectDB) ----
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $ArmorBarbarianBronzeHelmetJD
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $ArmorBarbarianBronzeChestJD
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $ArmorBarbarianBronzeLegsJD
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $ArmorBarbarianCapeJD
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_salamander_fur
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_greatsword_folcbrand
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_greatsword_iron
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_greatsword_blackmetal
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_greatsword_chitin
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_axe_frost
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_axe_serpent
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_atgeir_silver
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_knife_iron
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_knife_silver
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_shield_silverdagger
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_bow_blackmetalTH
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_pickaxe_blackmetal
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_spear_blackmetal
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_battleaxe_sledge_blackmetal
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_battleaxe_bronze_terraheim
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_battleaxe_blackmetal
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_battleaxe_silver
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_battleaxe_flint
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_mace_fire
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_greatsword_fire
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_atgeir_fire
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_bow_fireTH
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_battleaxe_fire
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_battleaxe_sledge_fire
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_axe_fire
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_knife_fire
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_spear_fire
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_throwingaxe_fire
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_arrow_great_fire
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_sword_fire
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_shield_fire
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_shield_fire_tower
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_firebomb
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_frostbomb
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_lightningbomb
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_throwingaxe_flint
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_throwingaxe_bronze
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_throwingaxe_iron
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_throwingaxe_silver
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_throwingaxe_blackmetal
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_armor_t1_pchaosbody
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_helmet_t1pchaosplate
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_legs_t1pchaoslegs
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_armor_t2_pchaosbody
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_helmet_t2pchaosplate
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_legs_t2pchaoslegs
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_armor_pchaosbodytwo
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_helmet_pchaosplate
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_legs_pchaoslegs
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $custom_item_dragonjam
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $custom_item_noodlesinabone
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $custom_item_bananajam
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $custom_item_blueberryjam
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $custom_item_naturesjam
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $custom_item_honeysoup
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $custom_item_blackcultivator
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $custom_item_blackpick
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $custom_item_frometal
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $custom_item_frometalaxe
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $custom_item_frometalpickaxe
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $custom_item_frometalcultivator
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $custom_item_cloudsoup
+[Info   :Jotunn.Managers.ItemManager] Added recipe for Carrot Butter
+[Info   :Jotunn.Managers.ItemManager] Added recipe for Nut-Ella
+[Info   :Jotunn.Managers.ItemManager] Added recipe for Ice Cream
+[Info   :Jotunn.Managers.ItemManager] Added recipe for Pork Rinds
+[Info   :Jotunn.Managers.ItemManager] Added recipe for Kabob
+[Info   :Jotunn.Managers.ItemManager] Added recipe for Chicken Fried Lox Meat
+[Info   :Jotunn.Managers.ItemManager] Added recipe for Honey Glazed Carrots
+[Info   :Jotunn.Managers.ItemManager] Added recipe for Bacon
+[Info   :Jotunn.Managers.ItemManager] Added recipe for SmokedFish
+[Info   :Jotunn.Managers.ItemManager] Added recipe for Pancakes
+[Info   :Jotunn.Managers.ItemManager] Added recipe for Pizza
+[Info   :Jotunn.Managers.ItemManager] Added recipe for Coffee
+[Info   :Jotunn.Managers.ItemManager] Added recipe for Spice Latte
+[Info   :Jotunn.Managers.ItemManager] Added recipe for Fire Cream
+[Info   :Jotunn.Managers.ItemManager] Added recipe for Electric Cream
+[Info   :Jotunn.Managers.ItemManager] Added recipe for Acid Cream Cone
+[Info   :Jotunn.Managers.ItemManager] Added recipe for Porridge
+[Info   :Jotunn.Managers.ItemManager] Added recipe for Jimmy's PBJ
+[Info   :Jotunn.Managers.ItemManager] Added recipe for Birthday Cake
+[Info   :Jotunn.Managers.ItemManager] Added recipe for Haggis
+[Info   :Jotunn.Managers.ItemManager] Added recipe for Candied Turnip
+[Info   :Jotunn.Managers.ItemManager] Added recipe for Moochi
+[Info   :Jotunn.Managers.ItemManager] Added recipe for Bone Broth
+[Info   :Jotunn.Managers.ItemManager] Added recipe for Fish Stew
+[Info   :Jotunn.Managers.ItemManager] Added recipe for Blood Sausage
+[Info   :Jotunn.Managers.ItemManager] Added recipe for Burger
+[Info   :Jotunn.Managers.ItemManager] Added recipe for Omlette
+[Info   :Jotunn.Managers.ItemManager] Added recipe for Boiled Egg
+[Info   :Jotunn.Managers.ItemManager] Added recipe for Carrot Sticks
+[Info   :Jotunn.Managers.ItemManager] Added recipe for Chef Hat
+[Info   :Jotunn.Managers.ItemManager] Added recipe for Mead
+[Info   :Jotunn.Managers.ItemManager] Added recipe for Runic Ice Sword
+[Info   :Jotunn.Managers.ItemManager] Added recipe for Runic Fire Sword
+[Info   :Jotunn.Managers.ItemManager] Added recipe for Runic Poison Sword
+[Info   :Jotunn.Managers.ItemManager] Added recipe for Runic Lightning Sword
+[Info   :Jotunn.Managers.ItemManager] Added recipe for Great Runic Ice Sword
+[Info   :Jotunn.Managers.ItemManager] Added recipe for Great Runic Fire Sword
+[Info   :Jotunn.Managers.ItemManager] Added recipe for Great Runic Poison Sword
+[Info   :Jotunn.Managers.ItemManager] Added recipe for Great Runic Lightning Sword
+[Info   :Jotunn.Managers.ItemManager] Added recipe for Runic Ice Dagger
+[Info   :Jotunn.Managers.ItemManager] Added recipe for Runic Fire Dagger
+[Info   :Jotunn.Managers.ItemManager] Added recipe for Runic Poison Dagger
+[Info   :Jotunn.Managers.ItemManager] Added recipe for Runic Lightning Dagger
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_helmet_leather_t1
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_helmet_leather_t2
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_helmet_leather_t3
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_helmet_leather_t4
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_helmet_leather_t5
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_helmet_leather_t6
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_chest_leather_t1
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_chest_leather_t2
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_chest_leather_t3
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_chest_leather_t4
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_chest_leather_t5
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_chest_leather_t6
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_legs_leather_t1
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_legs_leather_t2
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_legs_leather_t3
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_legs_leather_t4
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_legs_leather_t5
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_legs_leather_t6
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_chest_rags_t1
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_chest_rags_t2
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_chest_rags_t3
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_chest_rags_t4
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_chest_rags_t5
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_chest_rags_t6
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_legs_rags_t1
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_legs_rags_t2
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_legs_rags_t3
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_legs_rags_t4
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_legs_rags_t5
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_legs_rags_t6
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_helmet_trollleather_t2
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_helmet_trollleather_t3
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_helmet_trollleather_t4
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_helmet_trollleather_t5
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_helmet_trollleather_t6
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_chest_trollleather_t2
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_chest_trollleather_t3
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_chest_trollleather_t4
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_chest_trollleather_t5
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_chest_trollleather_t6
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_legs_trollleather_t2
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_legs_trollleather_t3
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_legs_trollleather_t4
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_legs_trollleather_t5
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_legs_trollleather_t6
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_helmet_bronze_t3
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_helmet_bronze_t4
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_helmet_bronze_t5
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_helmet_bronze_t6
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_chest_bronze_t3
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_chest_bronze_t4
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_chest_bronze_t5
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_chest_bronze_t6
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_legs_bronze_t3
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_legs_bronze_t4
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_legs_bronze_t5
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_legs_bronze_t6
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_helmet_iron_t4
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_helmet_iron_t5
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_helmet_iron_t6
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_chest_iron_t4
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_chest_iron_t5
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_chest_iron_t6
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_legs_iron_t4
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_legs_iron_t5
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_legs_iron_t6
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_helmet_drake_t5
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_helmet_drake_t6
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_chest_wolf_t5
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_chest_wolf_t6
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_legs_wolf_t5
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_legs_wolf_t6
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_helmet_padded_t6
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_chest_padded_t6
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_legs_padded_t6
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_helmet_woodsman
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_belt_miner
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_belt_waterproof
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_belt_farmer
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_belt_thief
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_cape_deerhideT0
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_cape_deerhideT1
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_cape_trollhideT0
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_cape_trollhideT1
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_cape_wolfT1
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_cape_loxT1
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_cape_linenT0
+[Info   :Jotunn.Managers.ItemManager] Added recipe for $item_cape_linenT1
+[Info   :Jotunn.Managers.ItemManager] ---- Adding custom status effects to _GameMain (ObjectDB) ----
+[Info   :Jotunn.Managers.ItemManager] Added status effect Ranged Damage Bonus
+[Info   :Jotunn.Managers.ItemManager] Added status effect Dagger/Spear Damage Bonus
+[Info   :Jotunn.Managers.ItemManager] Added status effect One Hand Damage Bonus
+[Info   :Jotunn.Managers.ItemManager] Added status effect Melee Damage Bonus
+[Info   :Jotunn.Managers.ItemManager] Added status effect Two Handed Damage Bonus
+[Info   :Jotunn.Managers.ItemManager] Added status effect Silver Damage Bonus
+[Info   :Jotunn.Managers.ItemManager] Added status effect Spirit Damage Bonus
+[Info   :Jotunn.Managers.ItemManager] Added status effect Tree Damage Bonus
+[Info   :Jotunn.Managers.ItemManager] Added status effect Mining Bonus
+[Info   :Jotunn.Managers.ItemManager] Added status effect Throwing Damage Bonus
+[Info   :Jotunn.Managers.ItemManager] Added status effect Damage Vs Low HP
+[Info   :Jotunn.Managers.ItemManager] Added status effect Ranger Weapon Bonus
+[Info   :Jotunn.Managers.ItemManager] Added status effect Poison Vulnerable
+[Info   :Jotunn.Managers.ItemManager] Added status effect Dodge Stamina Use
+[Info   :Jotunn.Managers.ItemManager] Added status effect Block Stamina Use
+[Info   :Jotunn.Managers.ItemManager] Added status effect Extra Stamina
+[Info   :Jotunn.Managers.ItemManager] Added status effect Stamina Regen
+[Info   :Jotunn.Managers.ItemManager] Added status effect Attack Stamina Use
+[Info   :Jotunn.Managers.ItemManager] Added status effect Ammo Consumption
+[Info   :Jotunn.Managers.ItemManager] Added status effect Backstab Bonus
+[Info   :Jotunn.Managers.ItemManager] Added status effect Health Increase
+[Info   :Jotunn.Managers.ItemManager] Added status effect Draw Move Speed
+[Info   :Jotunn.Managers.ItemManager] Added status effect Parry Bonus Increase
+[Info   :Jotunn.Managers.ItemManager] Added status effect Block Power Bonus
+[Info   :Jotunn.Managers.ItemManager] Added status effect Food Usage
+[Info   :Jotunn.Managers.ItemManager] Added status effect Heal On Block
+[Info   :Jotunn.Managers.ItemManager] Added status effect Waterproof
+[Info   :Jotunn.Managers.ItemManager] Added status effect Harvest Yield Up
+[Info   :Jotunn.Managers.ItemManager] Added status effect Sneak Movement
+[Info   :Jotunn.Managers.ItemManager] Added status effect Throwing Weapon Velocity
+[Info   :Jotunn.Managers.ItemManager] Added status effect Bloodrush
+[Info   :Jotunn.Managers.ItemManager] Added status effect Bloodrush Listener
+[Info   :Jotunn.Managers.ItemManager] Added status effect Hyperarmor
+[Info   :Jotunn.Managers.ItemManager] Added status effect Two Hand Attack Speed
+[Info   :Jotunn.Managers.ItemManager] Added status effect ShieldFireHeal
+[Info   :Jotunn.Managers.ItemManager] Added status effect Afterburn Cooldown
+[Info   :Jotunn.Managers.ItemManager] Added status effect Life Steal
+[Info   :Jotunn.Managers.ItemManager] Added status effect Pinning
+[Info   :Jotunn.Managers.ItemManager] Added status effect Pinned
+[Info   :Jotunn.Managers.ItemManager] Added status effect Pinned Cooldown
+[Info   :Jotunn.Managers.ItemManager] Added status effect HP Regen
+[Info   :Jotunn.Managers.ItemManager] Added status effect Brassflesh Listener
+[Info   :Jotunn.Managers.ItemManager] Added status effect Brassflesh
+[Info   :Jotunn.Managers.ItemManager] Added status effect Crit Chance
+[Info   :Jotunn.Managers.ItemManager] Added status effect Battle Furor
+[Info   :Jotunn.Managers.ItemManager] Added status effect Battle FurorFX
+[Info   :Jotunn.Managers.ItemManager] Added status effect Wolftears
+[Info   :Jotunn.Managers.ItemManager] Added status effect WolftearsFX
+[Info   :Jotunn.Managers.ItemManager] Added status effect Tear Protection Exhausted
+[Info   :Jotunn.Managers.ItemManager] Added status effect Wyrdarrow
+[Info   :Jotunn.Managers.ItemManager] Added status effect WyrdarrowFX
+[Info   :Jotunn.Managers.ItemManager] Added status effect Wyrd Exhausted
+[Info   :Jotunn.Managers.ItemManager] Added status effect Thorns
+[Info   :Jotunn.Managers.ItemManager] Added status effect Death Mark
+[Info   :Jotunn.Managers.ItemManager] Added status effect Marked For Death
+[Info   :Jotunn.Managers.ItemManager] Added status effect Marked For Death FX
+[Info   :Jotunn.Managers.ItemManager] Added status effect Chosen
+[Info   :Jotunn.Managers.ItemManager] Added status effect Bloodlust
+[Info   :Jotunn.Managers.ItemManager] Added status effect Bloated
+[Info   :Jotunn.Managers.ItemManager] Added status effect Hidden Knowledge
+[Info   :Jotunn.Managers.ItemManager] Added status effect Adrenaline
+[Info   :Jotunn.Managers.ItemManager] Added status effect Blinding Rage
+[Info   :Jotunn.Managers.ItemManager] Added status effect Pestilence
+[Info   :Jotunn.Managers.ItemManager] Added status effect Maddening Visions
+[Info   :Jotunn.Managers.ItemManager] Added status effect Withdrawals
+[Info   :Jotunn.Managers.ItemManager] Added status effect Challenge Move Speed
+[Info   :Jotunn.Managers.ItemManager] Added status effect Challenge Dodge Bonus
+[Info   :Jotunn.Managers.ItemManager] Added status effect Sprinter
+[Info   :Jotunn.Managers.ItemManager] Added status effect HealthPercentDamage
+[Info   :Jotunn.Managers.ItemManager] Added status effect ChainExplosionListener
+[Info   :Jotunn.Managers.ItemManager] Added status effect HazeEffect
+[Info   :Jotunn.Managers.ItemManager] Added status effect EchoEffect
+[Info   :Jotunn.Managers.ItemManager] Added status effect WeightlessEffect
+[Info   :Jotunn.Managers.PieceManager] ---- Adding custom pieces to the PieceTables ----
+[Info   :Jotunn.Managers.PieceManager] Added piece reforger | Token: $piece_reforger
+[Info   :Jotunn.Managers.PieceManager] Added piece reforger_ext1 | Token: $piece_reforger_ext1
+[Info   :Jotunn.Managers.PieceManager] Added piece reforger_ext2 | Token: $piece_reforger_ext2
+[Info   :Jotunn.Managers.PieceManager] Added piece reforger_ext3 | Token: $piece_reforger_ext3
+[Info   :Jotunn.Managers.PieceManager] Added piece reforger_ext4 | Token: $piece_reforger_ext4
+[Info   :Jotunn.Managers.PieceManager] Added piece reforger_ext5 | Token: $piece_reforger_ext5
+[Info   :Jotunn.Managers.PieceManager] Added piece rk_grill | Token: Grill
+[Info   :Jotunn.Managers.PieceManager] Added piece rk_griddle | Token: Stone Griddle
+[Info   :Jotunn.Managers.PieceManager] Added piece rk_oven | Token: Oven
+[Info   :Jotunn.Managers.PieceManager] Added piece rk_campfire | Token: Smokeless Firepit
+[Info   :Jotunn.Managers.PieceManager] Added piece rk_hearth | Token: Smokeless Hearth
+[Info   :Jotunn.Managers.PieceManager] Added piece rk_prep | Token: Prep Table
+[Info   :Jotunn.Managers.PieceManager] Added piece rk_brazier | Token: Smokeless Brazier
+[Info   :Jotunn.Managers.PieceManager] Added piece piece_artisanice | Token: $piece_artisan_ext1
+[Info   :Jotunn.Managers.PieceManager] Added piece piece_artisanpurp | Token: $piece_artisan_ext3
+[Info   :Jotunn.Managers.PieceManager] Added piece piece_artisanpoison | Token: $piece_artisan_ext2
+[Info   :Jotunn.Managers.PieceManager] Added piece piece_artisanlight | Token: $piece_artisan_ext4
+[Info   :Jotunn.Managers.PieceManager] Added piece piece_artisanround1 | Token: $piece_artisan_ext5
+[Info   :Jotunn.Managers.PieceManager] Added piece piece_artisanround2 | Token: $piece_artisan_ext4
+[Info   :Jotunn.Managers.MockManager] Destroying Mock prefabs
+[Info   : Unity Log] 07/08/2021 13:19:16: Audioman already exist, destroying self
+
+[Info   : Unity Log] [Better Trader] Trader's coins were loaded from Player Prefs with a value of 2000
+[Info   : Unity Log] 07/08/2021 13:19:39: Zonesystem Start 585
+
+[Info   : Unity Log] 07/08/2021 13:19:41: DungeonDB Start 585
+
+[Info   : Unity Log] 07/08/2021 13:19:42: Load world DDWYNeu
+
+[Info   : Unity Log] 07/08/2021 13:19:42:   missing /home/valheim/.config/unity3d/IronGate/Valheim/worlds/DDWYNeu.db
+
+[Info   : Unity Log] 07/08/2021 13:19:42: Generating locations
+
+[Info   : Unity Log] 07/08/2021 13:19:42: Checking for location duplicates
+
+[Warning: Unity Log] 07/08/2021 13:19:49: Failed to place all FireHole, placed 156 out of 200
+
+[Info   : Unity Log] 07/08/2021 13:20:26:  Done generating locations, duration:44282.146 ms
+
+[Info   : Unity Log] 07/08/2021 13:20:28: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+
+[Info   : Unity Log] 07/08/2021 13:20:28: New connection
+
+[Info   : Unity Log] 07/08/2021 13:20:28: Accepting connection k_EResultInvalidState
+
+[Info   : Unity Log] 07/08/2021 13:20:28: Got status changed msg k_ESteamNetworkingConnectionState_ClosedByPeer
+
+[Info   : Unity Log] 07/08/2021 13:20:28: Socket closed by peer Steamworks.SteamNetConnectionStatusChangedCallback_t
+
+[Info   : Unity Log] 07/08/2021 13:20:28: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+
+[Info   : Unity Log] 07/08/2021 13:20:28: New connection
+
+[Info   : Unity Log] 07/08/2021 13:20:28: Accepting connection k_EResultInvalidState
+
+[Info   : Unity Log] 07/08/2021 13:20:28: Got status changed msg k_ESteamNetworkingConnectionState_ClosedByPeer
+
+[Info   : Unity Log] 07/08/2021 13:20:28: Socket closed by peer Steamworks.SteamNetConnectionStatusChangedCallback_t
+
