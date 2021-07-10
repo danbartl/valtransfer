@@ -1,6 +1,6 @@
 General:
 ssh root@164.68.110.183
-MsKA6F8hF5vSeLq9
+
 
 164.68.110.183:2456
 #Vanilla
@@ -52,3 +52,4 @@ iptables -A INPUT -m state --state NEW -m tcp -p tcp --dport 2458 -j ACCEPT
 docker exec -it valheim-server bash
 cd /opt/valheim/bepinex/BepInEx
 ls -la
+    -e BACKUPS_DIRECTORY = /home/backups:/config/backups \
