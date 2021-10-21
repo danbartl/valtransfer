@@ -1,0 +1,120 @@
+[Message:   BepInEx] BepInEx 5.4.16.0 - valheim_server (10/21/2021 7:25:54 PM)
+[Info   :   BepInEx] Running under Unity vUnknown (post-2017)
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Linux
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.16.0]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Info   :   BepInEx] Detected Unity version: v2019.4.24f1
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 45 plugins to load
+[Info   :   BepInEx] Loading [PlantEverything 1.8.4]
+[Info   : PlantEverything] Initialized Server Authoritative Config Manager.
+[Info   :   BepInEx] Loading [Forgotten Biomes 0.0.12]
+[Info   : Unity Log] 10/21/2021 19:27:19: Forgotten_Biomes: Running on Linux based server 
+
+[Info   :   BepInEx] Loading [Custom Raids 1.4.0]
+[Info   :Custom Raids] Loading configurations...
+[Info   :   BepInEx] Loading [Creature Level & Loot Control 4.4.3]
+[Info   : Unity Log] 10/21/2021 19:27:19: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 10/21/2021 19:27:19: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 10/21/2021 19:27:20: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 10/21/2021 19:27:20: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 10/21/2021 19:27:20: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 10/21/2021 19:27:20: Loaded localization CSV:localization_extra language:English
+
+[Info   :   BepInEx] Loading [Project Auga 1.0.8]
+[Info   :   BepInEx] Loading [Extended Item Data Framework 1.0.6]
+[Info   :   BepInEx] Loading [Epic Loot 0.8.7]
+[Info   :   BepInEx] Loading [Spawn That! 0.11.3]
+[Message:Spawn That!] Loading general configurations
+[Message:Spawn That!] Finished loading general configurations
+[Info   :   BepInEx] Loading [Drop That! 2.1.0]
+[Message:Drop That!] Loading general configuration from /opt/valheim/bepinex/BepInEx/config/drop_that.cfg.
+[Info   :   BepInEx] Loading [Better Wards 1.6.4]
+[Info   :Better Wards] Config Initialized
+[Info   :Better Wards] Loading Better Wards configuration file
+[Info   :Better Wards] Starting Better Wards-Client
+[Info   :Better Wards] Better Wards [1.6.4] is up to date.
+[Info   :   BepInEx] Loading [RRRCore 0.2.10]
+[Info   :   BepInEx] Loading [RRRNpcs 0.2.3]
+[Info   :   BepInEx] Loading [RRRMonsters 0.2.2]
+[Info   :   BepInEx] Loading [RRRBetterRaids 0.2.2]
+[Info   :   BepInEx] Loading [Jotunn 2.3.7]
+[Info   :    Jotunn] Initializing LocalizationManager
+[Info   :    Jotunn] Initializing CommandManager
+[Info   :    Jotunn] Initializing InputManager
+[Info   :    Jotunn] Initializing SkillManager
+[Info   :    Jotunn] Initializing PrefabManager
+[Info   :    Jotunn] Initializing ItemManager
+[Info   :    Jotunn] Initializing PieceManager
+[Info   :    Jotunn] Initializing MockManager
+[Info   :    Jotunn] Initializing KitbashManager
+[Info   :    Jotunn] Initializing GUIManager
+[Info   :    Jotunn] Initializing SynchronizationManager
+[Info   :    Jotunn] Jötunn v2.3.7 loaded successfully
+[Info   :   BepInEx] Loading [PotionsPlus 3.0.2]
+[Info   :   BepInEx] Loading [OdinArchitect 0.1.3]
+[Info   :OdinArchitect.OdinArchitect] Embedded resources: OdinArchitect.odinarchitect
+[Info   :   BepInEx] Loading [BoneAppetit 3.0.2]
+[Message:Boneappetit.BoneAppetit] Prepping Kitchen...
+[Message:Boneappetit.BoneAppetit] Big thanks to MeatwareMonster!
+[Info   :   BepInEx] Loading [Basement 1.0.2]
+[Info   :   BepInEx] Loading [Crawler 0.0.7]
+[Info   : Unity Log] Loading Nasty Crawler
+[Info   :   BepInEx] Loading [Valheim Performance Optimizations 0.7.6]
+[Info   :   BepInEx] Loading [DoD Assets 0.4]
+[Info   :   BepInEx] Loading [MonsterLabZ 1.7.0]
+[Info   :   BepInEx] Loading [BlacksmithTools 2.0.1]
+[Info   :   BepInEx] Loading [JudesEquipment 1.3.0]
+[Info   :   BepInEx] Loading [Golem 0.0.7]
+[Info   : Unity Log] Loading Golem
+[Info   :   BepInEx] Loading [DoOrDieMonsters 0.3.5]
+[Info   : Unity Log] Loading AoENomad
+[Info   : Unity Log] Loading AoEAuraFrost
+[Info   : Unity Log] Loading AoEAuraShadow
+[Info   : Unity Log] Loading AoEAuraFire
+[Info   : Unity Log] Loading AoEAuraStorm
+[Info   :   BepInEx] Loading [Less Food Degradation 1.1.0]
+[Info   :   BepInEx] Loading [Hugo's Armory 5.0.0]
+[Info   :   BepInEx] Loading [MagicOverhaul 1.5.2]
+[Info   :   BepInEx] Loading [Monsterzz 0.0.7]
+[Info   :   BepInEx] Loading [Stamina Regeneration from Food 1.5]
+[Info   :   BepInEx] Loading [Passive Powers 1.0]
+[Info   :   BepInEx] Loading [Server Characters 1.0]
+[Info   :   BepInEx] Loading [Steady Regeneration 1.0]
+[Info   :   BepInEx] Loading [Display BepInEx Info In-Game 2.0.0]
+[Info   :   BepInEx] Loading [Equipment and Quick Slots 2.0.14]
+[Info   :   BepInEx] Loading [ChaosArmor 6.0.5]
+[Info   :   BepInEx] Loading [BuildIt 1.3.1]
+[Info   :   BepInEx] Loading [Bears 0.1.2]
+[Info   :   BepInEx] Loading [WendigoMonsterZZ 0.0.7]
+[Info   : Unity Log] Loading Wendigo1
+[Info   : Unity Log] Loading Wendigo2
+[Info   :   BepInEx] Loading [WereBearZZ 0.0.7]
+[Info   : Unity Log] Loading Bear1
+[Info   : Unity Log] Loading Bear2
+[Info   : Unity Log] Loading Bear3
+[Info   :   BepInEx] Loading [WhereWolves 0.0.7]
+[Info   : Unity Log] Loading Wolf1
+[Info   : Unity Log] Loading Wolf2
+[Info   : Unity Log] Loading Wolf3
+[Info   : Unity Log] Loading Wolf4
+[Info   : Unity Log] Loading Wolf5
+[Info   :   BepInEx] Loading [Wizard 0.0.7]
+[Info   : Unity Log] Loading Wizard
+[Info   :   BepInEx] Loading [YetiMonsterZ 0.0.7]
+[Info   : Unity Log] Loading Yeti
+[Message:   BepInEx] Chainloader startup complete
+[Info   : Unity Log] 10/21/2021 19:29:11: Starting to load scene:start
+
+[Info   : Unity Log] loaded Blacksmith's Tools
