@@ -1,4 +1,4 @@
-[Message:   BepInEx] BepInEx 5.4.16.0 - valheim_server (10/21/2021 7:25:54 PM)
+[Message:   BepInEx] BepInEx 5.4.16.0 - valheim_server (10/21/2021 7:44:12 PM)
 [Info   :   BepInEx] Running under Unity vUnknown (post-2017)
 [Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
 [Info   :   BepInEx] Supports SRE: True
@@ -15,22 +15,22 @@
 [Info   :   BepInEx] Loading [PlantEverything 1.8.4]
 [Info   : PlantEverything] Initialized Server Authoritative Config Manager.
 [Info   :   BepInEx] Loading [Forgotten Biomes 0.0.12]
-[Info   : Unity Log] 10/21/2021 19:27:19: Forgotten_Biomes: Running on Linux based server 
+[Info   : Unity Log] 10/21/2021 19:45:01: Forgotten_Biomes: Running on Linux based server 
 
 [Info   :   BepInEx] Loading [Custom Raids 1.4.0]
 [Info   :Custom Raids] Loading configurations...
 [Info   :   BepInEx] Loading [Creature Level & Loot Control 4.4.3]
-[Info   : Unity Log] 10/21/2021 19:27:19: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 10/21/2021 19:45:01: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 10/21/2021 19:27:19: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 10/21/2021 19:45:01: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 10/21/2021 19:27:20: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 10/21/2021 19:45:02: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 10/21/2021 19:27:20: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 10/21/2021 19:45:02: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 10/21/2021 19:27:20: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 10/21/2021 19:45:02: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 10/21/2021 19:27:20: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 10/21/2021 19:45:02: Loaded localization CSV:localization_extra language:English
 
 [Info   :   BepInEx] Loading [Project Auga 1.0.8]
 [Info   :   BepInEx] Loading [Extended Item Data Framework 1.0.6]
@@ -115,6 +115,540 @@
 [Info   :   BepInEx] Loading [YetiMonsterZ 0.0.7]
 [Info   : Unity Log] Loading Yeti
 [Message:   BepInEx] Chainloader startup complete
-[Info   : Unity Log] 10/21/2021 19:29:11: Starting to load scene:start
+[Info   : Unity Log] 10/21/2021 19:46:21: Starting to load scene:start
 
 [Info   : Unity Log] loaded Blacksmith's Tools
+[Warning: Unity Log] HDR Render Texture not supported, disabling HDR on reflection probe.
+[Warning: Unity Log] HDR Render Texture not supported, disabling HDR on reflection probe.
+[Message:JudesEquipment] Blacksmith's tools found.
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+[Warning: Unity Log] HDR Render Texture not supported, disabling HDR on reflection probe.
+[Info   : Unity Log] 10/21/2021 19:47:11: Valheim version:0.203.11
+
+[Info   :Jotunn.Managers.CommandManager] Adding 1 commands to the Console
+[Info   : Unity Log] 10/21/2021 19:47:11: Render threading mode:SingleThreaded
+
+[Message:Spawn That!] Loading all configs.
+[Message:Spawn That!] Loading general configurations
+[Message:Spawn That!] Finished loading general configurations
+[Message:Spawn That!] Loading simple configurations
+[Message:Spawn That!] Loading world spawner configurations.
+[Warning:Spawn That!] Overlapping world spawner configs for WorldSpawner.15, overriding existing.
+[Warning:Spawn That!] Overlapping world spawner configs for WorldSpawner.24, overriding existing.
+[Message:Spawn That!] Loading local spawner configurations.
+[Message:Spawn That!] Config loading took: 00:00:01.1974900
+[Message:Drop That!] Loading character drop configurations
+[Message:Drop That!] Loading character drop lists
+[Message:Drop That!] Loading drop table configurations
+[Message:Drop That!] Loading drop table lists
+[Info   : Unity Log] 10/21/2021 19:47:16: Get create world DDWYNeu
+
+[Info   : Unity Log] 10/21/2021 19:47:16: Using environment steamid 892970
+
+[Info   : Unity Log] 10/21/2021 19:47:16: Using steam APPID:892970
+
+[Info   : Unity Log] 10/21/2021 19:47:16: Server ID 90071992547409920
+
+[Info   : Unity Log] 10/21/2021 19:47:16: Authentication:k_ESteamNetworkingAvailability_Waiting
+
+[Info   : Unity Log] 10/21/2021 19:47:16: Steam game server initialized
+
+[Warning: Unity Log] 10/21/2021 19:47:17: Missing audio clip in music respawn
+
+[Info   :Jotunn.Managers.LocalizationManager] Loading custom localizations
+[Info   : Unity Log] 10/21/2021 19:47:17: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 10/21/2021 19:47:17: Loaded localization CSV:localization_extra language:English
+
+[Info   :Jotunn.Managers.LocalizationManager] Adding tokens for language 'English'
+[Warning:RRRMonsters] True
+[Info   : Unity Log] Trying to register Items
+[Info   : Unity Log] 10/21/2021 19:47:18: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 10/21/2021 19:47:18: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 10/21/2021 19:47:18: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 10/21/2021 19:47:18: Loaded localization CSV:localization_extra language:English
+
+[Message:Boneappetit.BoneAppetit] Loaded Game VFX and SFX
+[Message:Boneappetit.BoneAppetit] Load Complete. Bone Appetit yall.
+[Message:BuildIt.BuildIt] Loaded Game VFX and SFX
+[Info   :Jotunn.Managers.ItemManager] Adding 105 custom items to the ObjectDB
+[Warning:RRRMonsters] True
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LeatherBelt
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverRing
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_GoldRubyRing
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_BoneSkeletonTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EyeGreydwarfTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_AntlerDeerTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_HideTrollTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_CoreSurtlingTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FreezeGlandDrakeTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DragonTearRunestone
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_YagluthThingRunestone
+[Info   : Unity Log] Trying to register Items
+[Info   : Unity Log] 10/21/2021 19:47:21: Game server connected
+
+[Info   : Unity Log] 10/21/2021 19:47:21: UI Group status changed Menu = False
+
+[Warning: Unity Log] HDR Render Texture not supported, disabling HDR on reflection probe.
+[Warning: Unity Log] HDR Render Texture not supported, disabling HDR on reflection probe.
+[Info   :Jotunn.Managers.CommandManager] Adding 1 commands to the Console
+[Info   : Unity Log] 10/21/2021 19:47:22: Zonesystem Awake 8
+
+[Info   : Unity Log] 10/21/2021 19:47:22: DungeonDB Awake 8
+
+[Info   :Better Wards] Enabling for dedicated server
+[Info   : Unity Log] 10/21/2021 19:47:22: Registering lobby
+
+[Info   : Unity Log] Registered 'CL&LC ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'randyknapp.mods.epicloot ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'htd.armory ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'Stamina Regeneration from Food ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'org.bepinex.plugins.passivepowers ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'org.bepinex.plugins.servercharacters ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'org.bepinex.plugins.steadyregeneration ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'GoldenJude_JudesEquipment ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'com.alexanderstrada.rrrcore ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Loading the eggs
+[Info   : Unity Log] Loading the eggs
+[Info   : Unity Log] Trying to register Prefabs
+[Info   : Unity Log] Loading the eggs
+[Info   : Unity Log] Loading the eggs
+[Info   : Unity Log] Loading the eggs
+[Info   : Unity Log] Loading the eggs
+[Info   : Unity Log] Loading the eggs
+[Info   : Unity Log] Loading the eggs
+[Info   :Valheim Performance Optimizations] Patched 29 prefabs
+[Info   :Jotunn.Managers.PrefabManager] Adding 516 custom prefabs to the ZNetScene
+[Info   :  Basement] No suitable material found to replace: void
+[Info   :Jotunn.Managers.ItemManager] Adding 105 custom items to the ObjectDB
+[Info   :Jotunn.Managers.ItemManager] Adding 89 custom recipes to the ObjectDB
+[Info   :Jotunn.Managers.ItemManager] Adding 31 custom status effects to the ObjectDB
+[Info   :Jotunn.Managers.ItemManager] Adding 8 custom item conversions
+[Warning:RRRMonsters] True
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LeatherBelt
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverRing
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_GoldRubyRing
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_BoneSkeletonTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EyeGreydwarfTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_AntlerDeerTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_HideTrollTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_CoreSurtlingTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FreezeGlandDrakeTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DragonTearRunestone
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_YagluthThingRunestone
+[Info   : Unity Log] Trying to register Items
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_bosses/rrrnpcs.custom.LaughingRylan_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_minibosses/rrrnpcs.custom.AshVexx_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_minibosses/rrrnpcs.custom.CinderMortem_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_minibosses/rrrnpcs.custom.CrisenthShadowsoul_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_minibosses/rrrnpcs.custom.DravenNox_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_minibosses/rrrnpcs.custom.EchoBlack_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_minibosses/rrrnpcs.custom.FirionWinter_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_minibosses/rrrnpcs.custom.GrailThornheart_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_minibosses/rrrnpcs.custom.JaydenShadowmend_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_minibosses/rrrnpcs.custom.LazarusAutumn_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_minibosses/rrrnpcs.custom.LazarusDeamonne_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_minibosses/rrrnpcs.custom.LincolnHunt_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_minibosses/rrrnpcs.custom.LuxFrost_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_minibosses/rrrnpcs.custom.MathianSerphent_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_minibosses/rrrnpcs.custom.SceledrusShadowend_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_minibosses/rrrnpcs.custom.UpirGrim_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_minibosses/rrrnpcs.custom.ZaineEvilian_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_npcs/rrrnpcs.custom.Assassin_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_npcs/rrrnpcs.custom.Brigand_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_npcs/rrrnpcs.custom.GrayWolf_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_npcs/rrrnpcs.custom.Milamber_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_npcs/rrrnpcs.custom.NomadBerserker_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_npcs/rrrnpcs.custom.NomadShaman_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_npcs/rrrnpcs.custom.Nomad_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_npcs/rrrnpcs.custom.Scoundrel_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_npcs/rrrnpcs.custom.ShadowGuard_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_npcs/rrrnpcs.custom.ShadowMaster_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_npcs/rrrnpcs.custom.ShadowSentinel_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_npcs/rrrnpcs.custom.ShadowWarrior_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_npcs/rrrnpcs.custom.Shadow_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_npcs/rrrnpcs.custom.Stalker_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_npcs/rrrnpcs.custom.Theif_DoD.json
+[Info   :   RRRNpcs] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_npcs/rrrnpcs.custom.Thief_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_bosses/rrrmonsters.custom.Anubisath_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_bosses/rrrmonsters.custom.Bhygshan_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_bosses/rrrmonsters.custom.Bitterstump_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_bosses/rrrmonsters.custom.IceGolemCR_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_bosses/rrrmonsters.custom.Neige_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_bosses/rrrmonsters.custom.ObsidianGolemCR_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_bosses/rrrmonsters.custom.SkeletonCR_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_bosses/rrrmonsters.custom.SkirSandburst_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_bosses/rrrmonsters.custom.WolfCR_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_bosses/rrrmonsters.custom.WolfForestCR_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_bosses/rrrmonsters.custom.Zena_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.BearMountain_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.Bear_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.BlackSpider_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.ElderSpawn_BF_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.ElderSpawn_ML_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.FireGolem_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.FlameDrake_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.FlameSpider_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.FrostSpider_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.Frostling_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.GhostWarrior_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.GrayWolfT_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.GreaterFenring_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.IceDrake_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.IceOgre_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.IceSpider_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.IceTroll_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.JumpingSpider_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.KrakenLD_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.LavaGolem_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.Lich_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.Molluscan_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.SkeletonWarrior_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.SmallBlackSpider_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.Stormling_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.Tormented_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.TreeSpider_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.Trickster_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.Vanquished_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.Vilesquito_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.VoidSpider_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/rrrmonsters.custom.Voidling_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/Dungeons/rrrmonsters.custom.DraugrMV_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/Dungeons/rrrmonsters.custom.Draugr_EliteMV_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/Dungeons/rrrmonsters.custom.Draugr_RangedMV_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_mobs/Dungeons/rrrmonsters.custom.SkeletonMageBC_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_raids/rrrmonsters.custom.Phantasm_A_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_raids/rrrmonsters.custom.Phantasm_B_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_raids/rrrmonsters.custom.Phantasm_C_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_raids/rrrmonsters.custom.Phantasm_D_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_raids/rrrmonsters.custom.Phantasm_E_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_raids/rrrmonsters.custom.Phantasm_F_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_raids/rrrmonsters.custom.Phantasm_G_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_raids/rrrmonsters.custom.Phantasm_H_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.BlobElite_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.Blob_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.Boar_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.Deathsquito_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.Draugr_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.Draugr_Elite_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.Draugr_Ranged_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.Fenring_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.Ghost_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.GoblinArcher_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.GoblinBrute_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.GoblinShaman_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.Goblin_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.Greydwarf_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.Greydwarf_Elite_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.Greydwarf_Shaman_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.Greyling_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.Hatchling_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.Leech_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.Lox_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.Neck_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.Serpent_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.Skeleton_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.Skeleton_NoArcher_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.Skeleton_Poison_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.StoneGolem_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.Surtling_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.Troll_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.Wolf_DoD.json
+[Info   :RRRMonsters] Loading: /opt/valheim/bepinex/BepInEx/config/Do or Die SE/dod_vanilla_50/rrrmonsters.custom.Wraith_DoD.json
+[Info   : Unity Log] 10/21/2021 19:47:30: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 10/21/2021 19:47:30: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 10/21/2021 19:47:30: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 10/21/2021 19:47:30: Loaded localization CSV:localization_extra language:English
+
+[Info   :Jotunn.Managers.PieceManager] Adding 8 custom piece table categories
+[Info   :Jotunn.Managers.PieceManager] Adding 264 custom pieces to the PieceTables
+[Info   :Jotunn.Managers.MockManager] Destroying Mock prefabs
+[Info   : Unity Log] Updated Status Effect: AoE Lesser HoT
+[Info   : Unity Log] Updated Status Effect: AoE HoT
+[Info   : Unity Log] Updated Status Effect: AoE Greater HoT
+[Info   : Unity Log] Updated Status Effect: AoE Lesser Regen
+[Info   : Unity Log] Updated Status Effect: AoE Regen
+[Info   : Unity Log] Updated Status Effect: AoE Greater Regen
+[Info   : Unity Log] Updated Status Effect: AoE Lesser Shield
+[Info   : Unity Log] Updated Status Effect: AoE Shield
+[Info   : Unity Log] Updated Status Effect: AoE Greater Shield
+[Info   : Unity Log] Updated Status Effect: AoE Lesser Bleeding
+[Info   : Unity Log] Updated Status Effect: AoE Bleeding
+[Info   : Unity Log] Updated Status Effect: AoE Greater Bleeding
+[Info   : Unity Log] Updated Status Effect: AoE Infected
+[Info   : Unity Log] Updated Status Effect: AoE Diseased
+[Info   : Unity Log] Updated Status Effect: AoE Weak
+[Info   : Unity Log] Updated Status Effect: AoE Bitterstump Heal
+[Info   : Unity Log] Updated Status Effect: AoE Skir Sandburst Nova
+[Info   : Unity Log] Updated Status Effect: AoE Rogue Sword
+[Info   : Unity Log] Updated Status Effect: AoE Druid Spear
+[Info   : Unity Log] Updated AttackSE: SkirSandburst_Shield_DoD
+[Info   : Unity Log] Updated AttackSE: SkirSandburst_Heal_DoD
+[Info   : Unity Log] Updated AttackSE: Bitterstump_Heal_DoD
+[Info   : Unity Log] Updated AttackSE: Rambore_Gore_DoD
+[Info   : Unity Log] Updated AttackSE: Farkas_FrostBite_DoD
+[Info   : Unity Log] Updated AttackSE: Farkas_Hamper_Attack_DoD
+[Info   : Unity Log] Updated AttackSE: Farkas_Bleed_DoD
+[Info   : Unity Log] Updated AttackSE: Bhygshan_SprayFrost_DoD
+[Info   : Unity Log] Updated AttackSE: Bitterstump_SprayFrost_DoD
+[Info   : Unity Log] Updated AttackSE: Bhygshan_Fireball_DoD
+[Info   : Unity Log] Updated AttackSE: Skir_Voidbolt_Projectile_DoD
+[Info   : Unity Log] 10/21/2021 19:47:32: Audioman already exist, destroying self
+
+[Info   : PlantEverything] Authoritative Config Registered
+[Info   :Better Wards] Config RPC Registered
+[Info   : Unity Log] 10/21/2021 19:47:46: Zonesystem Start 8
+
+[Info   : Unity Log] 10/21/2021 19:47:47: Added 3 locations from locations_cp1
+
+[Info   : Unity Log] 10/21/2021 19:47:47: Forgotten_Biomes: Error while generating Vegetation > Value cannot be null.
+Parameter name: source
+
+[Info   : Unity Log] 10/21/2021 19:47:47: DungeonDB Start 8
+
+[Info   : Unity Log] 10/21/2021 19:47:47: Load world DDWYNeu
+
+[Info   : Unity Log] 10/21/2021 19:47:47: Loading 502002 zdos , my id 1045978466 data version:28
+
+[Info   : Unity Log] 10/21/2021 19:47:53: Loaded 100000 dead zdos
+
+[Info   : Unity Log] 10/21/2021 19:47:53: Removed 0 OLD generated ZDOS
+
+[Info   : Unity Log] 10/21/2021 19:47:53: Loaded 7440 locations
+
+[Info   : Unity Log] 10/21/2021 19:47:53: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+
+[Info   : Unity Log] 10/21/2021 19:47:53: New connection
+
+[Info   : Unity Log] 10/21/2021 19:47:53: Accepting connection k_EResultInvalidState
+
+[Info   : Unity Log] 10/21/2021 19:47:53: Got status changed msg k_ESteamNetworkingConnectionState_ClosedByPeer
+
+[Info   : Unity Log] 10/21/2021 19:47:53: Socket closed by peer Steamworks.SteamNetConnectionStatusChangedCallback_t
+
+[Info   : Unity Log] 10/21/2021 19:48:01: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+
+[Info   : Unity Log] 10/21/2021 19:48:01: New connection
+
+[Info   : Unity Log] 10/21/2021 19:48:01: Accepting connection k_EResultOK
+
+[Info   : Unity Log] 10/21/2021 19:48:01: Connecting to Steamworks.SteamNetworkingIdentity
+
+[Info   : Unity Log] 10/21/2021 19:48:01: Got status changed msg k_ESteamNetworkingConnectionState_Connected
+
+[Info   : Unity Log] 10/21/2021 19:48:01: Connected
+
+[Info   : Unity Log] 10/21/2021 19:48:01: Got connection SteamID 76561198044239882
+
+[Info   :Better Wards] Registering version RPC handler
+[Info   :Better Wards] Invoking version check
+[Info   :Better Wards] Version check, local: 1.6.4,  remote: 1.6.4
+[Info   :Better Wards] Adding peer (76561198044239882) to validated list
+[Info   : Unity Log] 10/21/2021 19:48:01: Got handshake from client 76561198044239882
+
+[Message:Custom Raids] Received request for configs.
+[Message:Spawn That!] Sending location data.
+[Message:Spawn That!] Sending  request for configs.
+[Message:Drop That!] Sending location data.
+[Message:Drop That!] Finished sending locations package.
+[Message:Drop That!] Received request for configs.
+[Info   : Unity Log] 10/21/2021 19:48:37: VERSION check their:0.203.11-OdinPlusQOL0.3.4-MagicOverhaul1.5.2-ServerCharacters  mine:0.203.11-MagicOverhaul1.5.2-ServerCharacters
+
+[Info   : Unity Log] 10/21/2021 19:48:37: Peer 76561198044239882 has incompatible version, mine:0.203.11-MagicOverhaul1.5.2-ServerCharacters remote 0.203.11-OdinPlusQOL0.3.4-MagicOverhaul1.5.2-ServerCharacters
+
+[Info   : Unity Log] [MAGIC OVERHAUL] 76561198044239882 connecting: Admin status: False
+[Info   : Unity Log] 10/21/2021 19:48:37:   failed to load /home/valheim/.config/unity3d/IronGate/Valheim/characters/76561198044239882_.fch
+
+[Info   :Jotunn.Managers.SynchronizationManager] Sending initial data to peer #0
+[Info   : Unity Log] 10/21/2021 19:48:37: RPC_Disconnect 
+
+[Info   :Better Wards] Peer (76561198044239882) disconnected, removing from validated list
+[Info   : Unity Log] 10/21/2021 19:48:37: Disposing socket
+
+[Info   : Unity Log] 10/21/2021 19:48:37: Closing socket 76561198044239882
+
+[Info   : Unity Log] 10/21/2021 19:48:37:   send queue size:0
+
+[Info   : Unity Log] 10/21/2021 19:48:37: Disposing socket
+
+[Info   : Unity Log] 10/21/2021 19:48:37: Got status changed msg k_ESteamNetworkingConnectionState_ClosedByPeer
+
+[Info   : Unity Log] 10/21/2021 19:48:37: Socket closed by peer Steamworks.SteamNetConnectionStatusChangedCallback_t
+
+[Info   : Unity Log] 10/21/2021 19:48:37: Got status changed msg k_ESteamNetworkingConnectionState_None
+
+[Info   : Unity Log] 10/21/2021 19:57:55:  Connections 0 ZDOS:502002  sent:0 recv:0
+
+[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
+[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
+[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
+[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
+[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
+[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
+[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
+[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
+[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
+[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control CreatureConfig*.yml yml config
+[Info   : Unity Log] Successfully reloaded Creature Level & Loot Control ItemConfig*.yml yml config
+[Info   : Unity Log] 10/21/2021 20:01:33: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+
+[Info   : Unity Log] 10/21/2021 20:01:33: New connection
+
+[Info   : Unity Log] 10/21/2021 20:01:33: Accepting connection k_EResultOK
+
+[Info   : Unity Log] 10/21/2021 20:01:33: Connecting to Steamworks.SteamNetworkingIdentity
+
+[Info   : Unity Log] 10/21/2021 20:01:33: Got status changed msg k_ESteamNetworkingConnectionState_Connected
+
+[Info   : Unity Log] 10/21/2021 20:01:33: Connected
+
+[Info   : Unity Log] 10/21/2021 20:01:33: Got connection SteamID 76561198044239882
+
+[Info   :Better Wards] Registering version RPC handler
+[Info   :Better Wards] Invoking version check
+[Info   :Better Wards] Version check, local: 1.6.4,  remote: 1.6.4
+[Info   :Better Wards] Adding peer (76561198044239882) to validated list
+[Info   : Unity Log] 10/21/2021 20:01:33: Got handshake from client 76561198044239882
+
+[Message:Custom Raids] Received request for configs.
+[Message:Spawn That!] Sending location data.
+[Message:Spawn That!] Sending  request for configs.
+[Message:Drop That!] Sending location data.
+[Message:Drop That!] Finished sending locations package.
+[Message:Drop That!] Received request for configs.
+[Info   : Unity Log] 10/21/2021 20:01:52: VERSION check their:0.203.11-MagicOverhaul1.5.2-ServerCharacters  mine:0.203.11-MagicOverhaul1.5.2-ServerCharacters
+
+[Info   : Unity Log] 10/21/2021 20:01:52: Server: New peer connected,sending global keys
+
+[Info   : Unity Log] [MAGIC OVERHAUL] 76561198044239882 connecting: Admin status: False
+[Info   : Unity Log] 10/21/2021 20:01:52:   failed to load /home/valheim/.config/unity3d/IronGate/Valheim/characters/76561198044239882_Xox.fch
+
+[Info   :Jotunn.Managers.SynchronizationManager] Sending initial data to peer #2162439580
+[Info   : Unity Log] 10/21/2021 20:01:54: RPC_Disconnect 
+
+[Info   :Better Wards] Peer (76561198044239882) disconnected, removing from validated list
+[Info   : Unity Log] 10/21/2021 20:01:54: Disposing socket
+
+[Info   : Unity Log] 10/21/2021 20:01:54: Closing socket 76561198044239882
+
+[Info   : Unity Log] 10/21/2021 20:01:54:   send queue size:0
+
+[Info   : Unity Log] 10/21/2021 20:01:54: Disposing socket
+
+[Info   : Unity Log] 10/21/2021 20:01:54: Got status changed msg k_ESteamNetworkingConnectionState_ClosedByPeer
+
+[Info   : Unity Log] 10/21/2021 20:01:54: Socket closed by peer Steamworks.SteamNetConnectionStatusChangedCallback_t
+
+[Info   : Unity Log] 10/21/2021 20:01:54: Got status changed msg k_ESteamNetworkingConnectionState_None
+
+[Info   : Unity Log] 10/21/2021 20:02:19: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+
+[Info   : Unity Log] 10/21/2021 20:02:19: New connection
+
+[Info   : Unity Log] 10/21/2021 20:02:20: Accepting connection k_EResultOK
+
+[Info   : Unity Log] 10/21/2021 20:02:20: Connecting to Steamworks.SteamNetworkingIdentity
+
+[Info   : Unity Log] 10/21/2021 20:02:20: Got status changed msg k_ESteamNetworkingConnectionState_Connected
+
+[Info   : Unity Log] 10/21/2021 20:02:20: Connected
+
+[Info   : Unity Log] 10/21/2021 20:02:20: Got connection SteamID 76561198044239882
+
+[Info   :Better Wards] Registering version RPC handler
+[Info   :Better Wards] Invoking version check
+[Info   :Better Wards] Version check, local: 1.6.4,  remote: 1.6.4
+[Info   :Better Wards] Adding peer (76561198044239882) to validated list
+[Info   : Unity Log] 10/21/2021 20:02:20: Got handshake from client 76561198044239882
+
+[Message:Custom Raids] Received request for configs.
+[Message:Spawn That!] Sending location data.
+[Message:Spawn That!] Sending  request for configs.
+[Message:Drop That!] Sending location data.
+[Message:Drop That!] Finished sending locations package.
+[Message:Drop That!] Received request for configs.
+[Info   : Unity Log] 10/21/2021 20:03:42: VERSION check their:0.203.11-MagicOverhaul1.5.2-ServerCharacters  mine:0.203.11-MagicOverhaul1.5.2-ServerCharacters
+
+[Info   : Unity Log] 10/21/2021 20:03:42: Server: New peer connected,sending global keys
+
+[Info   : Unity Log] [MAGIC OVERHAUL] 76561198044239882 connecting: Admin status: False
+[Info   : Unity Log] 10/21/2021 20:03:42:   failed to load /home/valheim/.config/unity3d/IronGate/Valheim/characters/76561198044239882_Xox.fch
+
+[Info   :Jotunn.Managers.SynchronizationManager] Sending initial data to peer #1668715616
+[Info   : Unity Log] 10/21/2021 20:03:45: RPC_Disconnect 
+
+[Info   :Better Wards] Peer (76561198044239882) disconnected, removing from validated list
+[Info   : Unity Log] 10/21/2021 20:03:45: Disposing socket
+
+[Info   : Unity Log] 10/21/2021 20:03:45: Closing socket 76561198044239882
+
+[Info   : Unity Log] 10/21/2021 20:03:45:   send queue size:0
+
+[Info   : Unity Log] 10/21/2021 20:03:45: Disposing socket
+
+[Info   : Unity Log] 10/21/2021 20:03:45: Got status changed msg k_ESteamNetworkingConnectionState_ClosedByPeer
+
+[Info   : Unity Log] 10/21/2021 20:03:45: Socket closed by peer Steamworks.SteamNetConnectionStatusChangedCallback_t
+
+[Info   : Unity Log] 10/21/2021 20:03:45: Got status changed msg k_ESteamNetworkingConnectionState_None
+
